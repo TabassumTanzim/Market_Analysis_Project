@@ -1,0 +1,661 @@
+Rank,Category,Company,Employees,Country
+1, 💊 Pharmaceuticals,Walgreens Boots Alliance,"325,000",USA
+2, 💊 Pharmaceuticals,CVS Health,"219,000",USA
+3, 💊 Pharmaceuticals,Johnson & Johnson,"152,700",USA
+4, 💊 Pharmaceuticals,Sinopharm,"114,766",China
+5, 💊 Pharmaceuticals,Roche,"103,613",Switzerland
+6, 💊 Pharmaceuticals,Bayer,"101,735",Germany
+7, 💊 Pharmaceuticals,Novartis,"101,703",Switzerland
+8, 💊 Pharmaceuticals,Sanofi,"91,573",France
+9, 💊 Pharmaceuticals,AstraZeneca,"83,500",UK
+10, 💊 Pharmaceuticals,Pfizer,"83,000",USA
+11, 💊 Pharmaceuticals,LabCorp,"80,000",USA
+12, 💊 Pharmaceuticals,GlaxoSmithKline,"69,400",UK
+13, 💊 Pharmaceuticals,Merck,"67,000",USA
+14, 💊 Pharmaceuticals,China Resources Pharmaceutical Group,"67,000",Hong Kong
+15, 💊 Pharmaceuticals,Merck KGaA,"64,011",Germany
+16, 💊 Pharmaceuticals,Baxter,"60,000",USA
+17, 💊 Pharmaceuticals,Novo Nordisk,"57,089",Denmark
+18, 💊 Pharmaceuticals,AbbVie,"50,000",USA
+19, 💊 Pharmaceuticals,Takeda Pharmaceutical,"49,095",Japan
+20, 💊 Pharmaceuticals,Rite Aid,"47,000",USA
+21, 💊 Pharmaceuticals,WuXi AppTec,"43,800",China
+22, 💊 Pharmaceuticals,ICON plc,"41,150",Ireland
+23, 💊 Pharmaceuticals,Eli Lilly,"39,000",USA
+24, 💊 Pharmaceuticals,Sun Pharmaceutical,"38,000",India
+25, 💊 Pharmaceuticals,Viatris,"38,000",USA
+26, 💊 Pharmaceuticals,Bristol-Myers Squibb,"34,300",USA
+27, 💊 Pharmaceuticals,Teva Pharmaceutical Industries,"34,004",Israel
+28, 💊 Pharmaceuticals,Otsuka Holdings,"33,482",Japan
+29, 💊 Pharmaceuticals,CSL,"30,000",Australia
+30, 💊 Pharmaceuticals,Sino Biopharmaceutical,"26,272",China
+31, 💊 Pharmaceuticals,Cipla,"25,927",India
+32, 💊 Pharmaceuticals,Dr. Reddy's,"25,863",India
+33, 💊 Pharmaceuticals,Amgen,"25,200",USA
+34, 💊 Pharmaceuticals,Grifols,"24,000",Spain
+35, 💊 Pharmaceuticals,Zydus Lifesciences,"23,000",India
+36, 💊 Pharmaceuticals,Lupin Limited,"20,933",India
+37, 💊 Pharmaceuticals,Jiangsu Hengrui Medicine,"20,636",China
+38, 💊 Pharmaceuticals,Bausch Health,"19,900",Canada
+39, 💊 Pharmaceuticals,Catalent,"19,000",USA
+40, 💊 Pharmaceuticals,Lonza,"17,494",Switzerland
+41, 💊 Pharmaceuticals,Daiichi Sankyō,"17,435",Japan
+42, 💊 Pharmaceuticals,Gilead Sciences,"17,000",USA
+43, 💊 Pharmaceuticals,Alkem Laboratories,"16,966",India
+44, 💊 Pharmaceuticals,Divis Laboratories,"16,543",India
+45, 💊 Pharmaceuticals,Clicks Group,"16,492",South Africa
+46, 💊 Pharmaceuticals,Ipca Laboratories,"16,167",India
+47, 💊 Pharmaceuticals,Aurobindo Pharma,"15,431",India
+48, 💊 Pharmaceuticals,Glenmark Pharmaceuticals,"15,415",India
+49, 💊 Pharmaceuticals,Biocon,"15,000",India
+50, 💊 Pharmaceuticals,Alembic Pharmaceuticals,"14,593",India
+51, 💊 Pharmaceuticals,Astellas Pharma,"14,484",Japan
+52, 💊 Pharmaceuticals,Zoetis,"13,800",USA
+53, 💊 Pharmaceuticals,Torrent Pharmaceuticals,"13,247",India
+54, 💊 Pharmaceuticals,WuXi Biologics,"12,373",China
+55, 💊 Pharmaceuticals,Richter Gedeon,"12,167",Hungary
+56, 💊 Pharmaceuticals,Regeneron Pharmaceuticals,"12,099",USA
+57, 💊 Pharmaceuticals,Eisai,"11,076",Japan
+58, 💊 Pharmaceuticals,West Pharmaceutical,"10,700",USA
+59, 💊 Pharmaceuticals,Hansoh Pharma,"10,523",China
+60, 💊 Pharmaceuticals,Organon,"10,000",USA
+61, 💊 Pharmaceuticals,BeiGene,"9,400",China
+62, 💊 Pharmaceuticals,Elanco,"9,000",USA
+63, 💊 Pharmaceuticals,Perrigo,"8,900",Ireland
+64, 💊 Pharmaceuticals,Hikma Pharmaceuticals,"8,800",UK
+65, 💊 Pharmaceuticals,Taisho Pharmaceutical,"8,784",Japan
+66, 💊 Pharmaceuticals,Biogen,"8,725",USA
+67, 💊 Pharmaceuticals,Aspen Pharmacare,"8,580",South Africa
+68, 💊 Pharmaceuticals,UCB,"8,108",Belgium
+69, 💊 Pharmaceuticals,Chugai Pharmaceutical,"7,771",Japan
+70, 💊 Pharmaceuticals,Amneal Pharmaceuticals,"7,600",USA
+71, 💊 Pharmaceuticals,Rohto Pharmaceutical,"7,176",Japan
+72, 💊 Pharmaceuticals,FDC India,"6,336",India
+73, 💊 Pharmaceuticals,Piramal Pharma,"6,295",India
+74, 💊 Pharmaceuticals,Sumitomo Pharma,"6,250",Japan
+75, 💊 Pharmaceuticals,Indoco Remedies,"6,000",India
+76, 💊 Pharmaceuticals,Jubilant Pharmova,"6,000",India
+77, 💊 Pharmaceuticals,kyowa Kirin,"5,982",Japan
+78, 💊 Pharmaceuticals,Laurus Labs,"5,753",India
+79, 💊 Pharmaceuticals,Shionogi,"5,680",Japan
+80, 💊 Pharmaceuticals,Lundbeck,"5,500",Denmark
+81, 💊 Pharmaceuticals,Procaps Group,"5,500",Luxembourg
+82, 💊 Pharmaceuticals,Medpace,"5,400",USA
+83, 💊 Pharmaceuticals,Virbac SA,"5,386",France
+84, 💊 Pharmaceuticals,BioNTech,"5,100",Germany
+85, 💊 Pharmaceuticals,Ipsen,"5,072",France
+86, 💊 Pharmaceuticals,Evotec,"4,952",Germany
+87, 💊 Pharmaceuticals,Vertex Pharmaceuticals,"4,800",USA
+88, 💊 Pharmaceuticals,Gland Pharma,"4,752",India
+89, 💊 Pharmaceuticals,Recordati,"4,369",Italy
+90, 💊 Pharmaceuticals,Santen Pharmaceutical,"4,144",Japan
+91, 💊 Pharmaceuticals,Natco Pharma,"4,025",India
+92, 💊 Pharmaceuticals,Moderna,"3,900",USA
+93, 💊 Pharmaceuticals,Ono Pharmaceutical,"3,761",Japan
+94, 💊 Pharmaceuticals,Abbott India,"3,700",India
+95, 💊 Pharmaceuticals,Orion Corporation,"3,527",Finland
+96, 💊 Pharmaceuticals,KOBAYASHI Pharmaceutical,"3,495",Japan
+97, 💊 Pharmaceuticals,Siegfried Holding,"3,411",Switzerland
+98, 💊 Pharmaceuticals,Seagen,"3,256",USA
+99, 💊 Pharmaceuticals,Hualan Biological Engineering,"3,243",China
+100, 💊 Pharmaceuticals,Galenica,"3,241",Switzerland
+101, 💊 Pharmaceuticals,BioMarin Pharmaceutical,"3,082",USA
+102, 💊 Pharmaceuticals,Fagron,"3,035",Belgium
+103, 💊 Pharmaceuticals,Bio-Techne,"3,000",USA
+104, 💊 Pharmaceuticals,Endo International,"2,861",Ireland
+105, 💊 Pharmaceuticals,Jazz Pharmaceuticals,"2,800",Ireland
+106, 💊 Pharmaceuticals,ALK-Abelló,"2,712",Denmark
+107, 💊 Pharmaceuticals,Mallinckrodt Pharmaceuticals,"2,673",UK
+108, 💊 Pharmaceuticals,Sanofi India Limited,"2,651",India
+109, 💊 Pharmaceuticals,Strides Pharma,"2,647",India
+110, 💊 Pharmaceuticals,Emergent BioSolutions,"2,500",USA
+111, 💊 Pharmaceuticals,Akeso,"2,341",China
+112, 💊 Pharmaceuticals,Incyte,"2,324",USA
+113, 💊 Pharmaceuticals,Alkermes,"2,280",Ireland
+114, 💊 Pharmaceuticals,Biotest,"2,228",Germany
+115, 💊 Pharmaceuticals,Nippon Shinyaku,"2,186",Japan
+116, 💊 Pharmaceuticals,Horizon Therapeutics,"2,145",Ireland
+117, 💊 Pharmaceuticals,KYORIN Pharmaceutical,"2,138",Japan
+118, 💊 Pharmaceuticals,Inotiv,"2,099",USA
+119, 💊 Pharmaceuticals,Zai Lab,"2,036",China
+120, 💊 Pharmaceuticals,Alnylam Pharmaceuticals,"2,002",USA
+121, 💊 Pharmaceuticals,Dechra Pharmaceuticals,"1,998",UK
+122, 💊 Pharmaceuticals,Laboratorios Farmaceuticos Rovi,"1,993",Spain
+123, 💊 Pharmaceuticals,Novavax,"1,992",USA
+124, 💊 Pharmaceuticals,Hikal,"1,906",India
+125, 💊 Pharmaceuticals,Genmab,"1,846",Denmark
+126, 💊 Pharmaceuticals,Almirall,"1,814",Spain
+127, 💊 Pharmaceuticals,Bachem,"1,776",Switzerland
+128, 💊 Pharmaceuticals,Sequent Scientific,"1,771",India
+129, 💊 Pharmaceuticals,Tilray,"1,700",Canada
+130, 💊 Pharmaceuticals,Faes Farma,"1,690",Spain
+131, 💊 Pharmaceuticals,Nectar Lifesciences,"1,669",India
+132, 💊 Pharmaceuticals,Amphastar Pharmaceuticals,"1,615",USA
+133, 💊 Pharmaceuticals,Swedish Orphan Biovitrum,"1,554",Sweden
+134, 💊 Pharmaceuticals,Neuland Laboratories,"1,554",India
+135, 💊 Pharmaceuticals,Taro Pharmaceutical,"1,554",Israel
+136, 💊 Pharmaceuticals,Aarti Drugs,"1,450",India
+137, 💊 Pharmaceuticals,Marksans Pharma,"1,412",India
+138, 💊 Pharmaceuticals,PTC Therapeutics,"1,402",USA
+139, 💊 Pharmaceuticals,Legend Biotech,"1,390",USA
+140, 💊 Pharmaceuticals,Galapagos NV,"1,338",Belgium
+141, 💊 Pharmaceuticals,Ultragenyx,"1,311",USA
+142, 💊 Pharmaceuticals,Neurocrine Biosciences,"1,300",USA
+143, 💊 Pharmaceuticals,Ginkgo Bioworks,"1,292",USA
+144, 💊 Pharmaceuticals,HUTCHMED,"1,280",Hong Kong
+145, 💊 Pharmaceuticals,Exelixis,"1,223",USA
+146, 💊 Pharmaceuticals,PolyPeptide Group,"1,219",Switzerland
+147, 💊 Pharmaceuticals,RPG Life Sciences,"1,214",India
+148, 💊 Pharmaceuticals,Sarepta Therapeutics,"1,162",USA
+149, 💊 Pharmaceuticals,Bavarian Nordic,"1,040",Denmark
+150, 💊 Pharmaceuticals,Indivior PLC,"1,000",USA
+151, 💊 Pharmaceuticals,United Therapeutics,985,USA
+152, 💊 Pharmaceuticals,Alvotech,917,Iceland
+153, 💊 Pharmaceuticals,Curevac,904,Germany
+154, 💊 Pharmaceuticals,Roivant Sciences,904,UK
+155, 💊 Pharmaceuticals,Argenx,843,Netherlands
+156, 💊 Pharmaceuticals,Shinpoong Pharm,815,S. Korea
+157, 💊 Pharmaceuticals,Sorrento Therapeutics,799,USA
+158, 💊 Pharmaceuticals,Ascendis Pharma,797,Denmark
+159, 💊 Pharmaceuticals,Ionis Pharmaceuticals,796,USA
+160, 💊 Pharmaceuticals,Adaptive Biotechnologies,790,USA
+161, 💊 Pharmaceuticals,Glaukos,783,USA
+162, 💊 Pharmaceuticals,Bliss GVS Pharma,763,India
+163, 💊 Pharmaceuticals,Valneva SE,719,France
+164, 💊 Pharmaceuticals,ImmunityBio,703,USA
+165, 💊 Pharmaceuticals,Lifecore Biomedical,689,USA
+166, 💊 Pharmaceuticals,Sage Therapeutics,689,USA
+167, 💊 Pharmaceuticals,PeptiDream,670,Japan
+168, 💊 Pharmaceuticals,Blueprint Medicines,651,USA
+169, 💊 Pharmaceuticals,Maravai LifeSciences,650,USA
+170, 💊 Pharmaceuticals,Morphosys,623,Germany
+171, 💊 Pharmaceuticals,ADMA Biologics,617,USA
+172, 💊 Pharmaceuticals,Supernus Pharmaceuticals,612,USA
+173, 💊 Pharmaceuticals,ANI Pharmaceuticals,600,USA
+174, 💊 Pharmaceuticals,Intellia Therapeutics,598,USA
+175, 💊 Pharmaceuticals,FibroGen,592,USA
+176, 💊 Pharmaceuticals,Mirati Therapeutics,587,USA
+177, 💊 Pharmaceuticals,Hester Biosciences,584,India
+178, 💊 Pharmaceuticals,Olink Holding,582,Sweden
+179, 💊 Pharmaceuticals,Intra-Cellular Therapies,561,USA
+180, 💊 Pharmaceuticals,Fate Therapeutics,551,USA
+181, 💊 Pharmaceuticals,Medios AG,546,Germany
+182, 💊 Pharmaceuticals,ACADIA Pharmaceuticals,540,USA
+183, 💊 Pharmaceuticals,Adaptimmune Therapeutics,534,UK
+184, 💊 Pharmaceuticals,Agenus,533,USA
+185, 💊 Pharmaceuticals,BioCryst Pharmaceuticals,531,USA
+186, 💊 Pharmaceuticals,AbCellera,525,Canada
+187, 💊 Pharmaceuticals,Beam Therapeutics,523,USA
+188, 💊 Pharmaceuticals,Pharma Mar,515,Spain
+189, 💊 Pharmaceuticals,Iovance Biotherapeutics,503,USA
+190, 💊 Pharmaceuticals,uniQure,501,Netherlands
+191, 💊 Pharmaceuticals,Recursion Pharmaceuticals,500,USA
+192, 💊 Pharmaceuticals,Amicus Therapeutics,484,USA
+193, 💊 Pharmaceuticals,Exscientia,481,UK
+194, 💊 Pharmaceuticals,Sangamo Therapeutics,478,USA
+195, 💊 Pharmaceuticals,Travere Therapeutics,462,USA
+196, 💊 Pharmaceuticals,CRISPR Therapeutics,458,Switzerland
+197, 💊 Pharmaceuticals,Seres Therapeutics,431,USA
+198, 💊 Pharmaceuticals,2seventy bio,425,USA
+199, 💊 Pharmaceuticals,Sana Biotechnology,424,USA
+200, 💊 Pharmaceuticals,Arvinas,415,USA
+201, 💊 Pharmaceuticals,Cytokinetics,409,USA
+202, 💊 Pharmaceuticals,Immunocore,408,UK
+203, 💊 Pharmaceuticals,SPARC,403,India
+204, 💊 Pharmaceuticals,Immatics,402,Germany
+205, 💊 Pharmaceuticals,REGENXBIO,401,USA
+206, 💊 Pharmaceuticals,Autolus Therapeutics,399,UK
+207, 💊 Pharmaceuticals,Arrowhead Pharmaceuticals,397,USA
+208, 💊 Pharmaceuticals,Axsome Therapeutics,393,USA
+209, 💊 Pharmaceuticals,Halozyme Therapeutics,393,USA
+210, 💊 Pharmaceuticals,BridgeBio Pharma,392,USA
+211, 💊 Pharmaceuticals,MannKind Corp,391,USA
+212, 💊 Pharmaceuticals,Agios Pharmaceuticals,389,USA
+213, 💊 Pharmaceuticals,Karyopharm Therapeutics,385,USA
+214, 💊 Pharmaceuticals,Kamada,380,Israel
+215, 💊 Pharmaceuticals,I-Mab Biopharma,378,China
+216, 💊 Pharmaceuticals,InterCure,370,Israel
+217, 💊 Pharmaceuticals,Avid Bioservices,365,USA
+218, 💊 Pharmaceuticals,Amarin Corporation,365,Ireland
+219, 💊 Pharmaceuticals,EQRx,362,USA
+220, 💊 Pharmaceuticals,Allogene Therapeutics,359,USA
+221, 💊 Pharmaceuticals,MacroGenics,357,USA
+222, 💊 Pharmaceuticals,Xeris Pharmaceuticals,355,USA
+223, 💊 Pharmaceuticals,Dynavax Technologies,351,USA
+224, 💊 Pharmaceuticals,MeiraGTx,343,USA
+225, 💊 Pharmaceuticals,Poseida Therapeutics,343,USA
+226, 💊 Pharmaceuticals,Intercept Pharmaceuticals,341,USA
+227, 💊 Pharmaceuticals,Pharming Group,332,Netherlands
+228, 💊 Pharmaceuticals,Atara Biotherapeutics,330,USA
+229, 💊 Pharmaceuticals,Relay Therapeutics,328,USA
+230, 💊 Pharmaceuticals,bluebird bio,323,USA
+231, 💊 Pharmaceuticals,Cerevel Therapeutics,319,USA
+232, 💊 Pharmaceuticals,ADC Therapeutics,317,Switzerland
+233, 💊 Pharmaceuticals,Gracell Biotechnologies,314,China
+234, 💊 Pharmaceuticals,Coherus BioSciences,307,USA
+235, 💊 Pharmaceuticals,Vericel,305,USA
+236, 💊 Pharmaceuticals,Zymeworks,304,Canada
+237, 💊 Pharmaceuticals,Aurinia Pharmaceuticals,300,Canada
+238, 💊 Pharmaceuticals,Corcept Therapeutics,299,USA
+239, 💊 Pharmaceuticals,Nurix Therapeutics,297,USA
+240, 💊 Pharmaceuticals,Amylyx Pharmaceuticals,296,USA
+241, 💊 Pharmaceuticals,Cosmo Pharmaceuticals,295,Ireland
+242, 💊 Pharmaceuticals,Sutro Biopharma,292,USA
+243, 💊 Pharmaceuticals,Vanda Pharmaceuticals,290,USA
+244, 💊 Pharmaceuticals,Xencor,281,USA
+245, 💊 Pharmaceuticals,IGM Biosciences,280,USA
+246, 💊 Pharmaceuticals,ImmunoGen,277,USA
+247, 💊 Pharmaceuticals,Societal CDMO,275,USA
+248, 💊 Pharmaceuticals,Ocular Therapeutix,274,USA
+249, 💊 Pharmaceuticals,Lyell Immunopharma,274,USA
+250, 💊 Pharmaceuticals,Alector,273,USA
+251, 💊 Pharmaceuticals,Arcutis Biotherapeutics,268,USA
+252, 💊 Pharmaceuticals,Rockwell Medical,253,USA
+253, 💊 Pharmaceuticals,Wave Life Sciences,250,Singapore
+254, 💊 Pharmaceuticals,Codexis,248,USA
+255, 💊 Pharmaceuticals,Adagene,248,China
+256, 💊 Pharmaceuticals,Rocket Pharmaceuticals,240,USA
+257, 💊 Pharmaceuticals,NGM Biopharmaceuticals,239,USA
+258, 💊 Pharmaceuticals,TG Therapeutics,237,USA
+259, 💊 Pharmaceuticals,Bicycle Therapeutics,236,UK
+260, 💊 Pharmaceuticals,Telix Pharmaceuticals,234,Australia
+261, 💊 Pharmaceuticals,Veru,233,USA
+262, 💊 Pharmaceuticals,Gritstone bio,233,USA
+263, 💊 Pharmaceuticals,Cellectis,231,France
+264, 💊 Pharmaceuticals,Mersana Therapeutics,228,USA
+265, 💊 Pharmaceuticals,SpringWorks Therapeutics,227,USA
+266, 💊 Pharmaceuticals,Editas Medicine,226,USA
+267, 💊 Pharmaceuticals,Celularity,225,USA
+268, 💊 Pharmaceuticals,CASI Pharmaceuticals,224,USA
+269, 💊 Pharmaceuticals,Evolus,224,USA
+270, 💊 Pharmaceuticals,Kiniksa Pharmaceuticals,220,Bermuda
+271, 💊 Pharmaceuticals,Zealand Pharma,220,Denmark
+272, 💊 Pharmaceuticals,Ironwood Pharmaceuticals,219,USA
+273, 💊 Pharmaceuticals,Affimed,219,Germany
+274, 💊 Pharmaceuticals,Harrow Health,217,USA
+275, 💊 Pharmaceuticals,Nektar Therapeutics,216,USA
+276, 💊 Pharmaceuticals,Innate Pharma,211,France
+277, 💊 Pharmaceuticals,Karuna Therapeutics,210,USA
+278, 💊 Pharmaceuticals,Krystal Biotech,210,USA
+279, 💊 Pharmaceuticals,Crinetics Pharmaceuticals,210,USA
+280, 💊 Pharmaceuticals,Precigen,209,USA
+281, 💊 Pharmaceuticals,Collegium Pharmaceutical,207,USA
+282, 💊 Pharmaceuticals,Akebia Therapeutics,204,USA
+283, 💊 Pharmaceuticals,Verve Therapeutics,204,USA
+284, 💊 Pharmaceuticals,Xenon Pharmaceuticals,203,Canada
+285, 💊 Pharmaceuticals,Heron Therapeutics,203,USA
+286, 💊 Pharmaceuticals,Harmony Biosciences,200,USA
+287, 💊 Pharmaceuticals,Mirum Pharmaceuticals,200,USA
+288, 💊 Pharmaceuticals,Esperion Therapeutics,199,USA
+289, 💊 Pharmaceuticals,JanOne,199,USA
+290, 💊 Pharmaceuticals,Cytosorbents,198,USA
+291, 💊 Pharmaceuticals,Precision BioSciences,197,USA
+292, 💊 Pharmaceuticals,Omeros Corporation,196,USA
+293, 💊 Pharmaceuticals,UroGen Pharma,194,USA
+294, 💊 Pharmaceuticals,Protalix BioTherapeutics,193,Israel
+295, 💊 Pharmaceuticals,Absci,193,USA
+296, 💊 Pharmaceuticals,Instil Bio,192,USA
+297, 💊 Pharmaceuticals,Puma Biotechnology,192,USA
+298, 💊 Pharmaceuticals,VBI Vaccines,190,USA
+299, 💊 Pharmaceuticals,Fortress Biotech,187,USA
+300, 💊 Pharmaceuticals,Avidity Biosciences,186,USA
+301, 💊 Pharmaceuticals,Inovio Pharmaceuticals,184,USA
+302, 💊 Pharmaceuticals,BioXcel Therapeutics,183,USA
+303, 💊 Pharmaceuticals,Calliditas Therapeutics,181,Sweden
+304, 💊 Pharmaceuticals,Repare Therapeutics,180,Canada
+305, 💊 Pharmaceuticals,Gossamer Bio,178,USA
+306, 💊 Pharmaceuticals,Rhythm Pharmaceuticals,177,USA
+307, 💊 Pharmaceuticals,Molecular Partners,175,Switzerland
+308, 💊 Pharmaceuticals,Prime Medicine,175,USA
+309, 💊 Pharmaceuticals,Kymera Therapeutics,174,USA
+310, 💊 Pharmaceuticals,Arcturus Therapeutics,170,USA
+311, 💊 Pharmaceuticals,G1 Therapeutics,170,USA
+312, 💊 Pharmaceuticals,Orchard Therapeutics,166,UK
+313, 💊 Pharmaceuticals,Nkarta,165,USA
+314, 💊 Pharmaceuticals,Aytu BioScience,164,USA
+315, 💊 Pharmaceuticals,Vaxart,164,USA
+316, 💊 Pharmaceuticals,Merus,164,Netherlands
+317, 💊 Pharmaceuticals,Immunovant,164,USA
+318, 💊 Pharmaceuticals,LianBio,163,USA
+319, 💊 Pharmaceuticals,Rani Therapeutics,163,USA
+320, 💊 Pharmaceuticals,Foghorn Therapeutics,161,USA
+321, 💊 Pharmaceuticals,Enanta Pharmaceuticals,160,USA
+322, 💊 Pharmaceuticals,Nykode Therapeutics,158,Norway
+323, 💊 Pharmaceuticals,Zentalis Pharmaceuticals,156,USA
+324, 💊 Pharmaceuticals,Rigel Pharmaceuticals,155,USA
+325, 💊 Pharmaceuticals,Nautilus Biotechnology,153,USA
+326, 💊 Pharmaceuticals,Marinus Pharmaceuticals,151,USA
+327, 💊 Pharmaceuticals,Generation Bio,150,USA
+328, 💊 Pharmaceuticals,Celldex Therapeutics,148,USA
+329, 💊 Pharmaceuticals,Y-mAbs Therapeutics,147,USA
+330, 💊 Pharmaceuticals,C4 Therapeutics,146,USA
+331, 💊 Pharmaceuticals,EyePoint Pharmaceuticals,144,USA
+332, 💊 Pharmaceuticals,Theratechnologies,144,Canada
+333, 💊 Pharmaceuticals,Gamida Cell,143,Israel
+334, 💊 Pharmaceuticals,OptiNose,141,USA
+335, 💊 Pharmaceuticals,Tenaya Therapeutics,141,USA
+336, 💊 Pharmaceuticals,Cogent Biosciences,138,USA
+337, 💊 Pharmaceuticals,4D Molecular Therapeutics,137,USA
+338, 💊 Pharmaceuticals,Pliant Therapeutics,136,USA
+339, 💊 Pharmaceuticals,TScan Therapeutics,136,USA
+340, 💊 Pharmaceuticals,Lexicon Pharmaceuticals,135,USA
+341, 💊 Pharmaceuticals,Eagle Pharmaceuticals,134,USA
+342, 💊 Pharmaceuticals,Ardelyx,133,USA
+343, 💊 Pharmaceuticals,Atai Life Sciences,133,Germany
+344, 💊 Pharmaceuticals,Vor Biopharma,133,USA
+345, 💊 Pharmaceuticals,Monte Rosa Therapeutics,133,USA
+346, 💊 Pharmaceuticals,Inhibrx,132,USA
+347, 💊 Pharmaceuticals,Adicet Bio,132,USA
+348, 💊 Pharmaceuticals,Kura Oncology,131,USA
+349, 💊 Pharmaceuticals,Aquestive Therapeutics,130,USA
+350, 💊 Pharmaceuticals,ProQR,130,Netherlands
+351, 💊 Pharmaceuticals,Entrada Therapeutics,130,USA
+352, 💊 Pharmaceuticals,Erasca,129,USA
+353, 💊 Pharmaceuticals,POINT Biopharma,129,USA
+354, 💊 Pharmaceuticals,Pieris Pharmaceuticals,127,USA
+355, 💊 Pharmaceuticals,Prothena,127,Ireland
+356, 💊 Pharmaceuticals,AC Immune,126,Switzerland
+357, 💊 Pharmaceuticals,Alpine Immune Sciences,126,USA
+358, 💊 Pharmaceuticals,Voyager Therapeutics,125,USA
+359, 💊 Pharmaceuticals,iTeos Therapeutics,125,USA
+360, 💊 Pharmaceuticals,Day One Biopharmaceuticals,125,USA
+361, 💊 Pharmaceuticals,MaxCyte,125,USA
+362, 💊 Pharmaceuticals,RVL Pharmaceuticals,125,USA
+363, 💊 Pharmaceuticals,Adverum Biotechnologies,123,USA
+364, 💊 Pharmaceuticals,Allakos,123,USA
+365, 💊 Pharmaceuticals,Prelude Therapeutics,122,USA
+366, 💊 Pharmaceuticals,Senti Biosciences,122,USA
+367, 💊 Pharmaceuticals,Silence Therapeutics,122,UK
+368, 💊 Pharmaceuticals,Graphite Bio,120,USA
+369, 💊 Pharmaceuticals,Avacta Group,120,UK
+370, 💊 Pharmaceuticals,Tonix Pharmaceuticals,117,USA
+371, 💊 Pharmaceuticals,Syros Pharmaceuticals,117,USA
+372, 💊 Pharmaceuticals,CytomX Therapeutics,116,USA
+373, 💊 Pharmaceuticals,Omega Therapeutics,116,USA
+374, 💊 Pharmaceuticals,Kodiak Sciences,115,USA
+375, 💊 Pharmaceuticals,Scholar Rock Holding,114,USA
+376, 💊 Pharmaceuticals,Redhill Biopharma,113,Israel
+377, 💊 Pharmaceuticals,ChromaDex,113,USA
+378, 💊 Pharmaceuticals,Phathom Pharmaceuticals,112,USA
+379, 💊 Pharmaceuticals,RAPT Therapeutics,111,USA
+380, 💊 Pharmaceuticals,Acorda Therapeutics,111,USA
+381, 💊 Pharmaceuticals,Theravance Biopharma,111,Cayman Islands
+382, 💊 Pharmaceuticals,PureTech Health,111,USA
+383, 💊 Pharmaceuticals,AlloVir,111,USA
+384, 💊 Pharmaceuticals,Tango Therapeutics,110,USA
+385, 💊 Pharmaceuticals,Praxis Precision Medicines,109,USA
+386, 💊 Pharmaceuticals,iCAD,108,USA
+387, 💊 Pharmaceuticals,Geron,107,USA
+388, 💊 Pharmaceuticals,Syndax Pharmaceuticals,107,USA
+389, 💊 Pharmaceuticals,Morphic Therapeutic,107,USA
+390, 💊 Pharmaceuticals,Keros Therapeutics,107,USA
+391, 💊 Pharmaceuticals,IDEAYA Biosciences,107,USA
+392, 💊 Pharmaceuticals,Cara Therapeutics,106,USA
+393, 💊 Pharmaceuticals,Fusion Pharmaceuticals,106,Canada
+394, 💊 Pharmaceuticals,iBio,105,USA
+395, 💊 Pharmaceuticals,KalVista Pharmaceuticals,105,USA
+396, 💊 Pharmaceuticals,Shattuck Labs,105,USA
+397, 💊 Pharmaceuticals,Protagonist Therapeutics,103,USA
+398, 💊 Pharmaceuticals,Talis Biomedical,102,USA
+399, 💊 Pharmaceuticals,Nanobiotix,102,France
+400, 💊 Pharmaceuticals,Innoviva,101,USA
+401, 💊 Pharmaceuticals,Aclaris Therapeutics,100,USA
+402, 💊 Pharmaceuticals,Scilex Holding,100,USA
+403, 💊 Pharmaceuticals,Arcellx,98,USA
+404, 💊 Pharmaceuticals,IMV,97,Canada
+405, 💊 Pharmaceuticals,Arbutus Biopharma,96,USA
+406, 💊 Pharmaceuticals,AnaptysBio,96,USA
+407, 💊 Pharmaceuticals,scPharmaceuticals,96,USA
+408, 💊 Pharmaceuticals,OmniAb,95,USA
+409, 💊 Pharmaceuticals,Kronos Bio,94,USA
+410, 💊 Pharmaceuticals,Kinnate Biopharma,94,USA
+411, 💊 Pharmaceuticals,Xilio Therapeutics,89,USA
+412, 💊 Pharmaceuticals,Chimerix,89,USA
+413, 💊 Pharmaceuticals,Fulcrum Therapeutics,89,USA
+414, 💊 Pharmaceuticals,ORIC Pharmaceuticals,88,USA
+415, 💊 Pharmaceuticals,DBV Technologies,88,France
+416, 💊 Pharmaceuticals,Solid Biosciences,87,USA
+417, 💊 Pharmaceuticals,Vaxxinity,87,USA
+418, 💊 Pharmaceuticals,ProKidney,87,USA
+419, 💊 Pharmaceuticals,Tarsus Pharmaceuticals,87,USA
+420, 💊 Pharmaceuticals,Viridian Therapeutics,86,USA
+421, 💊 Pharmaceuticals,Zomedica Pharmaceuticals,85,USA
+422, 💊 Pharmaceuticals,ImmunoPrecise Antibodies,85,USA
+423, 💊 Pharmaceuticals,Ocugen,84,USA
+424, 💊 Pharmaceuticals,XBiotech,84,USA
+425, 💊 Pharmaceuticals,Kezar Life Sciences,84,USA
+426, 💊 Pharmaceuticals,Talaris Therapeutics,84,USA
+427, 💊 Pharmaceuticals,Invivyd,84,USA
+428, 💊 Pharmaceuticals,MediWound,83,Israel
+429, 💊 Pharmaceuticals,Centessa Pharmaceuticals,82,UK
+430, 💊 Pharmaceuticals,Catalyst Pharmaceuticals,82,USA
+431, 💊 Pharmaceuticals,Biofrontera,81,USA
+432, 💊 Pharmaceuticals,Aadi Bioscience,80,USA
+433, 💊 Pharmaceuticals,Annexon,80,USA
+434, 💊 Pharmaceuticals,AVROBIO,78,USA
+435, 💊 Pharmaceuticals,Mesoblast,77,Australia
+436, 💊 Pharmaceuticals,Summit Therapeutics,76,UK
+437, 💊 Pharmaceuticals,Ventyx Biosciences,76,USA
+438, 💊 Pharmaceuticals,Capricor Therapeutics,74,USA
+439, 💊 Pharmaceuticals,Genocea Biosciences,74,USA
+440, 💊 Pharmaceuticals,Ikena Oncology,74,USA
+441, 💊 Pharmaceuticals,BeyondSpring,73,USA
+442, 💊 Pharmaceuticals,Immunic,73,USA
+443, 💊 Pharmaceuticals,Atea Pharmaceuticals,73,USA
+444, 💊 Pharmaceuticals,Pyxis Oncology,73,USA
+445, 💊 Pharmaceuticals,Synlogic,72,USA
+446, 💊 Pharmaceuticals,Armata Pharmaceuticals,72,USA
+447, 💊 Pharmaceuticals,Lineage Cell Therapeutics,70,USA
+448, 💊 Pharmaceuticals,Aura Biosciences,70,USA
+449, 💊 Pharmaceuticals,Nuvalent,70,USA
+450, 💊 Pharmaceuticals,Immuneering,68,USA
+451, 💊 Pharmaceuticals,Structure Therapeutics,68,USA
+452, 💊 Pharmaceuticals,Pharvaris,66,Netherlands
+453, 💊 Pharmaceuticals,BioAtla,66,USA
+454, 💊 Pharmaceuticals,Cabaletta Bio,66,USA
+455, 💊 Pharmaceuticals,aTyr Pharma,65,USA
+456, 💊 Pharmaceuticals,ALX Oncology,65,USA
+457, 💊 Pharmaceuticals,Taysha Gene Therapies,65,USA
+458, 💊 Pharmaceuticals,Selecta Biosciences,64,USA
+459, 💊 Pharmaceuticals,Design Therapeutics,64,USA
+460, 💊 Pharmaceuticals,Lyra Therapeutics,64,USA
+461, 💊 Pharmaceuticals,Liquidia Technologies,63,USA
+462, 💊 Pharmaceuticals,Athira Pharma,63,USA
+463, 💊 Pharmaceuticals,Rain Therapeutics,63,USA
+464, 💊 Pharmaceuticals,electroCore,62,USA
+465, 💊 Pharmaceuticals,PMV Pharmaceuticals,62,USA
+466, 💊 Pharmaceuticals,Janux Therapeutics,62,USA
+467, 💊 Pharmaceuticals,HilleVax,62,USA
+468, 💊 Pharmaceuticals,Olema Pharmaceuticals,62,USA
+469, 💊 Pharmaceuticals,CymaBay Therapeutics,60,USA
+470, 💊 Pharmaceuticals,Jaguar Health,60,USA
+471, 💊 Pharmaceuticals,Icosavax,60,USA
+472, 💊 Pharmaceuticals,Vigil Neuroscience,59,USA
+473, 💊 Pharmaceuticals,Verastem Oncology,57,USA
+474, 💊 Pharmaceuticals,Abeona Therapeutics,57,USA
+475, 💊 Pharmaceuticals,IO Biotech,57,Denmark
+476, 💊 Pharmaceuticals,ACELYRIN,56,USA
+477, 💊 Pharmaceuticals,Inozyme Pharma,56,USA
+478, 💊 Pharmaceuticals,Sol-Gel Technologies,55,Israel
+479, 💊 Pharmaceuticals,Biora Therapeutics,54,USA
+480, 💊 Pharmaceuticals,Nuvation Bio,53,USA
+481, 💊 Pharmaceuticals,Altimmune,52,USA
+482, 💊 Pharmaceuticals,Curis,51,USA
+483, 💊 Pharmaceuticals,Disc Medicine,51,USA
+484, 💊 Pharmaceuticals,ESSA Pharma,50,Canada
+485, 💊 Pharmaceuticals,Vivani Medical,50,USA
+486, 💊 Pharmaceuticals,Cybin,50,Canada
+487, 💊 Pharmaceuticals,Actinium Pharmaceuticals,49,USA
+488, 💊 Pharmaceuticals,PepGen,49,USA
+489, 💊 Pharmaceuticals,Mind Medicine,48,USA
+490, 💊 Pharmaceuticals,Reneo Pharmaceuticals,48,USA
+491, 💊 Pharmaceuticals,Frequency Therapeutics,46,USA
+492, 💊 Pharmaceuticals,Ovid Therapeutics,46,USA
+493, 💊 Pharmaceuticals,Vera Therapeutics,46,USA
+494, 💊 Pharmaceuticals,Terns Pharmaceuticals,46,USA
+495, 💊 Pharmaceuticals,Werewolf Therapeutics,46,USA
+496, 💊 Pharmaceuticals,Harpoon Therapeutics,45,USA
+497, 💊 Pharmaceuticals,89bio,45,USA
+498, 💊 Pharmaceuticals,Acrivon Therapeutics,45,USA
+499, 💊 Pharmaceuticals,Leap Therapeutics,44,USA
+500, 💊 Pharmaceuticals,InflaRx,44,Germany
+501, 💊 Pharmaceuticals,Aerovate Therapeutics,43,USA
+502, 💊 Pharmaceuticals,Avadel Pharmaceuticals,41,Ireland
+503, 💊 Pharmaceuticals,BrainStorm Cell Therapeutics,41,USA
+504, 💊 Pharmaceuticals,Akero Therapeutics,41,USA
+505, 💊 Pharmaceuticals,Vincerx Pharma,41,USA
+506, 💊 Pharmaceuticals,Eyenovia,41,USA
+507, 💊 Pharmaceuticals,Cormedix,40,USA
+508, 💊 Pharmaceuticals,X4 Pharmaceuticals,40,USA
+509, 💊 Pharmaceuticals,Milestone Pharmaceuticals,39,Canada
+510, 💊 Pharmaceuticals,SIGA Technologies,39,USA
+511, 💊 Pharmaceuticals,Viracta Therapeutics,39,USA
+512, 💊 Pharmaceuticals,Acumen Pharmaceuticals,39,USA
+513, 💊 Pharmaceuticals,GlycoMimetics,38,USA
+514, 💊 Pharmaceuticals,Anavex Life Sciences,38,USA
+515, 💊 Pharmaceuticals,Vaccinex,38,USA
+516, 💊 Pharmaceuticals,Theseus Pharmaceuticals,38,USA
+517, 💊 Pharmaceuticals,Tyra Biosciences,38,USA
+518, 💊 Pharmaceuticals,MiNK Therapeutics,37,USA
+519, 💊 Pharmaceuticals,Immunome,37,USA
+520, 💊 Pharmaceuticals,SCYNEXIS,36,USA
+521, 💊 Pharmaceuticals,Clearside Biomedical,36,USA
+522, 💊 Pharmaceuticals,Mereo BioPharma Group,36,UK
+523, 💊 Pharmaceuticals,Evofem Biosciences,35,USA
+524, 💊 Pharmaceuticals,Aptose Biosciences,35,Canada
+525, 💊 Pharmaceuticals,Trevena,35,USA
+526, 💊 Pharmaceuticals,AN2 Therapeutics,35,USA
+527, 💊 Pharmaceuticals,Spero Therapeutics,35,USA
+528, 💊 Pharmaceuticals,Verona Pharma,35,UK
+529, 💊 Pharmaceuticals,Jasper Therapeutics,35,USA
+530, 💊 Pharmaceuticals,Matinas BioPharma,34,USA
+531, 💊 Pharmaceuticals,Kala Pharmaceuticals,34,USA
+532, 💊 Pharmaceuticals,Alaunos Therapeutics,34,USA
+533, 💊 Pharmaceuticals,ASLAN Pharmaceuticals,34,Singapore
+534, 💊 Pharmaceuticals,Corbus Pharmaceuticals,33,USA
+535, 💊 Pharmaceuticals,VistaGen Therapeutics,33,USA
+536, 💊 Pharmaceuticals,Lumos Pharma,33,USA
+537, 💊 Pharmaceuticals,Vaccitech,33,UK
+538, 💊 Pharmaceuticals,BiondVax,33,Israel
+539, 💊 Pharmaceuticals,Palatin Technologies,33,USA
+540, 💊 Pharmaceuticals,GH Research,32,Ireland
+541, 💊 Pharmaceuticals,Zevra Therapeutics,32,USA
+542, 💊 Pharmaceuticals,Longboard Pharmaceuticals,32,USA
+543, 💊 Pharmaceuticals,Unity Biotechnology,31,USA
+544, 💊 Pharmaceuticals,Regulus Therapeutics,31,USA
+545, 💊 Pharmaceuticals,Imunon,31,USA
+546, 💊 Pharmaceuticals,Assertio Therapeutics,30,USA
+547, 💊 Pharmaceuticals,Spruce Biosciences,30,USA
+548, 💊 Pharmaceuticals,Oncolytics Biotech,29,Canada
+549, 💊 Pharmaceuticals,Corvus Pharmaceuticals,29,USA
+550, 💊 Pharmaceuticals,Genprex,28,USA
+551, 💊 Pharmaceuticals,Pulmatrix,28,USA
+552, 💊 Pharmaceuticals,NuCana,28,UK
+553, 💊 Pharmaceuticals,Savara Pharmaceuticals,28,USA
+554, 💊 Pharmaceuticals,Third Harmonic Bio,28,USA
+555, 💊 Pharmaceuticals,Oculis Holding AG,28,Switzerland
+556, 💊 Pharmaceuticals,PDS Biotechnology,26,USA
+557, 💊 Pharmaceuticals,Larimar Therapeutics,26,USA
+558, 💊 Pharmaceuticals,Zynerba Pharmaceuticals,25,USA
+559, 💊 Pharmaceuticals,Dare Bioscience,25,USA
+560, 💊 Pharmaceuticals,Hepion Pharmaceuticals,25,USA
+561, 💊 Pharmaceuticals,Athersys,24,USA
+562, 💊 Pharmaceuticals,Petros Pharmaceuticals,24,USA
+563, 💊 Pharmaceuticals,ContraFect,23,USA
+564, 💊 Pharmaceuticals,Agile Therapeutics,22,USA
+565, 💊 Pharmaceuticals,AIM ImmunoTech,22,USA
+566, 💊 Pharmaceuticals,Viking Therapeutics,22,USA
+567, 💊 Pharmaceuticals,Rafael Holdings,22,USA
+568, 💊 Pharmaceuticals,Lantern Pharma,22,USA
+569, 💊 Pharmaceuticals,Verrica Pharmaceuticals,22,USA
+570, 💊 Pharmaceuticals,Trevi Therapeutics,22,USA
+571, 💊 Pharmaceuticals,Quince Therapeutics,21,USA
+572, 💊 Pharmaceuticals,Citius Pharmaceuticals,21,USA
+573, 💊 Pharmaceuticals,Achieve Life Sciences,20,Canada
+574, 💊 Pharmaceuticals,Journey Medical,20,USA
+575, 💊 Pharmaceuticals,MoonLake Immunotherapeutics,20,Switzerland
+576, 💊 Pharmaceuticals,AcelRx Pharmaceuticals,19,USA
+577, 💊 Pharmaceuticals,Tempest Therapeutics,19,USA
+578, 💊 Pharmaceuticals,Longeveron,19,USA
+579, 💊 Pharmaceuticals,Bellerophon Therapeutics,18,USA
+580, 💊 Pharmaceuticals,Aptorum Group,18,Hong Kong
+581, 💊 Pharmaceuticals,MAIA Biotechnology,18,USA
+582, 💊 Pharmaceuticals,Benitec Biopharma,18,USA
+583, 💊 Pharmaceuticals,Lipocine,17,USA
+584, 💊 Pharmaceuticals,Outlook Therapeutics,17,USA
+585, 💊 Pharmaceuticals,Sellas Life Sciences,17,USA
+586, 💊 Pharmaceuticals,NanoViricides,17,USA
+587, 💊 Pharmaceuticals,NewAmsterdam Pharma Company,17,Netherlands
+588, 💊 Pharmaceuticals,Cyclerion Therapeutics,16,USA
+589, 💊 Pharmaceuticals,Adial Pharmaceuticals,16,USA
+590, 💊 Pharmaceuticals,Seelos Therapeutics,16,USA
+591, 💊 Pharmaceuticals,Onconova Therapeutics,16,USA
+592, 💊 Pharmaceuticals,Altamira Therapeutics,16,Bermuda
+593, 💊 Pharmaceuticals,Aldeyra Therapeutics,15,USA
+594, 💊 Pharmaceuticals,Cingulate,15,USA
+595, 💊 Pharmaceuticals,Genelux,15,USA
+596, 💊 Pharmaceuticals,eFFECTOR Therapeutics,15,USA
+597, 💊 Pharmaceuticals,Advaxis,14,USA
+598, 💊 Pharmaceuticals,Iterum Therapeutics,14,Ireland
+599, 💊 Pharmaceuticals,Relmada Therapeutics,14,USA
+600, 💊 Pharmaceuticals,bioAffinity Technologies,14,USA
+601, 💊 Pharmaceuticals,vTv Therapeutics,13,USA
+602, 💊 Pharmaceuticals,Soligenix,13,USA
+603, 💊 Pharmaceuticals,MediciNova,13,USA
+604, 💊 Pharmaceuticals,Regencell Bioscience,13,Hong Kong
+605, 💊 Pharmaceuticals,VYNE Therapeutics,12,USA
+606, 💊 Pharmaceuticals,Galectin Therapeutics,12,USA
+607, 💊 Pharmaceuticals,Allena Pharmaceuticals,12,USA
+608, 💊 Pharmaceuticals,Cocrystal Pharma,12,USA
+609, 💊 Pharmaceuticals,Aptinyx,12,USA
+610, 💊 Pharmaceuticals,Sio Gene Therapies,12,USA
+611, 💊 Pharmaceuticals,Mineralys Therapeutics,12,USA
+612, 💊 Pharmaceuticals,Atossa Therapeutics,11,USA
+613, 💊 Pharmaceuticals,Nuvectis Pharma,11,USA
+614, 💊 Pharmaceuticals,Monopar Therapeutics,11,USA
+615, 💊 Pharmaceuticals,XOMA,11,USA
+616, 💊 Pharmaceuticals,Adamis Pharmaceuticals,11,USA
+617, 💊 Pharmaceuticals,BB Biotech,10,Switzerland
+618, 💊 Pharmaceuticals,Azitra,10,USA
+619, 💊 Pharmaceuticals,Organovo,9,USA
+620, 💊 Pharmaceuticals,Baudax Bio,9,USA
+621, 💊 Pharmaceuticals,Minerva Neurosciences,9,USA
+622, 💊 Pharmaceuticals,Eterna Therapeutics,9,USA
+623, 💊 Pharmaceuticals,Aprea Therapeutics,9,USA
+624, 💊 Pharmaceuticals,Tiziana Life Sciences,9,UK
+625, 💊 Pharmaceuticals,Context Therapeutics,9,USA
+626, 💊 Pharmaceuticals,Phio Pharmaceuticals,9,USA
+627, 💊 Pharmaceuticals,Sonoma Pharmaceuticals,9,USA
+628, 💊 Pharmaceuticals,MyMD Pharmaceuticals,9,USA
+629, 💊 Pharmaceuticals,Ocuphire Pharma,9,USA
+630, 💊 Pharmaceuticals,Ampio Pharmaceuticals,8,USA
+631, 💊 Pharmaceuticals,Can Fite Biopharma,8,Israel
+632, 💊 Pharmaceuticals,Calithera Biosciences,8,USA
+633, 💊 Pharmaceuticals,Okyo Pharma,7,UK
+634, 💊 Pharmaceuticals,Ensysce Biosciences,7,USA
+635, 💊 Pharmaceuticals,Oragenics,6,USA
+636, 💊 Pharmaceuticals,Aileron Therapeutics,6,USA
+637, 💊 Pharmaceuticals,Humanigen,6,USA
+638, 💊 Pharmaceuticals,PainReform,6,Israel
+639, 💊 Pharmaceuticals,Coya Therapeutics,6,USA
+640, 💊 Pharmaceuticals,Portage Biotech,6,British Virgin Islands
+641, 💊 Pharmaceuticals,Avalon GloboCare,5,USA
+642, 💊 Pharmaceuticals,AgeX Therapeutics,5,USA
+643, 💊 Pharmaceuticals,180 Life Sciences,5,USA
+644, 💊 Pharmaceuticals,Belite Bio,5,USA
+645, 💊 Pharmaceuticals,Lipella Pharmaceuticals,5,USA
+646, 💊 Pharmaceuticals,Galmed Pharmaceuticals,4,Israel
+647, 💊 Pharmaceuticals,Evoke Pharma,4,USA
+648, 💊 Pharmaceuticals,Titan Pharmaceuticals,4,USA
+649, 💊 Pharmaceuticals,Anixa Biosciences,4,USA
+650, 💊 Pharmaceuticals,Quoin Pharmaceuticals,4,USA
+651, 💊 Pharmaceuticals,Bullfrog AI,4,USA
+652, 💊 Pharmaceuticals,Xenetic Biosciences,4,USA
+653, 💊 Pharmaceuticals,Intensity Therapeutics,3,USA
+654, 💊 Pharmaceuticals,PaxMedica,3,USA
+655, 💊 Pharmaceuticals,Greenwich LifeSciences,3,USA
+656, 💊 Pharmaceuticals,Cadrenal Therapeutics,3,USA
+657, 💊 Pharmaceuticals,Hoth Therapeutics,2,USA
+658, 💊 Pharmaceuticals,Mangoceuticals,2,USA
+659, 💊 Pharmaceuticals,TherapeuticsMD,1,USA
+660, 💊 Pharmaceuticals,Hillstream BioPharma,1,USA

@@ -1,0 +1,697 @@
+Rank,Category,Company,Earnings,Country
+1, 💊 Pharmaceuticals,Johnson & Johnson,$24.43 B,USA
+2, 💊 Pharmaceuticals,Roche,$17.67 B,Switzerland
+3, 💊 Pharmaceuticals,CVS Health,$14.09 B,USA
+4, 💊 Pharmaceuticals,Novo Nordisk,$12.84 B,Denmark
+5, 💊 Pharmaceuticals,Pfizer,$12.25 B,USA
+6, 💊 Pharmaceuticals,Sanofi,$10.77 B,France
+7, 💊 Pharmaceuticals,GlaxoSmithKline,$9.02 B,UK
+8, 💊 Pharmaceuticals,Novartis,$8.80 B,Switzerland
+9, 💊 Pharmaceuticals,Amgen,$8.75 B,USA
+10, 💊 Pharmaceuticals,Bristol-Myers Squibb,$8.62 B,USA
+11, 💊 Pharmaceuticals,AstraZeneca,$8.32 B,UK
+12, 💊 Pharmaceuticals,Merck,$8.15 B,USA
+13, 💊 Pharmaceuticals,AbbVie,$8.00 B,USA
+14, 💊 Pharmaceuticals,Gilead Sciences,$7.23 B,USA
+15, 💊 Pharmaceuticals,Eli Lilly,$6.14 B,USA
+16, 💊 Pharmaceuticals,Regeneron Pharmaceuticals,$4.37 B,USA
+17, 💊 Pharmaceuticals,Vertex Pharmaceuticals,$4.35 B,USA
+18, 💊 Pharmaceuticals,BioNTech,$4.15 B,Germany
+19, 💊 Pharmaceuticals,Merck KGaA,$3.96 B,Germany
+20, 💊 Pharmaceuticals,Chugai Pharmaceutical,$3.39 B,Japan
+21, 💊 Pharmaceuticals,Sinopharm,$3.20 B,China
+22, 💊 Pharmaceuticals,Takeda Pharmaceutical,$3.12 B,Japan
+23, 💊 Pharmaceuticals,Viatris,$3.10 B,USA
+24, 💊 Pharmaceuticals,Zoetis,$2.87 B,USA
+25, 💊 Pharmaceuticals,CSL,$2.66 B,Australia
+26, 💊 Pharmaceuticals,Shionogi,$2.00 B,Japan
+27, 💊 Pharmaceuticals,Otsuka Holdings,$1.75 B,Japan
+28, 💊 Pharmaceuticals,WuXi AppTec,$1.66 B,China
+29, 💊 Pharmaceuticals,Biogen,$1.60 B,USA
+30, 💊 Pharmaceuticals,Lonza,$1.56 B,Switzerland
+31, 💊 Pharmaceuticals,China Resources Pharmaceutical Group,$1.26 B,Hong Kong
+32, 💊 Pharmaceuticals,United Therapeutics,$1.21 B,USA
+33, 💊 Pharmaceuticals,Sun Pharmaceutical,$1.20 B,India
+34, 💊 Pharmaceuticals,Ono Pharmaceutical,$1.15 B,Japan
+35, 💊 Pharmaceuticals,Daiichi Sankyō,$0.96 B,Japan
+36, 💊 Pharmaceuticals,LabCorp,$0.96 B,USA
+37, 💊 Pharmaceuticals,Dr. Reddy's,$0.81 B,India
+38, 💊 Pharmaceuticals,WuXi Biologics,$0.77 B,China
+39, 💊 Pharmaceuticals,Genmab,$0.77 B,Denmark
+40, 💊 Pharmaceuticals,Ipsen,$0.75 B,France
+41, 💊 Pharmaceuticals,Sino Biopharmaceutical,$0.72 B,China
+42, 💊 Pharmaceuticals,Celltrion,$0.68 B,S. Korea
+43, 💊 Pharmaceuticals,Organon,$0.68 B,USA
+44, 💊 Pharmaceuticals,West Pharmaceutical,$0.65 B,USA
+45, 💊 Pharmaceuticals,Incyte,$0.64 B,USA
+46, 💊 Pharmaceuticals,Jiangsu Hengrui Medicine,$0.60 B,China
+47, 💊 Pharmaceuticals,Recordati,$0.58 B,Italy
+48, 💊 Pharmaceuticals,ICON plc,$0.56 B,Ireland
+49, 💊 Pharmaceuticals,Royalty Pharma,$0.55 B,UK
+50, 💊 Pharmaceuticals,UCB,$0.54 B,Belgium
+51, 💊 Pharmaceuticals,Eisai,$0.54 B,Japan
+52, 💊 Pharmaceuticals,Horizon Therapeutics,$0.51 B,Ireland
+53, 💊 Pharmaceuticals,kyowa Kirin,$0.50 B,Japan
+54, 💊 Pharmaceuticals,Hanmi Pharmaceutical,$0.49 B,S. Korea
+55, 💊 Pharmaceuticals,Astellas Pharma,$0.45 B,Japan
+56, 💊 Pharmaceuticals,Lundbeck,$0.44 B,Denmark
+57, 💊 Pharmaceuticals,Zydus Lifesciences,$0.44 B,India
+58, 💊 Pharmaceuticals,Richter Gedeon,$0.44 B,Hungary
+59, 💊 Pharmaceuticals,Hansoh Pharma,$0.42 B,China
+60, 💊 Pharmaceuticals,Aurobindo Pharma,$0.42 B,India
+61, 💊 Pharmaceuticals,Swedish Orphan Biovitrum,$0.41 B,Sweden
+62, 💊 Pharmaceuticals,Grifols,$0.36 B,Spain
+63, 💊 Pharmaceuticals,Cipla,$0.35 B,India
+64, 💊 Pharmaceuticals,Aspen Pharmacare,$0.34 B,South Africa
+65, 💊 Pharmaceuticals,Medpace,$0.31 B,USA
+66, 💊 Pharmaceuticals,Halozyme Therapeutics,$0.31 B,USA
+67, 💊 Pharmaceuticals,Bio-Techne,$0.29 B,USA
+68, 💊 Pharmaceuticals,Morphosys,$0.28 B,Germany
+69, 💊 Pharmaceuticals,Torrent Pharmaceuticals,$0.28 B,India
+70, 💊 Pharmaceuticals,Santen Pharmaceutical,$0.28 B,Japan
+71, 💊 Pharmaceuticals,Rohto Pharmaceutical,$0.27 B,Japan
+72, 💊 Pharmaceuticals,Laboratorios Farmaceuticos Rovi,$0.27 B,Spain
+73, 💊 Pharmaceuticals,Mankind Pharma,$0.26 B,India
+74, 💊 Pharmaceuticals,Neurocrine Biosciences,$0.25 B,USA
+75, 💊 Pharmaceuticals,Lupin Limited,$0.24 B,India
+76, 💊 Pharmaceuticals,Hualan Biological Engineering,$0.24 B,China
+77, 💊 Pharmaceuticals,Alkermes,$0.23 B,Ireland
+78, 💊 Pharmaceuticals,Siegfried Holding,$0.23 B,Switzerland
+79, 💊 Pharmaceuticals,Orion Corporation,$0.23 B,Finland
+80, 💊 Pharmaceuticals,Hikma Pharmaceuticals,$0.23 B,UK
+81, 💊 Pharmaceuticals,Alkem Laboratories,$0.22 B,India
+82, 💊 Pharmaceuticals,Divis Laboratories,$0.22 B,India
+83, 💊 Pharmaceuticals,Nippon Shinyaku,$0.22 B,Japan
+84, 💊 Pharmaceuticals,Perrigo,$0.21 B,Ireland
+85, 💊 Pharmaceuticals,Galenica,$0.21 B,Switzerland
+86, 💊 Pharmaceuticals,Biocon,$0.20 B,India
+87, 💊 Pharmaceuticals,KOBAYASHI Pharmaceutical,$0.20 B,Japan
+88, 💊 Pharmaceuticals,Zymeworks,$0.20 B,Canada
+89, 💊 Pharmaceuticals,Maravai LifeSciences,$0.19 B,USA
+90, 💊 Pharmaceuticals,Harmony Biosciences,$0.18 B,USA
+91, 💊 Pharmaceuticals,Virbac SA,$0.18 B,France
+92, 💊 Pharmaceuticals,Clicks Group,$0.18 B,South Africa
+93, 💊 Pharmaceuticals,Bavarian Nordic,$0.18 B,Denmark
+94, 💊 Pharmaceuticals,Taisho Pharmaceutical,$0.18 B,Japan
+95, 💊 Pharmaceuticals,Abbott India,$0.17 B,India
+96, 💊 Pharmaceuticals,BioMarin Pharmaceutical,$0.15 B,USA
+97, 💊 Pharmaceuticals,Glenmark Pharmaceuticals,$0.14 B,India
+98, 💊 Pharmaceuticals,Catalyst Pharmaceuticals,$0.14 B,USA
+99, 💊 Pharmaceuticals,Amphastar Pharmaceuticals,$0.13 B,USA
+100, 💊 Pharmaceuticals,Procaps Group,$0.12 B,Luxembourg
+101, 💊 Pharmaceuticals,Gland Pharma,$0.12 B,India
+102, 💊 Pharmaceuticals,Exelixis,$0.12 B,USA
+103, 💊 Pharmaceuticals,Bachem,$0.12 B,Switzerland
+104, 💊 Pharmaceuticals,Natco Pharma,$0.12 B,India
+105, 💊 Pharmaceuticals,Dynavax Technologies,$0.11 B,USA
+106, 💊 Pharmaceuticals,POINT Biopharma,$0.11 B,USA
+107, 💊 Pharmaceuticals,Faes Farma,$0.10 B,Spain
+108, 💊 Pharmaceuticals,Ipca Laboratories,$0.10 B,India
+109, 💊 Pharmaceuticals,Fagron,$0.10 B,Belgium
+110, 💊 Pharmaceuticals,Sanofi India Limited,$0.10 B,India
+111, 💊 Pharmaceuticals,Corcept Therapeutics,$98.11 M,USA
+112, 💊 Pharmaceuticals,Almirall,$88.82 M,Spain
+113, 💊 Pharmaceuticals,ALK-Abelló,$88.38 M,Denmark
+114, 💊 Pharmaceuticals,Voyager Therapeutics,$87.33 M,USA
+115, 💊 Pharmaceuticals,I-Mab Biopharma,$78.91 M,China
+116, 💊 Pharmaceuticals,Collegium Pharmaceutical,$76.79 M,USA
+117, 💊 Pharmaceuticals,Alembic Pharmaceuticals,$74.19 M,India
+118, 💊 Pharmaceuticals,PeptiDream,$72.26 M,Japan
+119, 💊 Pharmaceuticals,Granules India,$71.48 M,India
+120, 💊 Pharmaceuticals,Innoviva,$68.2 M,USA
+121, 💊 Pharmaceuticals,Laurus Labs,$62.93 M,India
+122, 💊 Pharmaceuticals,Orchard Therapeutics,$56.65 M,UK
+123, 💊 Pharmaceuticals,Yuhan,$53.39 M,S. Korea
+124, 💊 Pharmaceuticals,SCYNEXIS,$49.97 M,USA
+125, 💊 Pharmaceuticals,Arcturus Therapeutics,$49.73 M,USA
+126, 💊 Pharmaceuticals,KYORIN Pharmaceutical,$46.64 M,Japan
+127, 💊 Pharmaceuticals,Piramal Pharma,$46.18 M,India
+128, 💊 Pharmaceuticals,Marksans Pharma,$44.69 M,India
+129, 💊 Pharmaceuticals,Eagle Pharmaceuticals,$39.32 M,USA
+130, 💊 Pharmaceuticals,FDC India,$38.49 M,India
+131, 💊 Pharmaceuticals,SIGA Technologies,$35.75 M,USA
+132, 💊 Pharmaceuticals,Neuland Laboratories,$34.78 M,India
+133, 💊 Pharmaceuticals,Aarti Drugs,$33.66 M,India
+134, 💊 Pharmaceuticals,Supernus Pharmaceuticals,$32.31 M,USA
+135, 💊 Pharmaceuticals,Medios AG,$28.08 M,Germany
+136, 💊 Pharmaceuticals,Cosmo Pharmaceuticals,$26.2 M,Ireland
+137, 💊 Pharmaceuticals,Assertio Therapeutics,$24.85 M,USA
+138, 💊 Pharmaceuticals,Hikal,$21.6 M,India
+139, 💊 Pharmaceuticals,Biotest,$19.42 M,Germany
+140, 💊 Pharmaceuticals,Indoco Remedies,$19.06 M,India
+141, 💊 Pharmaceuticals,Ocuphire Pharma,$18.97 M,USA
+142, 💊 Pharmaceuticals,Pharma Mar,$18.54 M,Spain
+143, 💊 Pharmaceuticals,Amneal Pharmaceuticals,$14.75 M,USA
+144, 💊 Pharmaceuticals,Protalix BioTherapeutics,$13.17 M,Israel
+145, 💊 Pharmaceuticals,RPG Life Sciences,$12.29 M,India
+146, 💊 Pharmaceuticals,Bliss GVS Pharma,$11.94 M,India
+147, 💊 Pharmaceuticals,Redhill Biopharma,$11.57 M,Israel
+148, 💊 Pharmaceuticals,Vanda Pharmaceuticals,$9.67 M,USA
+149, 💊 Pharmaceuticals,PolyPeptide Group,$8.1 M,Switzerland
+150, 💊 Pharmaceuticals,MacroGenics,$7.44 M,USA
+151, 💊 Pharmaceuticals,Repare Therapeutics,$6.82 M,Canada
+152, 💊 Pharmaceuticals,Hester Biosciences,$6.55 M,India
+153, 💊 Pharmaceuticals,Strides Pharma,$6.54 M,India
+154, 💊 Pharmaceuticals,Jubilant Pharmova,$5.4 M,India
+155, 💊 Pharmaceuticals,Nectar Lifesciences,$3.67 M,India
+156, 💊 Pharmaceuticals,Kamada,$3.54 M,Israel
+157, 💊 Pharmaceuticals,Acorda Therapeutics,$2.91 M,USA
+158, 💊 Pharmaceuticals,InterCure,$1.48 M,Israel
+160, 💊 Pharmaceuticals,Avid Bioservices,-$0.09 M,USA
+161, 💊 Pharmaceuticals,Taro Pharmaceutical,-$0.73 M,Israel
+162, 💊 Pharmaceuticals,Valneva SE,-$1.65 M,France
+163, 💊 Pharmaceuticals,Puma Biotechnology,-$1.74 M,USA
+164, 💊 Pharmaceuticals,Nymox Pharmaceutical,-$2.17 M,Bahamas
+165, 💊 Pharmaceuticals,CytoMed Therapeutics,-$2.25 M,Singapore
+166, 💊 Pharmaceuticals,Merrimack Pharmaceuticals,-$2.27 M,USA
+167, 💊 Pharmaceuticals,JanOne,-$2.41 M,USA
+168, 💊 Pharmaceuticals,Harrow Health,-$2.85 M,USA
+169, 💊 Pharmaceuticals,Lipella Pharmaceuticals,-$3.67 M,USA
+170, 💊 Pharmaceuticals,Bullfrog AI,-$3.96 M,USA
+171, 💊 Pharmaceuticals,Xenetic Biosciences,-$4.53 M,USA
+172, 💊 Pharmaceuticals,Sonoma Pharmaceuticals,-$4.96 M,USA
+173, 💊 Pharmaceuticals,AVROBIO,-$5.5 M,USA
+174, 💊 Pharmaceuticals,Regencell Bioscience,-$6.28 M,Hong Kong
+175, 💊 Pharmaceuticals,ChromaDex,-$6.5 M,USA
+176, 💊 Pharmaceuticals,Mangoceuticals,-$6.5 M,USA
+177, 💊 Pharmaceuticals,BiondVax,-$6.83 M,Israel
+178, 💊 Pharmaceuticals,Evoke Pharma,-$7.43 M,USA
+179, 💊 Pharmaceuticals,Societal CDMO,-$7.5 M,USA
+180, 💊 Pharmaceuticals,Cadrenal Therapeutics,-$7.65 M,USA
+181, 💊 Pharmaceuticals,Titan Pharmaceuticals,-$8.47 M,USA
+182, 💊 Pharmaceuticals,NanoViricides,-$8.59 M,USA
+183, 💊 Pharmaceuticals,Kala Pharmaceuticals,-$8.64 M,USA
+184, 💊 Pharmaceuticals,Hillstream BioPharma,-$8.91 M,USA
+185, 💊 Pharmaceuticals,Lucy Scientific Discovery,-$8.99 M,Canada
+186, 💊 Pharmaceuticals,Intensity Therapeutics,-$9.07 M,USA
+187, 💊 Pharmaceuticals,Genenta Science,-$9.08 M,Italy
+188, 💊 Pharmaceuticals,Immutep,-$9.21 M,Australia
+189, 💊 Pharmaceuticals,Avalon GloboCare,-$9.32 M,USA
+190, 💊 Pharmaceuticals,Quoin Pharmaceuticals,-$9.36 M,USA
+191, 💊 Pharmaceuticals,MediWound,-$9.39 M,Israel
+192, 💊 Pharmaceuticals,Greenwich LifeSciences,-$9.39 M,USA
+193, 💊 Pharmaceuticals,PainReform,-$9.76 M,Israel
+194, 💊 Pharmaceuticals,Can Fite Biopharma,-$9.77 M,Israel
+195, 💊 Pharmaceuticals,bioAffinity Technologies,-$9.86 M,USA
+196, 💊 Pharmaceuticals,Monopar Therapeutics,-$9.94 M,USA
+197, 💊 Pharmaceuticals,Hoth Therapeutics,-$10.01 M,USA
+198, 💊 Pharmaceuticals,Oragenics,-$10.11 M,USA
+199, 💊 Pharmaceuticals,Soligenix,-$10.37 M,USA
+200, 💊 Pharmaceuticals,Adial Pharmaceuticals,-$10.4 M,USA
+201, 💊 Pharmaceuticals,ANI Pharmaceuticals,-$10.54 M,USA
+202, 💊 Pharmaceuticals,Spero Therapeutics,-$11 M,USA
+203, 💊 Pharmaceuticals,Azitra,-$11.11 M,USA
+204, 💊 Pharmaceuticals,AgeX Therapeutics,-$11.17 M,USA
+205, 💊 Pharmaceuticals,Galmed Pharmaceuticals,-$11.42 M,Israel
+206, 💊 Pharmaceuticals,Aptorum Group,-$11.53 M,Hong Kong
+207, 💊 Pharmaceuticals,Altamira Therapeutics,-$11.57 M,Bermuda
+208, 💊 Pharmaceuticals,Anixa Biosciences,-$11.57 M,USA
+209, 💊 Pharmaceuticals,Rockwell Medical,-$11.61 M,USA
+210, 💊 Pharmaceuticals,Vericel,-$11.83 M,USA
+211, 💊 Pharmaceuticals,Lipocine,-$12.06 M,USA
+212, 💊 Pharmaceuticals,Kiniksa Pharmaceuticals,-$12.27 M,Bermuda
+213, 💊 Pharmaceuticals,Aytu BioScience,-$12.33 M,USA
+214, 💊 Pharmaceuticals,MediciNova,-$12.45 M,USA
+215, 💊 Pharmaceuticals,Phio Pharmaceuticals,-$12.46 M,USA
+216, 💊 Pharmaceuticals,iCAD,-$12.62 M,USA
+217, 💊 Pharmaceuticals,Aileron Therapeutics,-$12.75 M,USA
+218, 💊 Pharmaceuticals,TG Therapeutics,-$12.86 M,USA
+219, 💊 Pharmaceuticals,Coya Therapeutics,-$12.97 M,USA
+220, 💊 Pharmaceuticals,CervoMed,-$13.08 M,USA
+221, 💊 Pharmaceuticals,MyMD Pharmaceuticals,-$13.12 M,USA
+222, 💊 Pharmaceuticals,Incannex Healthcare,-$13.23 M,Australia
+223, 💊 Pharmaceuticals,Okyo Pharma,-$13.29 M,UK
+224, 💊 Pharmaceuticals,Genelux,-$13.68 M,USA
+225, 💊 Pharmaceuticals,Ampio Pharmaceuticals,-$13.98 M,USA
+226, 💊 Pharmaceuticals,Bellerophon Therapeutics,-$13.99 M,USA
+227, 💊 Pharmaceuticals,Aquestive Therapeutics,-$14.03 M,USA
+228, 💊 Pharmaceuticals,Rafael Holdings,-$15.11 M,USA
+229, 💊 Pharmaceuticals,Aprea Therapeutics,-$15.13 M,USA
+230, 💊 Pharmaceuticals,Tiziana Life Sciences,-$15.4 M,UK
+231, 💊 Pharmaceuticals,Lantern Pharma,-$15.45 M,USA
+232, 💊 Pharmaceuticals,ImmunoPrecise Antibodies,-$16.15 M,USA
+233, 💊 Pharmaceuticals,ADMA Biologics,-$16.56 M,USA
+234, 💊 Pharmaceuticals,Belite Bio,-$17.16 M,USA
+235, 💊 Pharmaceuticals,Pulmatrix,-$17.54 M,USA
+236, 💊 Pharmaceuticals,MAIA Biotechnology,-$17.68 M,USA
+237, 💊 Pharmaceuticals,Organovo,-$18.07 M,USA
+238, 💊 Pharmaceuticals,AcelRx Pharmaceuticals,-$18.59 M,USA
+239, 💊 Pharmaceuticals,Cingulate,-$18.66 M,USA
+240, 💊 Pharmaceuticals,Context Therapeutics,-$18.74 M,USA
+241, 💊 Pharmaceuticals,Theratechnologies,-$18.84 M,Canada
+242, 💊 Pharmaceuticals,AIM ImmunoTech,-$19.35 M,USA
+243, 💊 Pharmaceuticals,Benitec Biopharma,-$19.57 M,USA
+244, 💊 Pharmaceuticals,Cocrystal Pharma,-$19.73 M,USA
+245, 💊 Pharmaceuticals,Ensysce Biosciences,-$19.77 M,USA
+246, 💊 Pharmaceuticals,Longeveron,-$20.23 M,USA
+247, 💊 Pharmaceuticals,Adamis Pharmaceuticals,-$20.3 M,USA
+248, 💊 Pharmaceuticals,OmniAb,-$20.61 M,USA
+249, 💊 Pharmaceuticals,Matinas BioPharma,-$20.67 M,USA
+250, 💊 Pharmaceuticals,Poseida Therapeutics,-$20.75 M,USA
+251, 💊 Pharmaceuticals,Onconova Therapeutics,-$20.85 M,USA
+252, 💊 Pharmaceuticals,Sequent Scientific,-$21.01 M,India
+253, 💊 Pharmaceuticals,Zomedica Pharmaceuticals,-$21.02 M,USA
+254, 💊 Pharmaceuticals,Oncolytics Biotech,-$21.11 M,Canada
+255, 💊 Pharmaceuticals,Bionomics,-$21.22 M,Australia
+256, 💊 Pharmaceuticals,Eterna Therapeutics,-$21.45 M,USA
+257, 💊 Pharmaceuticals,Vaccinex,-$21.86 M,USA
+258, 💊 Pharmaceuticals,Petros Pharmaceuticals,-$21.99 M,USA
+259, 💊 Pharmaceuticals,electroCore,-$22.21 M,USA
+260, 💊 Pharmaceuticals,BrainStorm Cell Therapeutics,-$22.27 M,USA
+261, 💊 Pharmaceuticals,Nuvectis Pharma,-$22.33 M,USA
+262, 💊 Pharmaceuticals,Biofrontera,-$22.37 M,USA
+263, 💊 Pharmaceuticals,Baudax Bio,-$22.47 M,USA
+264, 💊 Pharmaceuticals,Olink Holding,-$22.69 M,Sweden
+265, 💊 Pharmaceuticals,Verrica Pharmaceuticals,-$23.35 M,USA
+266, 💊 Pharmaceuticals,Turnstone Biologics,-$23.49 M,USA
+267, 💊 Pharmaceuticals,Lineage Cell Therapeutics,-$23.56 M,USA
+268, 💊 Pharmaceuticals,Oramed Pharmaceuticals,-$24 M,USA
+269, 💊 Pharmaceuticals,PaxMedica,-$24.01 M,USA
+270, 💊 Pharmaceuticals,vTv Therapeutics,-$24.55 M,USA
+271, 💊 Pharmaceuticals,XOMA,-$25.39 M,USA
+272, 💊 Pharmaceuticals,Eyenovia,-$25.39 M,USA
+273, 💊 Pharmaceuticals,Sol-Gel Technologies,-$25.43 M,Israel
+274, 💊 Pharmaceuticals,Quince Therapeutics,-$25.76 M,USA
+275, 💊 Pharmaceuticals,Marinus Pharmaceuticals,-$25.84 M,USA
+276, 💊 Pharmaceuticals,Ardelyx,-$26.36 M,USA
+277, 💊 Pharmaceuticals,Immunome,-$26.57 M,USA
+278, 💊 Pharmaceuticals,Minerva Neurosciences,-$26.79 M,USA
+279, 💊 Pharmaceuticals,Vivani Medical,-$26.84 M,USA
+280, 💊 Pharmaceuticals,Pieris Pharmaceuticals,-$27.05 M,USA
+281, 💊 Pharmaceuticals,ESSA Pharma,-$27.49 M,Canada
+282, 💊 Pharmaceuticals,Cytosorbents,-$27.54 M,USA
+283, 💊 Pharmaceuticals,Calliditas Therapeutics,-$27.59 M,Sweden
+284, 💊 Pharmaceuticals,Pharming Group,-$28.07 M,Netherlands
+285, 💊 Pharmaceuticals,MiNK Therapeutics,-$28.08 M,USA
+286, 💊 Pharmaceuticals,Clearside Biomedical,-$28.08 M,USA
+287, 💊 Pharmaceuticals,Regulus Therapeutics,-$28.11 M,USA
+288, 💊 Pharmaceuticals,Sio Gene Therapies,-$28.55 M,USA
+289, 💊 Pharmaceuticals,SPARC,-$28.78 M,India
+290, 💊 Pharmaceuticals,Capricor Therapeutics,-$29.23 M,USA
+291, 💊 Pharmaceuticals,Cyclerion Therapeutics,-$29.24 M,USA
+292, 💊 Pharmaceuticals,Trevi Therapeutics,-$29.32 M,USA
+293, 💊 Pharmaceuticals,iBio,-$29.33 M,USA
+294, 💊 Pharmaceuticals,Perspective Therapeutics,-$29.35 M,USA
+295, 💊 Pharmaceuticals,Citius Pharmaceuticals,-$29.59 M,USA
+296, 💊 Pharmaceuticals,Sagimet Biosciences,-$29.81 M,USA
+297, 💊 Pharmaceuticals,Genprex,-$30.04 M,USA
+298, 💊 Pharmaceuticals,Agile Therapeutics,-$30.59 M,USA
+299, 💊 Pharmaceuticals,Atossa Therapeutics,-$31.62 M,USA
+300, 💊 Pharmaceuticals,Imunon,-$31.63 M,USA
+301, 💊 Pharmaceuticals,Tempest Therapeutics,-$31.75 M,USA
+302, 💊 Pharmaceuticals,Palatin Technologies,-$32.2 M,USA
+303, 💊 Pharmaceuticals,Zevra Therapeutics,-$32.22 M,USA
+304, 💊 Pharmaceuticals,Selecta Biosciences,-$32.49 M,USA
+305, 💊 Pharmaceuticals,MaxCyte,-$32.64 M,USA
+306, 💊 Pharmaceuticals,Larimar Therapeutics,-$32.64 M,USA
+307, 💊 Pharmaceuticals,Rigel Pharmaceuticals,-$32.78 M,USA
+308, 💊 Pharmaceuticals,Cel-Sci,-$33.09 M,USA
+309, 💊 Pharmaceuticals,Alaunos Therapeutics,-$33.19 M,USA
+310, 💊 Pharmaceuticals,VYNE Therapeutics,-$33.2 M,USA
+311, 💊 Pharmaceuticals,Shinpoong Pharm,-$33.69 M,S. Korea
+312, 💊 Pharmaceuticals,Lumos Pharma,-$34.16 M,USA
+313, 💊 Pharmaceuticals,eFFECTOR Therapeutics,-$34.89 M,USA
+314, 💊 Pharmaceuticals,XBiotech,-$34.96 M,USA
+315, 💊 Pharmaceuticals,GH Research,-$35.7 M,Ireland
+316, 💊 Pharmaceuticals,ContraFect,-$35.85 M,USA
+317, 💊 Pharmaceuticals,Advaxis,-$36.27 M,USA
+318, 💊 Pharmaceuticals,Cybin,-$36.34 M,Canada
+319, 💊 Pharmaceuticals,Abeona Therapeutics,-$36.38 M,USA
+320, 💊 Pharmaceuticals,Journey Medical,-$36.62 M,USA
+321, 💊 Pharmaceuticals,Cormedix,-$36.91 M,USA
+322, 💊 Pharmaceuticals,Sellas Life Sciences,-$36.93 M,USA
+323, 💊 Pharmaceuticals,Genocea Biosciences,-$37.2 M,USA
+324, 💊 Pharmaceuticals,GlycoMimetics,-$37.39 M,USA
+325, 💊 Pharmaceuticals,CASI Pharmaceuticals,-$37.44 M,USA
+326, 💊 Pharmaceuticals,InflaRx,-$37.47 M,Germany
+327, 💊 Pharmaceuticals,Zynerba Pharmaceuticals,-$37.59 M,USA
+328, 💊 Pharmaceuticals,Orchestra BioMed,-$37.6 M,USA
+329, 💊 Pharmaceuticals,OptiNose,-$37.65 M,USA
+330, 💊 Pharmaceuticals,IMV,-$38.47 M,Canada
+331, 💊 Pharmaceuticals,Corvus Pharmaceuticals,-$39.03 M,USA
+332, 💊 Pharmaceuticals,NRx Pharmaceuticals,-$39.08 M,USA
+333, 💊 Pharmaceuticals,Harpoon Therapeutics,-$39.19 M,USA
+334, 💊 Pharmaceuticals,Calithera Biosciences,-$39.65 M,USA
+335, 💊 Pharmaceuticals,Mereo BioPharma Group,-$39.68 M,UK
+336, 💊 Pharmaceuticals,Renovaro Biosciences,-$39.69 M,USA
+337, 💊 Pharmaceuticals,Dare Bioscience,-$39.77 M,USA
+338, 💊 Pharmaceuticals,Galectin Therapeutics,-$39.88 M,USA
+339, 💊 Pharmaceuticals,Armata Pharmaceuticals,-$39.92 M,USA
+340, 💊 Pharmaceuticals,Mineralys Therapeutics,-$40.5 M,USA
+341, 💊 Pharmaceuticals,Trevena,-$40.56 M,USA
+342, 💊 Pharmaceuticals,CARGO Therapeutics,-$40.96 M,USA
+343, 💊 Pharmaceuticals,Achieve Life Sciences,-$41.54 M,Canada
+344, 💊 Pharmaceuticals,Evofem Biosciences,-$41.7 M,USA
+345, 💊 Pharmaceuticals,Y-mAbs Therapeutics,-$41.9 M,USA
+346, 💊 Pharmaceuticals,Allena Pharmaceuticals,-$42.4 M,USA
+347, 💊 Pharmaceuticals,Savara Pharmaceuticals,-$42.69 M,USA
+348, 💊 Pharmaceuticals,Werewolf Therapeutics,-$44.01 M,USA
+349, 💊 Pharmaceuticals,Corbus Pharmaceuticals,-$44.47 M,USA
+350, 💊 Pharmaceuticals,scPharmaceuticals,-$44.78 M,USA
+351, 💊 Pharmaceuticals,Third Harmonic Bio,-$44.84 M,USA
+352, 💊 Pharmaceuticals,ASLAN Pharmaceuticals,-$45.02 M,Singapore
+353, 💊 Pharmaceuticals,Curis,-$45.45 M,USA
+354, 💊 Pharmaceuticals,Jaguar Health,-$45.53 M,USA
+355, 💊 Pharmaceuticals,Dechra Pharmaceuticals,-$45.54 M,UK
+356, 💊 Pharmaceuticals,Hepion Pharmaceuticals,-$45.58 M,USA
+357, 💊 Pharmaceuticals,NuCana,-$45.69 M,UK
+358, 💊 Pharmaceuticals,Zura Bio,-$45.85 M,USA
+359, 💊 Pharmaceuticals,Indivior PLC,-$46 M,USA
+360, 💊 Pharmaceuticals,VistaGen Therapeutics,-$46.46 M,USA
+361, 💊 Pharmaceuticals,Liquidia Technologies,-$47.02 M,USA
+362, 💊 Pharmaceuticals,Unity Biotechnology,-$47.11 M,USA
+363, 💊 Pharmaceuticals,Avacta Group,-$47.2 M,UK
+364, 💊 Pharmaceuticals,Oculis Holding AG,-$47.25 M,Switzerland
+365, 💊 Pharmaceuticals,MannKind Corp,-$47.44 M,USA
+366, 💊 Pharmaceuticals,Spruce Biosciences,-$47.67 M,USA
+367, 💊 Pharmaceuticals,aTyr Pharma,-$47.79 M,USA
+368, 💊 Pharmaceuticals,Actinium Pharmaceuticals,-$48.32 M,USA
+369, 💊 Pharmaceuticals,Aptose Biosciences,-$48.98 M,Canada
+370, 💊 Pharmaceuticals,PDS Biotechnology,-$49.17 M,USA
+371, 💊 Pharmaceuticals,Ovid Therapeutics,-$49.24 M,USA
+372, 💊 Pharmaceuticals,Acrivon Therapeutics,-$49.44 M,USA
+373, 💊 Pharmaceuticals,Verona Pharma,-$49.7 M,UK
+374, 💊 Pharmaceuticals,Aldeyra Therapeutics,-$50.17 M,USA
+375, 💊 Pharmaceuticals,Immunocore,-$50.54 M,UK
+376, 💊 Pharmaceuticals,Athersys,-$50.7 M,USA
+377, 💊 Pharmaceuticals,Longboard Pharmaceuticals,-$51.22 M,USA
+378, 💊 Pharmaceuticals,Humanigen,-$51.44 M,USA
+379, 💊 Pharmaceuticals,Acasti Pharma,-$51.52 M,Canada
+380, 💊 Pharmaceuticals,Acumen Pharmaceuticals,-$52.24 M,USA
+381, 💊 Pharmaceuticals,Biora Therapeutics,-$52.33 M,USA
+382, 💊 Pharmaceuticals,180 Life Sciences,-$52.62 M,USA
+383, 💊 Pharmaceuticals,Viracta Therapeutics,-$52.68 M,USA
+384, 💊 Pharmaceuticals,ProQR,-$54.47 M,Netherlands
+385, 💊 Pharmaceuticals,Immuneering,-$55.36 M,USA
+386, 💊 Pharmaceuticals,Jasper Therapeutics,-$55.42 M,USA
+387, 💊 Pharmaceuticals,Nykode Therapeutics,-$55.68 M,Norway
+388, 💊 Pharmaceuticals,Vincerx Pharma,-$56.02 M,USA
+389, 💊 Pharmaceuticals,Anavex Life Sciences,-$56.08 M,USA
+390, 💊 Pharmaceuticals,Codexis,-$56.56 M,USA
+391, 💊 Pharmaceuticals,AN2 Therapeutics,-$56.89 M,USA
+392, 💊 Pharmaceuticals,G1 Therapeutics,-$57.14 M,USA
+393, 💊 Pharmaceuticals,Cabaletta Bio,-$57.46 M,USA
+394, 💊 Pharmaceuticals,MoonLake Immunotherapeutics,-$57.59 M,Switzerland
+395, 💊 Pharmaceuticals,Chimerix,-$57.74 M,USA
+396, 💊 Pharmaceuticals,Theseus Pharmaceuticals,-$57.86 M,USA
+397, 💊 Pharmaceuticals,Amarin Corporation,-$58 M,Ireland
+398, 💊 Pharmaceuticals,Alpine Immune Sciences,-$58.02 M,USA
+399, 💊 Pharmaceuticals,Iterum Therapeutics,-$58.07 M,Ireland
+400, 💊 Pharmaceuticals,Milestone Pharmaceuticals,-$58.73 M,Canada
+401, 💊 Pharmaceuticals,Tyra Biosciences,-$59.02 M,USA
+402, 💊 Pharmaceuticals,Lexeo Therapeutics,-$59.19 M,USA
+403, 💊 Pharmaceuticals,Vaccitech,-$59.34 M,UK
+404, 💊 Pharmaceuticals,Silence Therapeutics,-$59.51 M,UK
+405, 💊 Pharmaceuticals,Nautilus Biotechnology,-$60.06 M,USA
+406, 💊 Pharmaceuticals,Outlook Therapeutics,-$60.34 M,USA
+407, 💊 Pharmaceuticals,Lyra Therapeutics,-$60.89 M,USA
+408, 💊 Pharmaceuticals,Baxter,-$61 M,USA
+409, 💊 Pharmaceuticals,iTeos Therapeutics,-$61.04 M,USA
+410, 💊 Pharmaceuticals,Nanobiotix,-$61.08 M,France
+411, 💊 Pharmaceuticals,Aadi Bioscience,-$61.59 M,USA
+412, 💊 Pharmaceuticals,CytomX Therapeutics,-$61.63 M,USA
+413, 💊 Pharmaceuticals,Innate Pharma,-$62.09 M,France
+414, 💊 Pharmaceuticals,Aptinyx,-$62.83 M,USA
+415, 💊 Pharmaceuticals,Xeris Pharmaceuticals,-$63.21 M,USA
+416, 💊 Pharmaceuticals,Aerovate Therapeutics,-$64.13 M,USA
+417, 💊 Pharmaceuticals,BeyondSpring,-$64.64 M,USA
+418, 💊 Pharmaceuticals,Synlogic,-$65.27 M,USA
+419, 💊 Pharmaceuticals,Molecular Partners,-$65.29 M,Switzerland
+420, 💊 Pharmaceuticals,Structure Therapeutics,-$65.52 M,USA
+421, 💊 Pharmaceuticals,Reneo Pharmaceuticals,-$65.57 M,USA
+422, 💊 Pharmaceuticals,Evolus,-$66.26 M,USA
+423, 💊 Pharmaceuticals,Frequency Therapeutics,-$66.38 M,USA
+424, 💊 Pharmaceuticals,Theravance Biopharma,-$66.96 M,Cayman Islands
+425, 💊 Pharmaceuticals,Ikena Oncology,-$67 M,USA
+426, 💊 Pharmaceuticals,Telix Pharmaceuticals,-$67.3 M,Australia
+427, 💊 Pharmaceuticals,TherapeuticsMD,-$67.46 M,USA
+428, 💊 Pharmaceuticals,Disc Medicine,-$67.73 M,USA
+429, 💊 Pharmaceuticals,Janux Therapeutics,-$67.73 M,USA
+430, 💊 Pharmaceuticals,Carisma Therapeutics,-$68.03 M,USA
+431, 💊 Pharmaceuticals,RVL Pharmaceuticals,-$68.55 M,USA
+432, 💊 Pharmaceuticals,RayzeBio,-$68.6 M,USA
+433, 💊 Pharmaceuticals,ImmunoGen,-$68.64 M,USA
+434, 💊 Pharmaceuticals,Rani Therapeutics,-$69.2 M,USA
+435, 💊 Pharmaceuticals,Talaris Therapeutics,-$69.36 M,USA
+436, 💊 Pharmaceuticals,PepGen,-$70.1 M,USA
+437, 💊 Pharmaceuticals,Immatics,-$70.76 M,Germany
+438, 💊 Pharmaceuticals,AbCellera,-$70.98 M,Canada
+439, 💊 Pharmaceuticals,Inozyme Pharma,-$71.21 M,USA
+440, 💊 Pharmaceuticals,AC Immune,-$71.83 M,Switzerland
+441, 💊 Pharmaceuticals,IO Biotech,-$71.87 M,Denmark
+442, 💊 Pharmaceuticals,Vaxxinity,-$72.11 M,USA
+443, 💊 Pharmaceuticals,Arbutus Biopharma,-$72.94 M,USA
+444, 💊 Pharmaceuticals,Precigen,-$73.04 M,USA
+445, 💊 Pharmaceuticals,Aura Biosciences,-$73.39 M,USA
+446, 💊 Pharmaceuticals,Lifecore Biomedical,-$73.41 M,USA
+447, 💊 Pharmaceuticals,Entrada Therapeutics,-$73.6 M,USA
+448, 💊 Pharmaceuticals,Verastem Oncology,-$74.9 M,USA
+449, 💊 Pharmaceuticals,Abivax,-$75.64 M,France
+450, 💊 Pharmaceuticals,Vigil Neuroscience,-$75.93 M,USA
+451, 💊 Pharmaceuticals,Gamida Cell,-$76.01 M,Israel
+452, 💊 Pharmaceuticals,Senti Biosciences,-$76.57 M,USA
+453, 💊 Pharmaceuticals,Pharvaris,-$76.92 M,Netherlands
+454, 💊 Pharmaceuticals,Terns Pharmaceuticals,-$79.44 M,USA
+455, 💊 Pharmaceuticals,Adagene,-$79.52 M,China
+456, 💊 Pharmaceuticals,Seelos Therapeutics,-$80.37 M,USA
+457, 💊 Pharmaceuticals,CymaBay Therapeutics,-$80.73 M,USA
+458, 💊 Pharmaceuticals,Viking Therapeutics,-$80.85 M,USA
+459, 💊 Pharmaceuticals,Mind Medicine,-$80.93 M,USA
+460, 💊 Pharmaceuticals,Amylyx Pharmaceuticals,-$81.13 M,USA
+461, 💊 Pharmaceuticals,Celularity,-$81.36 M,USA
+462, 💊 Pharmaceuticals,Aurinia Pharmaceuticals,-$81.51 M,Canada
+463, 💊 Pharmaceuticals,Altimmune,-$81.51 M,USA
+464, 💊 Pharmaceuticals,Mesoblast,-$82.11 M,Australia
+465, 💊 Pharmaceuticals,PMV Pharmaceuticals,-$82.14 M,USA
+466, 💊 Pharmaceuticals,Leap Therapeutics,-$82.31 M,USA
+467, 💊 Pharmaceuticals,Kezar Life Sciences,-$82.54 M,USA
+468, 💊 Pharmaceuticals,Design Therapeutics,-$82.84 M,USA
+469, 💊 Pharmaceuticals,TScan Therapeutics,-$83.06 M,USA
+470, 💊 Pharmaceuticals,Rain Therapeutics,-$83.27 M,USA
+471, 💊 Pharmaceuticals,Ocugen,-$83.29 M,USA
+472, 💊 Pharmaceuticals,NewAmsterdam Pharma Company,-$83.6 M,Netherlands
+473, 💊 Pharmaceuticals,Scilex Holding,-$84.41 M,USA
+474, 💊 Pharmaceuticals,IDEAYA Biosciences,-$84.78 M,USA
+475, 💊 Pharmaceuticals,Gracell Biotechnologies,-$85.43 M,China
+476, 💊 Pharmaceuticals,LianBio,-$85.55 M,USA
+477, 💊 Pharmaceuticals,Xilio Therapeutics,-$87.02 M,USA
+478, 💊 Pharmaceuticals,Precision BioSciences,-$87.42 M,USA
+479, 💊 Pharmaceuticals,Tarsus Pharmaceuticals,-$88.14 M,USA
+480, 💊 Pharmaceuticals,Talis Biomedical,-$90.29 M,USA
+481, 💊 Pharmaceuticals,Syros Pharmaceuticals,-$90.41 M,USA
+482, 💊 Pharmaceuticals,Nuvation Bio,-$90.42 M,USA
+483, 💊 Pharmaceuticals,Ocular Therapeutix,-$90.73 M,USA
+484, 💊 Pharmaceuticals,Cellectis,-$92.39 M,France
+485, 💊 Pharmaceuticals,Adlai Nortye,-$92.48 M,Cayman Islands
+486, 💊 Pharmaceuticals,PureTech Health,-$92.79 M,USA
+487, 💊 Pharmaceuticals,HilleVax,-$92.79 M,USA
+488, 💊 Pharmaceuticals,Ocean Biomedical,-$93.14 M,USA
+489, 💊 Pharmaceuticals,ORIC Pharmaceuticals,-$93.49 M,USA
+490, 💊 Pharmaceuticals,Fusion Pharmaceuticals,-$94.81 M,Canada
+491, 💊 Pharmaceuticals,Shattuck Labs,-$95.92 M,USA
+492, 💊 Pharmaceuticals,bluebird bio,-$95.92 M,USA
+493, 💊 Pharmaceuticals,Immunic,-$96.75 M,USA
+494, 💊 Pharmaceuticals,Akebia Therapeutics,-$96.81 M,USA
+495, 💊 Pharmaceuticals,EyePoint Pharmaceuticals,-$98.12 M,USA
+496, 💊 Pharmaceuticals,Vaxart,-$0.11 B,USA
+497, 💊 Pharmaceuticals,DBV Technologies,-$0.11 B,France
+498, 💊 Pharmaceuticals,Olema Pharmaceuticals,-$0.11 B,USA
+499, 💊 Pharmaceuticals,Evotec,-$0.11 B,Germany
+500, 💊 Pharmaceuticals,Jazz Pharmaceuticals,-$0.11 B,Ireland
+501, 💊 Pharmaceuticals,Icosavax,-$0.11 B,USA
+502, 💊 Pharmaceuticals,Aclaris Therapeutics,-$0.11 B,USA
+503, 💊 Pharmaceuticals,Pyxis Oncology,-$0.11 B,USA
+504, 💊 Pharmaceuticals,RAPT Therapeutics,-$0.11 B,USA
+505, 💊 Pharmaceuticals,Vera Therapeutics,-$0.11 B,USA
+506, 💊 Pharmaceuticals,Fulcrum Therapeutics,-$0.11 B,USA
+507, 💊 Pharmaceuticals,UroGen Pharma,-$0.11 B,USA
+508, 💊 Pharmaceuticals,Athira Pharma,-$0.11 B,USA
+509, 💊 Pharmaceuticals,Veru,-$0.11 B,USA
+510, 💊 Pharmaceuticals,Solid Biosciences,-$0.11 B,USA
+511, 💊 Pharmaceuticals,Atea Pharmaceuticals,-$0.11 B,USA
+512, 💊 Pharmaceuticals,Absci,-$0.12 B,USA
+513, 💊 Pharmaceuticals,Vor Biopharma,-$0.12 B,USA
+514, 💊 Pharmaceuticals,Omega Therapeutics,-$0.12 B,USA
+515, 💊 Pharmaceuticals,Sangamo Therapeutics,-$0.12 B,USA
+516, 💊 Pharmaceuticals,MeiraGTx,-$0.12 B,USA
+517, 💊 Pharmaceuticals,Adaptimmune Therapeutics,-$0.12 B,UK
+518, 💊 Pharmaceuticals,KalVista Pharmaceuticals,-$0.12 B,USA
+519, 💊 Pharmaceuticals,Tango Therapeutics,-$0.12 B,USA
+520, 💊 Pharmaceuticals,Nuvalent,-$0.12 B,USA
+521, 💊 Pharmaceuticals,Glaukos,-$0.12 B,USA
+522, 💊 Pharmaceuticals,Adicet Bio,-$0.12 B,USA
+523, 💊 Pharmaceuticals,Cara Therapeutics,-$0.12 B,USA
+524, 💊 Pharmaceuticals,Akero Therapeutics,-$0.12 B,USA
+525, 💊 Pharmaceuticals,Karyopharm Therapeutics,-$0.12 B,USA
+526, 💊 Pharmaceuticals,BioAtla,-$0.12 B,USA
+527, 💊 Pharmaceuticals,4D Molecular Therapeutics,-$0.12 B,USA
+528, 💊 Pharmaceuticals,89bio,-$0.12 B,USA
+529, 💊 Pharmaceuticals,VBI Vaccines,-$0.12 B,USA
+530, 💊 Pharmaceuticals,Affimed,-$0.12 B,Germany
+531, 💊 Pharmaceuticals,Kronos Bio,-$0.13 B,USA
+532, 💊 Pharmaceuticals,Celldex Therapeutics,-$0.13 B,USA
+533, 💊 Pharmaceuticals,Portage Biotech,-$0.13 B,British Virgin Islands
+534, 💊 Pharmaceuticals,Taysha Gene Therapies,-$0.13 B,USA
+535, 💊 Pharmaceuticals,AnaptysBio,-$0.13 B,USA
+536, 💊 Pharmaceuticals,Monte Rosa Therapeutics,-$0.13 B,USA
+537, 💊 Pharmaceuticals,Tonix Pharmaceuticals,-$0.13 B,USA
+538, 💊 Pharmaceuticals,Keros Therapeutics,-$0.13 B,USA
+539, 💊 Pharmaceuticals,Xencor,-$0.13 B,USA
+540, 💊 Pharmaceuticals,Generation Bio,-$0.13 B,USA
+541, 💊 Pharmaceuticals,Gritstone bio,-$0.13 B,USA
+542, 💊 Pharmaceuticals,Foghorn Therapeutics,-$0.13 B,USA
+543, 💊 Pharmaceuticals,Prelude Therapeutics,-$0.13 B,USA
+544, 💊 Pharmaceuticals,Graphite Bio,-$0.13 B,USA
+545, 💊 Pharmaceuticals,Relmada Therapeutics,-$0.13 B,USA
+546, 💊 Pharmaceuticals,ProKidney,-$0.13 B,USA
+547, 💊 Pharmaceuticals,Seres Therapeutics,-$0.14 B,USA
+548, 💊 Pharmaceuticals,X4 Pharmaceuticals,-$0.14 B,USA
+549, 💊 Pharmaceuticals,Lexicon Pharmaceuticals,-$0.14 B,USA
+550, 💊 Pharmaceuticals,ACADIA Pharmaceuticals,-$0.14 B,USA
+551, 💊 Pharmaceuticals,C4 Therapeutics,-$0.14 B,USA
+552, 💊 Pharmaceuticals,Krystal Biotech,-$0.14 B,USA
+553, 💊 Pharmaceuticals,ALX Oncology,-$0.14 B,USA
+554, 💊 Pharmaceuticals,Kinnate Biopharma,-$0.14 B,USA
+555, 💊 Pharmaceuticals,Enanta Pharmaceuticals,-$0.14 B,USA
+556, 💊 Pharmaceuticals,Adverum Biotechnologies,-$0.14 B,USA
+557, 💊 Pharmaceuticals,Sutro Biopharma,-$0.14 B,USA
+558, 💊 Pharmaceuticals,Tenaya Therapeutics,-$0.14 B,USA
+559, 💊 Pharmaceuticals,Zealand Pharma,-$0.14 B,Denmark
+560, 💊 Pharmaceuticals,Wave Life Sciences,-$0.14 B,Singapore
+561, 💊 Pharmaceuticals,Nkarta,-$0.14 B,USA
+562, 💊 Pharmaceuticals,Heron Therapeutics,-$0.14 B,USA
+563, 💊 Pharmaceuticals,ADC Therapeutics,-$0.14 B,Switzerland
+564, 💊 Pharmaceuticals,Protagonist Therapeutics,-$0.14 B,USA
+565, 💊 Pharmaceuticals,Bicycle Therapeutics,-$0.14 B,UK
+566, 💊 Pharmaceuticals,Alector,-$0.14 B,USA
+567, 💊 Pharmaceuticals,Kura Oncology,-$0.14 B,USA
+568, 💊 Pharmaceuticals,Neumora Therapeutics,-$0.15 B,USA
+569, 💊 Pharmaceuticals,Atai Life Sciences,-$0.15 B,Germany
+570, 💊 Pharmaceuticals,Morphic Therapeutic,-$0.15 B,USA
+571, 💊 Pharmaceuticals,Avadel Pharmaceuticals,-$0.15 B,Ireland
+572, 💊 Pharmaceuticals,Pliant Therapeutics,-$0.15 B,USA
+573, 💊 Pharmaceuticals,Erasca,-$0.15 B,USA
+574, 💊 Pharmaceuticals,Opthea,-$0.15 B,Australia
+575, 💊 Pharmaceuticals,Prime Medicine,-$0.16 B,USA
+576, 💊 Pharmaceuticals,Allakos,-$0.16 B,USA
+577, 💊 Pharmaceuticals,Annexon,-$0.16 B,USA
+578, 💊 Pharmaceuticals,Galapagos NV,-$0.16 B,Belgium
+579, 💊 Pharmaceuticals,Intra-Cellular Therapies,-$0.16 B,USA
+580, 💊 Pharmaceuticals,Omeros Corporation,-$0.16 B,USA
+581, 💊 Pharmaceuticals,Ventyx Biosciences,-$0.16 B,USA
+582, 💊 Pharmaceuticals,Nurix Therapeutics,-$0.16 B,USA
+583, 💊 Pharmaceuticals,Praxis Precision Medicines,-$0.16 B,USA
+584, 💊 Pharmaceuticals,Intercept Pharmaceuticals,-$0.16 B,USA
+585, 💊 Pharmaceuticals,Scholar Rock Holding,-$0.16 B,USA
+586, 💊 Pharmaceuticals,Syndax Pharmaceuticals,-$0.17 B,USA
+587, 💊 Pharmaceuticals,Esperion Therapeutics,-$0.17 B,USA
+588, 💊 Pharmaceuticals,Invivyd,-$0.17 B,USA
+589, 💊 Pharmaceuticals,Geron,-$0.17 B,USA
+590, 💊 Pharmaceuticals,Inovio Pharmaceuticals,-$0.17 B,USA
+591, 💊 Pharmaceuticals,Kymera Therapeutics,-$0.17 B,USA
+592, 💊 Pharmaceuticals,NGM Biopharmaceuticals,-$0.17 B,USA
+593, 💊 Pharmaceuticals,Arrowhead Pharmaceuticals,-$0.18 B,USA
+594, 💊 Pharmaceuticals,Inhibrx,-$0.18 B,USA
+595, 💊 Pharmaceuticals,Prothena,-$0.18 B,Ireland
+596, 💊 Pharmaceuticals,Autolus Therapeutics,-$0.18 B,UK
+597, 💊 Pharmaceuticals,AlloVir,-$0.18 B,USA
+598, 💊 Pharmaceuticals,Mirum Pharmaceuticals,-$0.18 B,USA
+599, 💊 Pharmaceuticals,Merus,-$0.18 B,Netherlands
+600, 💊 Pharmaceuticals,Day One Biopharmaceuticals,-$0.18 B,USA
+601, 💊 Pharmaceuticals,Arcellx,-$0.18 B,USA
+602, 💊 Pharmaceuticals,Adaptive Biotechnologies,-$0.18 B,USA
+603, 💊 Pharmaceuticals,Rhythm Pharmaceuticals,-$0.19 B,USA
+604, 💊 Pharmaceuticals,Axsome Therapeutics,-$0.19 B,USA
+605, 💊 Pharmaceuticals,Crinetics Pharmaceuticals,-$0.19 B,USA
+606, 💊 Pharmaceuticals,Instil Bio,-$0.19 B,USA
+607, 💊 Pharmaceuticals,Phathom Pharmaceuticals,-$0.19 B,USA
+608, 💊 Pharmaceuticals,Xenon Pharmaceuticals,-$0.19 B,Canada
+609, 💊 Pharmaceuticals,Centessa Pharmaceuticals,-$0.19 B,UK
+610, 💊 Pharmaceuticals,uniQure,-$0.19 B,Netherlands
+611, 💊 Pharmaceuticals,Amicus Therapeutics,-$0.19 B,USA
+612, 💊 Pharmaceuticals,BioXcel Therapeutics,-$0.2 B,USA
+613, 💊 Pharmaceuticals,Avidity Biosciences,-$0.2 B,USA
+614, 💊 Pharmaceuticals,Cogent Biosciences,-$0.2 B,USA
+615, 💊 Pharmaceuticals,2seventy bio,-$0.2 B,USA
+616, 💊 Pharmaceuticals,Viridian Therapeutics,-$0.2 B,USA
+617, 💊 Pharmaceuticals,Exscientia,-$0.21 B,UK
+618, 💊 Pharmaceuticals,Agenus,-$0.21 B,USA
+619, 💊 Pharmaceuticals,Akeso,-$0.21 B,China
+620, 💊 Pharmaceuticals,Gossamer Bio,-$0.21 B,USA
+621, 💊 Pharmaceuticals,Verve Therapeutics,-$0.21 B,USA
+622, 💊 Pharmaceuticals,Lyell Immunopharma,-$0.21 B,USA
+623, 💊 Pharmaceuticals,Mersana Therapeutics,-$0.22 B,USA
+624, 💊 Pharmaceuticals,Editas Medicine,-$0.22 B,USA
+625, 💊 Pharmaceuticals,HUTCHMED,-$0.23 B,Hong Kong
+626, 💊 Pharmaceuticals,Fortress Biotech,-$0.23 B,USA
+627, 💊 Pharmaceuticals,Coherus BioSciences,-$0.23 B,USA
+628, 💊 Pharmaceuticals,BioCryst Pharmaceuticals,-$0.24 B,USA
+629, 💊 Pharmaceuticals,Fate Therapeutics,-$0.25 B,USA
+630, 💊 Pharmaceuticals,Immunovant,-$0.25 B,USA
+631, 💊 Pharmaceuticals,IGM Biosciences,-$0.25 B,USA
+632, 💊 Pharmaceuticals,Rocket Pharmaceuticals,-$0.25 B,USA
+633, 💊 Pharmaceuticals,ACELYRIN,-$0.26 B,USA
+634, 💊 Pharmaceuticals,REGENXBIO,-$0.27 B,USA
+635, 💊 Pharmaceuticals,Zentalis Pharmaceuticals,-$0.27 B,USA
+636, 💊 Pharmaceuticals,EQRx,-$0.27 B,USA
+637, 💊 Pharmaceuticals,Recursion Pharmaceuticals,-$0.27 B,USA
+638, 💊 Pharmaceuticals,Argenx,-$0.29 B,Netherlands
+639, 💊 Pharmaceuticals,Atara Biotherapeutics,-$0.29 B,USA
+640, 💊 Pharmaceuticals,Kodiak Sciences,-$0.3 B,USA
+641, 💊 Pharmaceuticals,Nektar Therapeutics,-$0.31 B,USA
+642, 💊 Pharmaceuticals,Arvinas,-$0.31 B,USA
+643, 💊 Pharmaceuticals,SpringWorks Therapeutics,-$0.31 B,USA
+644, 💊 Pharmaceuticals,Travere Therapeutics,-$0.31 B,USA
+645, 💊 Pharmaceuticals,Curevac,-$0.33 B,Germany
+646, 💊 Pharmaceuticals,FibroGen,-$0.33 B,USA
+647, 💊 Pharmaceuticals,Arcutis Biotherapeutics,-$0.34 B,USA
+648, 💊 Pharmaceuticals,Relay Therapeutics,-$0.35 B,USA
+649, 💊 Pharmaceuticals,Allogene Therapeutics,-$0.36 B,USA
+650, 💊 Pharmaceuticals,CRISPR Therapeutics,-$0.37 B,Switzerland
+651, 💊 Pharmaceuticals,ImmunityBio,-$0.37 B,USA
+652, 💊 Pharmaceuticals,Sana Biotechnology,-$0.37 B,USA
+653, 💊 Pharmaceuticals,Inotiv,-$0.38 B,USA
+654, 💊 Pharmaceuticals,Beam Therapeutics,-$0.39 B,USA
+655, 💊 Pharmaceuticals,Alnylam Pharmaceuticals,-$0.39 B,USA
+656, 💊 Pharmaceuticals,Agios Pharmaceuticals,-$0.39 B,USA
+657, 💊 Pharmaceuticals,Alvotech,-$0.39 B,Iceland
+658, 💊 Pharmaceuticals,Cerevel Therapeutics,-$0.4 B,USA
+659, 💊 Pharmaceuticals,Zai Lab,-$0.4 B,China
+660, 💊 Pharmaceuticals,Iovance Biotherapeutics,-$0.43 B,USA
+661, 💊 Pharmaceuticals,Bayer,-$0.44 B,Germany
+662, 💊 Pharmaceuticals,Karuna Therapeutics,-$0.46 B,USA
+663, 💊 Pharmaceuticals,Biohaven Pharmaceutical,-$0.46 B,USA
+664, 💊 Pharmaceuticals,Intellia Therapeutics,-$0.46 B,USA
+665, 💊 Pharmaceuticals,Emergent BioSolutions,-$0.48 B,USA
+666, 💊 Pharmaceuticals,Ionis Pharmaceuticals,-$0.49 B,USA
+667, 💊 Pharmaceuticals,Cytokinetics,-$0.53 B,USA
+668, 💊 Pharmaceuticals,BridgeBio Pharma,-$0.55 B,USA
+669, 💊 Pharmaceuticals,Legend Biotech,-$0.55 B,USA
+670, 💊 Pharmaceuticals,Sorrento Therapeutics,-$0.55 B,USA
+671, 💊 Pharmaceuticals,Blueprint Medicines,-$0.56 B,USA
+672, 💊 Pharmaceuticals,Novavax,-$0.57 B,USA
+673, 💊 Pharmaceuticals,Ascendis Pharma,-$0.58 B,Denmark
+674, 💊 Pharmaceuticals,Ultragenyx,-$0.58 B,USA
+675, 💊 Pharmaceuticals,Sage Therapeutics,-$0.6 B,USA
+676, 💊 Pharmaceuticals,Summit Therapeutics,-$0.6 B,UK
+677, 💊 Pharmaceuticals,Sumitomo Pharma,-$0.66 B,Japan
+678, 💊 Pharmaceuticals,Sarepta Therapeutics,-$0.67 B,USA
+679, 💊 Pharmaceuticals,PTC Therapeutics,-$0.73 B,USA
+680, 💊 Pharmaceuticals,Bausch Health,-$0.76 B,Canada
+681, 💊 Pharmaceuticals,Mirati Therapeutics,-$0.77 B,USA
+682, 💊 Pharmaceuticals,Seagen,-$0.8 B,USA
+683, 💊 Pharmaceuticals,Ginkgo Bioworks,-$0.83 B,USA
+684, 💊 Pharmaceuticals,BB Biotech,-$0.87 B,Switzerland
+685, 💊 Pharmaceuticals,Ironwood Pharmaceuticals,-$0.87 B,USA
+686, 💊 Pharmaceuticals,Idorsia,-$0.87 B,Switzerland
+687, 💊 Pharmaceuticals,Endo International,-$0.92 B,Ireland
+688, 💊 Pharmaceuticals,Catalent,-$0.92 B,USA
+689, 💊 Pharmaceuticals,Roivant Sciences,-$1.09 B,UK
+690, 💊 Pharmaceuticals,Teva Pharmaceutical Industries,-$1.15 B,Israel
+691, 💊 Pharmaceuticals,Mallinckrodt Pharmaceuticals,-$1.16 B,UK
+692, 💊 Pharmaceuticals,Elanco,-$1.16 B,USA
+693, 💊 Pharmaceuticals,BeiGene,-$1.3 B,China
+694, 💊 Pharmaceuticals,Rite Aid,-$1.4 B,USA
+695, 💊 Pharmaceuticals,Tilray,-$1.45 B,Canada
+696, 💊 Pharmaceuticals,Moderna,-$2.67 B,USA
+697, 💊 Pharmaceuticals,Walgreens Boots Alliance,-$4.85 B,USA

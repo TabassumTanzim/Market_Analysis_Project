@@ -1,0 +1,936 @@
+Rank,Company,Revenue,Category,Country
+1,CVS Health,347800000000.0, 💊 Pharmaceuticals,USA
+2,Walgreens Boots Alliance,139080000000.0, 💊 Pharmaceuticals,USA
+3,Johnson & Johnson,91320000000.0, 💊 Pharmaceuticals,USA
+4,Sinopharm,80050000000.0, 💊 Pharmaceuticals,China
+5,Pfizer,68530000000.0, 💊 Pharmaceuticals,USA
+6,Roche,68500000000.0, 💊 Pharmaceuticals,Switzerland
+7,Merck,59310000000.0, 💊 Pharmaceuticals,USA
+8,AbbVie,55130000000.0, 💊 Pharmaceuticals,USA
+9,Novartis,52320000000.0, 💊 Pharmaceuticals,Switzerland
+10,Bayer,51470000000.0, 💊 Pharmaceuticals,Germany
+11,Sanofi,49130000000.0, 💊 Pharmaceuticals,France
+12,AstraZeneca,44990000000.0, 💊 Pharmaceuticals,UK
+13,Bristol-Myers Squibb,44930000000.0, 💊 Pharmaceuticals,USA
+14,GlaxoSmithKline,36530000000.0, 💊 Pharmaceuticals,UK
+15,China Resources Pharmaceutical Group,32580000000.0, 💊 Pharmaceuticals,Hong Kong
+16,Eli Lilly,32070000000.0, 💊 Pharmaceuticals,USA
+17,Novo Nordisk,30980000000.0, 💊 Pharmaceuticals,Denmark
+18,Takeda Pharmaceutical,29840000000.0, 💊 Pharmaceuticals,Japan
+19,Gilead Sciences,27390000000.0, 💊 Pharmaceuticals,USA
+20,Amgen,26830000000.0, 💊 Pharmaceuticals,USA
+21,Rite Aid,23470000000.0, 💊 Pharmaceuticals,USA
+22,Merck KGaA,23060000000.0, 💊 Pharmaceuticals,Germany
+23,Viatris,15460000000.0, 💊 Pharmaceuticals,USA
+24,Teva Pharmaceutical Industries,15270000000.0, 💊 Pharmaceuticals,Israel
+25,Baxter,14950000000.0, 💊 Pharmaceuticals,USA
+26,Otsuka Holdings,13970000000.0, 💊 Pharmaceuticals,Japan
+27,LabCorp,13540000000.0, 💊 Pharmaceuticals,USA
+28,CSL,13170000000.0, 💊 Pharmaceuticals,Australia
+29,Regeneron Pharmaceuticals,13090000000.0, 💊 Pharmaceuticals,USA
+30,Astellas Pharma,10940000000.0, 💊 Pharmaceuticals,Japan
+31,Daiichi Sankyō,10010000000.0, 💊 Pharmaceuticals,Japan
+32,Biogen,9990000000.0, 💊 Pharmaceuticals,USA
+33,Vertex Pharmaceuticals,9650000000.0, 💊 Pharmaceuticals,USA
+34,Chugai Pharmaceutical,9260000000.0, 💊 Pharmaceuticals,Japan
+35,Moderna,9120000000.0, 💊 Pharmaceuticals,USA
+36,Zoetis,8369999999.999999, 💊 Pharmaceuticals,USA
+37,ICON plc,8010000000.0, 💊 Pharmaceuticals,Ireland
+38,Bausch Health,8010000000.0, 💊 Pharmaceuticals,Canada
+39,BioNTech,7100000000.0, 💊 Pharmaceuticals,Germany
+40,Grifols,6840000000.0, 💊 Pharmaceuticals,Spain
+41,Lonza,6730000000.0, 💊 Pharmaceuticals,Switzerland
+42,Organon,6150000000.0, 💊 Pharmaceuticals,USA
+43,UCB,5900000000.0, 💊 Pharmaceuticals,Belgium
+44,WuXi AppTec,5740000000.0, 💊 Pharmaceuticals,China
+45,Sun Pharmaceutical,5520000000.0, 💊 Pharmaceuticals,India
+46,Eisai,5460000000.0, 💊 Pharmaceuticals,Japan
+47,Perrigo,4650000000.0, 💊 Pharmaceuticals,Ireland
+48,Elanco,4370000000.0, 💊 Pharmaceuticals,USA
+49,Galenica,4340000000.0, 💊 Pharmaceuticals,Switzerland
+50,Catalent,4230000000.000001, 💊 Pharmaceuticals,USA
+51,Jazz Pharmaceuticals,3790000000.0, 💊 Pharmaceuticals,Ireland
+52,Shionogi,3660000000.0, 💊 Pharmaceuticals,Japan
+53,Horizon Therapeutics,3640000000.0, 💊 Pharmaceuticals,Ireland
+54,Incyte,3600000000.0, 💊 Pharmaceuticals,USA
+55,Ono Pharmaceutical,3500000000.0, 💊 Pharmaceuticals,Japan
+56,Richter Gedeon,3430000000.0, 💊 Pharmaceuticals,Hungary
+57,Sino Biopharmaceutical,3430000000.0, 💊 Pharmaceuticals,China
+58,Ipsen,3380000000.0, 💊 Pharmaceuticals,France
+59,Aurobindo Pharma,3230000000.0, 💊 Pharmaceuticals,India
+60,Dr. Reddy's,3230000000.0, 💊 Pharmaceuticals,India
+61,Jiangsu Hengrui Medicine,3170000000.0, 💊 Pharmaceuticals,China
+62,kyowa Kirin,3020000000.0, 💊 Pharmaceuticals,Japan
+63,West Pharmaceutical,2920000000.0, 💊 Pharmaceuticals,USA
+64,Lundbeck,2830000000.0, 💊 Pharmaceuticals,Denmark
+65,Sumitomo Pharma,2830000000.0, 💊 Pharmaceuticals,Japan
+66,Hikma Pharmaceuticals,2510000000.0, 💊 Pharmaceuticals,UK
+67,Genmab,2450000000.0, 💊 Pharmaceuticals,Denmark
+68,Royalty Pharma,2320000000.0, 💊 Pharmaceuticals,UK
+69,Amneal Pharmaceuticals,2310000000.0, 💊 Pharmaceuticals,USA
+70,BioMarin Pharmaceutical,2310000000.0, 💊 Pharmaceuticals,USA
+71,Seagen,2300000000.0, 💊 Pharmaceuticals,USA
+72,Taisho Pharmaceutical,2290000000.0, 💊 Pharmaceuticals,Japan
+73,Clicks Group,2220000000.0, 💊 Pharmaceuticals,South Africa
+74,Zydus Lifesciences,2220000000.0, 💊 Pharmaceuticals,India
+75,WuXi Biologics,2210000000.0, 💊 Pharmaceuticals,China
+76,Lupin Limited,2210000000.0, 💊 Pharmaceuticals,India
+77,BeiGene,2200000000.0, 💊 Pharmaceuticals,China
+78,United Therapeutics,2200000000.0, 💊 Pharmaceuticals,USA
+79,Aspen Pharmacare,2170000000.0, 💊 Pharmaceuticals,South Africa
+80,Endo International,2150000000.0, 💊 Pharmaceuticals,Ireland
+81,Santen Pharmaceutical,2120000000.0, 💊 Pharmaceuticals,Japan
+82,Recordati,2120000000.0, 💊 Pharmaceuticals,Italy
+83,Swedish Orphan Biovitrum,2000000000.0, 💊 Pharmaceuticals,Sweden
+84,Mallinckrodt Pharmaceuticals,1930000000.0, 💊 Pharmaceuticals,UK
+85,Rohto Pharmaceutical,1840000000.0, 💊 Pharmaceuticals,Japan
+86,Neurocrine Biosciences,1780000000.0, 💊 Pharmaceuticals,USA
+87,Medpace,1780000000.0, 💊 Pharmaceuticals,USA
+88,Exelixis,1770000000.0, 💊 Pharmaceuticals,USA
+89,Medios AG,1760000000.0, 💊 Pharmaceuticals,Germany
+90,Celltrion,1750000000.0, 💊 Pharmaceuticals,S. Korea
+91,Alnylam Pharmaceuticals,1720000000.0, 💊 Pharmaceuticals,USA
+92,Biocon,1640000000.0, 💊 Pharmaceuticals,India
+93,Glenmark Pharmaceuticals,1620000000.0, 💊 Pharmaceuticals,India
+94,Cipla,1600000000.0, 💊 Pharmaceuticals,India
+95,Alkermes,1590000000.0, 💊 Pharmaceuticals,Ireland
+96,Alkem Laboratories,1490000000.0, 💊 Pharmaceuticals,India
+97,Novavax,1440000000.0, 💊 Pharmaceuticals,USA
+98,Yuhan,1430000000.0, 💊 Pharmaceuticals,S. Korea
+99,Hansoh Pharma,1360000000.0, 💊 Pharmaceuticals,China
+100,Siegfried Holding,1330000000.0, 💊 Pharmaceuticals,Switzerland
+101,Virbac SA,1300000000.0, 💊 Pharmaceuticals,France
+102,Orion Corporation,1250000000.0, 💊 Pharmaceuticals,Finland
+103,KOBAYASHI Pharmaceutical,1230000000.0, 💊 Pharmaceuticals,Japan
+104,Torrent Pharmaceuticals,1220000000.0, 💊 Pharmaceuticals,India
+105,Mankind Pharma,1190000000.0, 💊 Pharmaceuticals,India
+106,Bio-Techne,1140000000.0, 💊 Pharmaceuticals,USA
+107,Sarepta Therapeutics,1100000000.0, 💊 Pharmaceuticals,USA
+108,Emergent BioSolutions,1070000000.0, 💊 Pharmaceuticals,USA
+109,Nippon Shinyaku,1050000000.0, 💊 Pharmaceuticals,Japan
+110,Indivior PLC,1000000000.0, 💊 Pharmaceuticals,USA
+111,Argenx,990000000.0, 💊 Pharmaceuticals,Netherlands
+112,Almirall,990000000.0, 💊 Pharmaceuticals,Spain
+113,Dechra Pharmaceuticals,960000000.0, 💊 Pharmaceuticals,UK
+114,Piramal Pharma,910000000.0, 💊 Pharmaceuticals,India
+115,Laboratorios Farmaceuticos Rovi,900000000.0, 💊 Pharmaceuticals,Spain
+116,Divis Laboratories,890000000.0, 💊 Pharmaceuticals,India
+117,Hanmi Pharmaceutical,860000000.0, 💊 Pharmaceuticals,S. Korea
+118,KYORIN Pharmaceutical,840000000.0, 💊 Pharmaceuticals,Japan
+119,Evotec,820000000.0, 💊 Pharmaceuticals,Germany
+120,Ipca Laboratories,800000000.0, 💊 Pharmaceuticals,India
+121,PTC Therapeutics,790000000.0, 💊 Pharmaceuticals,USA
+122,Bavarian Nordic,790000000.0, 💊 Pharmaceuticals,Denmark
+123,Halozyme Therapeutics,780000000.0, 💊 Pharmaceuticals,USA
+124,Jubilant Pharmova,770000000.0, 💊 Pharmaceuticals,India
+125,Fagron,730000000.0, 💊 Pharmaceuticals,Belgium
+126,Alembic Pharmaceuticals,710000000.0, 💊 Pharmaceuticals,India
+127,Abbott India,680000000.0, 💊 Pharmaceuticals,India
+128,ALK-Abelló,680000000.0, 💊 Pharmaceuticals,Denmark
+129,Hualan Biological Engineering,680000000.0, 💊 Pharmaceuticals,China
+130,Tilray,650000000.0, 💊 Pharmaceuticals,Canada
+131,Laurus Labs,640000000.0, 💊 Pharmaceuticals,India
+132,Supernus Pharmaceuticals,630000000.0, 💊 Pharmaceuticals,USA
+133,ACADIA Pharmaceuticals,630000000.0, 💊 Pharmaceuticals,USA
+134,Ionis Pharmaceuticals,610000000.0, 💊 Pharmaceuticals,USA
+135,Galapagos NV,590000000.0, 💊 Pharmaceuticals,Belgium
+136,Taro Pharmaceutical,580000000.0, 💊 Pharmaceuticals,Israel
+137,Inotiv,580000000.0, 💊 Pharmaceuticals,USA
+138,Bachem,570000000.0, 💊 Pharmaceuticals,Switzerland
+139,Biotest,570000000.0, 💊 Pharmaceuticals,Germany
+140,Granules India,540000000.0, 💊 Pharmaceuticals,India
+141,Maravai LifeSciences,540000000.0, 💊 Pharmaceuticals,USA
+142,Harmony Biosciences,540000000.0, 💊 Pharmaceuticals,USA
+143,Amphastar Pharmaceuticals,540000000.0, 💊 Pharmaceuticals,USA
+144,Collegium Pharmaceutical,530000000.0, 💊 Pharmaceuticals,USA
+145,Gland Pharma,480000000.0, 💊 Pharmaceuticals,India
+146,Faes Farma,460000000.0, 💊 Pharmaceuticals,Spain
+147,Dynavax Technologies,450000000.0, 💊 Pharmaceuticals,USA
+148,Strides Pharma,450000000.0, 💊 Pharmaceuticals,India
+149,Corcept Therapeutics,450000000.0, 💊 Pharmaceuticals,USA
+150,Zymeworks,440000000.0, 💊 Pharmaceuticals,Canada
+151,Ironwood Pharmaceuticals,420000000.0, 💊 Pharmaceuticals,USA
+152,Intra-Cellular Therapies,410000000.0, 💊 Pharmaceuticals,USA
+153,Ultragenyx,410000000.0, 💊 Pharmaceuticals,USA
+154,Procaps Group,400000000.0, 💊 Pharmaceuticals,Luxembourg
+155,ANI Pharmaceuticals,400000000.0, 💊 Pharmaceuticals,USA
+156,Amicus Therapeutics,370000000.0, 💊 Pharmaceuticals,USA
+157,Natco Pharma,360000000.0, 💊 Pharmaceuticals,India
+158,Valneva SE,350000000.0, 💊 Pharmaceuticals,France
+159,Sanofi India Limited,340000000.0, 💊 Pharmaceuticals,India
+160,Aarti Drugs,320000000.0, 💊 Pharmaceuticals,India
+161,Amarin Corporation,320000000.0, 💊 Pharmaceuticals,Ireland
+162,BioCryst Pharmaceuticals,310000000.0, 💊 Pharmaceuticals,USA
+163,Ginkgo Bioworks,310000000.0, 💊 Pharmaceuticals,USA
+164,Morphosys,300000000.0, 💊 Pharmaceuticals,Germany
+165,Intercept Pharmaceuticals,300000000.0, 💊 Pharmaceuticals,USA
+166,Glaukos,300000000.0, 💊 Pharmaceuticals,USA
+167,Catalyst Pharmaceuticals,300000000.0, 💊 Pharmaceuticals,USA
+168,PolyPeptide Group,300000000.0, 💊 Pharmaceuticals,Switzerland
+169,Innoviva,290000000.0, 💊 Pharmaceuticals,USA
+170,ImmunoGen,280000000.0, 💊 Pharmaceuticals,USA
+171,HUTCHMED,260000000.0, 💊 Pharmaceuticals,Hong Kong
+172,Arcturus Therapeutics,260000000.0, 💊 Pharmaceuticals,USA
+173,Eagle Pharmaceuticals,250000000.0, 💊 Pharmaceuticals,USA
+174,Arrowhead Pharmaceuticals,250000000.0, 💊 Pharmaceuticals,USA
+175,Zai Lab,250000000.0, 💊 Pharmaceuticals,China
+176,Kiniksa Pharmaceuticals,240000000.0, 💊 Pharmaceuticals,Bermuda
+177,Hikal,240000000.0, 💊 Pharmaceuticals,India
+178,POINT Biopharma,240000000.0, 💊 Pharmaceuticals,USA
+179,I-Mab Biopharma,230000000.0, 💊 Pharmaceuticals,China
+180,Vanda Pharmaceuticals,230000000.0, 💊 Pharmaceuticals,USA
+181,Marksans Pharma,230000000.0, 💊 Pharmaceuticals,India
+182,PeptiDream,230000000.0, 💊 Pharmaceuticals,Japan
+183,Puma Biotechnology,230000000.0, 💊 Pharmaceuticals,USA
+184,Travere Therapeutics,220000000.0, 💊 Pharmaceuticals,USA
+185,FDC India,220000000.0, 💊 Pharmaceuticals,India
+186,Immunocore,210000000.0, 💊 Pharmaceuticals,UK
+187,Pharming Group,210000000.0, 💊 Pharmaceuticals,Netherlands
+188,Blueprint Medicines,210000000.0, 💊 Pharmaceuticals,USA
+189,Indoco Remedies,200000000.0, 💊 Pharmaceuticals,India
+190,ADMA Biologics,200000000.0, 💊 Pharmaceuticals,USA
+191,Sangamo Therapeutics,200000000.0, 💊 Pharmaceuticals,USA
+192,Akebia Therapeutics,200000000.0, 💊 Pharmaceuticals,USA
+193,Voyager Therapeutics,190000000.0, 💊 Pharmaceuticals,USA
+194,Amylyx Pharmaceuticals,190000000.0, 💊 Pharmaceuticals,USA
+195,TG Therapeutics,180000000.0, 💊 Pharmaceuticals,USA
+196,Adaptive Biotechnologies,180000000.0, 💊 Pharmaceuticals,USA
+197,Pharma Mar,180000000.0, 💊 Pharmaceuticals,Spain
+198,Nectar Lifesciences,180000000.0, 💊 Pharmaceuticals,India
+199,ADC Therapeutics,180000000.0, 💊 Pharmaceuticals,Switzerland
+200,Axsome Therapeutics,180000000.0, 💊 Pharmaceuticals,USA
+201,Coherus BioSciences,180000000.0, 💊 Pharmaceuticals,USA
+202,Vericel,170000000.0, 💊 Pharmaceuticals,USA
+203,Sequent Scientific,170000000.0, 💊 Pharmaceuticals,India
+204,CRISPR Therapeutics,170000000.0, 💊 Pharmaceuticals,Switzerland
+205,Evolus,160000000.0, 💊 Pharmaceuticals,USA
+206,Assertio Therapeutics,160000000.0, 💊 Pharmaceuticals,USA
+207,Repare Therapeutics,160000000.0, 💊 Pharmaceuticals,Canada
+208,Ascendis Pharma,160000000.0, 💊 Pharmaceuticals,Denmark
+209,Legend Biotech,160000000.0, 💊 Pharmaceuticals,USA
+210,Neuland Laboratories,160000000.0, 💊 Pharmaceuticals,India
+211,Shinpoong Pharm,160000000.0, 💊 Pharmaceuticals,S. Korea
+212,Olink Holding,150000000.0, 💊 Pharmaceuticals,Sweden
+213,Aurinia Pharmaceuticals,150000000.0, 💊 Pharmaceuticals,Canada
+214,MannKind Corp,150000000.0, 💊 Pharmaceuticals,USA
+215,Poseida Therapeutics,150000000.0, 💊 Pharmaceuticals,USA
+216,Arvinas,150000000.0, 💊 Pharmaceuticals,USA
+217,Avid Bioservices,150000000.0, 💊 Pharmaceuticals,USA
+218,MacroGenics,150000000.0, 💊 Pharmaceuticals,USA
+219,2seventy bio,140000000.0, 💊 Pharmaceuticals,USA
+220,Karyopharm Therapeutics,140000000.0, 💊 Pharmaceuticals,USA
+221,Kamada,140000000.0, 💊 Pharmaceuticals,Israel
+222,AbCellera,140000000.0, 💊 Pharmaceuticals,Canada
+223,Lifecore Biomedical,140000000.0, 💊 Pharmaceuticals,USA
+224,Idorsia,130000000.0, 💊 Pharmaceuticals,Switzerland
+225,SCYNEXIS,130000000.0, 💊 Pharmaceuticals,USA
+226,Ardelyx,130000000.0, 💊 Pharmaceuticals,USA
+227,Xeris Pharmaceuticals,130000000.0, 💊 Pharmaceuticals,USA
+228,FibroGen,130000000.0, 💊 Pharmaceuticals,USA
+229,Seres Therapeutics,120000000.0, 💊 Pharmaceuticals,USA
+230,Rigel Pharmaceuticals,120000000.0, 💊 Pharmaceuticals,USA
+231,Akeso,120000000.0, 💊 Pharmaceuticals,China
+232,Fate Therapeutics,110000000.0, 💊 Pharmaceuticals,USA
+233,Heron Therapeutics,110000000.0, 💊 Pharmaceuticals,USA
+234,Acorda Therapeutics,110000000.0, 💊 Pharmaceuticals,USA
+235,Mirum Pharmaceuticals,110000000.0, 💊 Pharmaceuticals,USA
+236,InterCure,110000000.0, 💊 Pharmaceuticals,Israel
+237,Xencor,110000000.0, 💊 Pharmaceuticals,USA
+238,uniQure,110000000.0, 💊 Pharmaceuticals,Netherlands
+239,Cosmo Pharmaceuticals,100000000.0, 💊 Pharmaceuticals,Ireland
+240,Aytu BioScience,100000000.0, 💊 Pharmaceuticals,USA
+241,Telix Pharmaceuticals,100000000.0, 💊 Pharmaceuticals,Australia
+242,NewAmsterdam Pharma Company,100000000.0, 💊 Pharmaceuticals,Netherlands
+243,Roivant Sciences,100000000.0, 💊 Pharmaceuticals,UK
+244,Harrow Health,100000000.0, 💊 Pharmaceuticals,USA
+245,Alector,100000000.0, 💊 Pharmaceuticals,USA
+246,Agenus,99350000.0, 💊 Pharmaceuticals,USA
+247,Codexis,99150000.0, 💊 Pharmaceuticals,USA
+248,SIGA Technologies,97770000.0, 💊 Pharmaceuticals,USA
+249,REGENXBIO,96970000.0, 💊 Pharmaceuticals,USA
+250,Calliditas Therapeutics,95680000.0, 💊 Pharmaceuticals,Sweden
+251,Immatics,90090000.0, 💊 Pharmaceuticals,Germany
+252,Societal CDMO,89190000.0, 💊 Pharmaceuticals,USA
+253,Bliss GVS Pharma,87960000.0, 💊 Pharmaceuticals,India
+254,Esperion Therapeutics,87910000.0, 💊 Pharmaceuticals,USA
+255,Nektar Therapeutics,87740000.0, 💊 Pharmaceuticals,USA
+256,iTeos Therapeutics,85980000.0, 💊 Pharmaceuticals,USA
+257,Y-mAbs Therapeutics,84980000.0, 💊 Pharmaceuticals,USA
+258,ChromaDex,80930000.0, 💊 Pharmaceuticals,USA
+259,Enanta Pharmaceuticals,80580000.0, 💊 Pharmaceuticals,USA
+260,Beam Therapeutics,80160000.0, 💊 Pharmaceuticals,USA
+261,Theratechnologies,79730000.0, 💊 Pharmaceuticals,Canada
+262,G1 Therapeutics,77880000.0, 💊 Pharmaceuticals,USA
+263,Rockwell Medical,75750000.0, 💊 Pharmaceuticals,USA
+264,UroGen Pharma,72520000.0, 💊 Pharmaceuticals,USA
+265,OptiNose,72230000.0, 💊 Pharmaceuticals,USA
+266,Turnstone Biologics,71930000.0, 💊 Pharmaceuticals,USA
+267,Adaptimmune Therapeutics,70760000.0, 💊 Pharmaceuticals,UK
+268,Nurix Therapeutics,68610000.0, 💊 Pharmaceuticals,USA
+269,Protalix BioTherapeutics,67460000.0, 💊 Pharmaceuticals,Israel
+270,CytomX Therapeutics,66080000.0, 💊 Pharmaceuticals,USA
+271,RPG Life Sciences,65250000.0, 💊 Pharmaceuticals,India
+272,Sorrento Therapeutics,64269999.99999999, 💊 Pharmaceuticals,USA
+273,Alvotech,63160000.0, 💊 Pharmaceuticals,Iceland
+274,Fortress Biotech,62740000.0, 💊 Pharmaceuticals,USA
+275,Journey Medical,61460000.0, 💊 Pharmaceuticals,USA
+276,OmniAb,59210000.0, 💊 Pharmaceuticals,USA
+277,Prothena,57620000.0, 💊 Pharmaceuticals,Ireland
+278,Sutro Biopharma,56860000.0, 💊 Pharmaceuticals,USA
+279,Ocular Therapeutix,54600000.0, 💊 Pharmaceuticals,USA
+280,Innate Pharma,53160000.0, 💊 Pharmaceuticals,France
+281,Intellia Therapeutics,53030000.0, 💊 Pharmaceuticals,USA
+282,Theravance Biopharma,51260000.0, 💊 Pharmaceuticals,Cayman Islands
+283,Recursion Pharmaceuticals,49870000.0, 💊 Pharmaceuticals,USA
+284,Spero Therapeutics,48960000.0, 💊 Pharmaceuticals,USA
+285,Selecta Biosciences,48690000.0, 💊 Pharmaceuticals,USA
+286,Lyell Immunopharma,48480000.0, 💊 Pharmaceuticals,USA
+287,Kymera Therapeutics,46840000.0, 💊 Pharmaceuticals,USA
+288,Precision BioSciences,46530000.0, 💊 Pharmaceuticals,USA
+289,Aquestive Therapeutics,46520000.0, 💊 Pharmaceuticals,USA
+290,Harpoon Therapeutics,46510000.0, 💊 Pharmaceuticals,USA
+291,Ocuphire Pharma,45270000.0, 💊 Pharmaceuticals,USA
+292,IDEAYA Biosciences,45140000.0, 💊 Pharmaceuticals,USA
+293,Rhythm Pharmaceuticals,43760000.0, 💊 Pharmaceuticals,USA
+294,Entrada Therapeutics,43430000.0, 💊 Pharmaceuticals,USA
+295,CASI Pharmaceuticals,43100000.0, 💊 Pharmaceuticals,USA
+296,EyePoint Pharmaceuticals,42520000.0, 💊 Pharmaceuticals,USA
+297,Merus,41220000.0, 💊 Pharmaceuticals,Netherlands
+298,MaxCyte,40680000.0, 💊 Pharmaceuticals,USA
+299,Curevac,39550000.0, 💊 Pharmaceuticals,Germany
+300,Mersana Therapeutics,38710000.0, 💊 Pharmaceuticals,USA
+301,Mirati Therapeutics,38190000.0, 💊 Pharmaceuticals,USA
+302,Scilex Holding,37900000.0, 💊 Pharmaceuticals,USA
+303,Hester Biosciences,36930000.0, 💊 Pharmaceuticals,India
+304,RVL Pharmaceuticals,36910000.0, 💊 Pharmaceuticals,USA
+305,Wave Life Sciences,36550000.0, 💊 Pharmaceuticals,Singapore
+306,Redhill Biopharma,35740000.0, 💊 Pharmaceuticals,Israel
+307,Silence Therapeutics,35110000.0, 💊 Pharmaceuticals,UK
+308,Tango Therapeutics,33690000.0, 💊 Pharmaceuticals,USA
+309,Chimerix,33650000.0, 💊 Pharmaceuticals,USA
+310,Pieris Pharmaceuticals,33200000.000000004, 💊 Pharmaceuticals,USA
+311,Affimed,33009999.999999996, 💊 Pharmaceuticals,Germany
+312,Arcellx,32210000.0, 💊 Pharmaceuticals,USA
+313,Aclaris Therapeutics,31160000.0, 💊 Pharmaceuticals,USA
+314,CymaBay Therapeutics,31010000.0, 💊 Pharmaceuticals,USA
+315,Cytosorbents,30080000.0, 💊 Pharmaceuticals,USA
+316,NGM Biopharmaceuticals,29760000.0, 💊 Pharmaceuticals,USA
+317,Alpine Immune Sciences,29120000.0, 💊 Pharmaceuticals,USA
+318,Biofrontera,29040000.0, 💊 Pharmaceuticals,USA
+319,SPARC,27460000.0, 💊 Pharmaceuticals,India
+320,Cara Therapeutics,27170000.0, 💊 Pharmaceuticals,USA
+321,MediWound,25990000.0, 💊 Pharmaceuticals,Israel
+322,Marinus Pharmaceuticals,25960000.0, 💊 Pharmaceuticals,USA
+323,Exscientia,25550000.0, 💊 Pharmaceuticals,UK
+324,Werewolf Therapeutics,24790000.0, 💊 Pharmaceuticals,USA
+325,iCAD,24480000.0, 💊 Pharmaceuticals,USA
+326,Agios Pharmaceuticals,24030000.0, 💊 Pharmaceuticals,USA
+327,Arbutus Biopharma,23530000.0, 💊 Pharmaceuticals,USA
+328,TherapeuticsMD,22920000.0, 💊 Pharmaceuticals,USA
+329,Bicycle Therapeutics,22510000.0, 💊 Pharmaceuticals,UK
+330,Zomedica Pharmaceuticals,22430000.0, 💊 Pharmaceuticals,USA
+331,Precigen,22100000.0, 💊 Pharmaceuticals,USA
+332,Foghorn Therapeutics,21720000.0, 💊 Pharmaceuticals,USA
+333,Aadi Bioscience,21540000.0, 💊 Pharmaceuticals,USA
+334,C4 Therapeutics,20340000.0, 💊 Pharmaceuticals,USA
+335,JanOne,19740000.0, 💊 Pharmaceuticals,USA
+336,Editas Medicine,19310000.0, 💊 Pharmaceuticals,USA
+337,Ikena Oncology,19160000.0, 💊 Pharmaceuticals,USA
+338,Liquidia Technologies,17800000.0, 💊 Pharmaceuticals,USA
+339,Cellectis,16550000.0, 💊 Pharmaceuticals,France
+340,Zevra Therapeutics,16540000.0, 💊 Pharmaceuticals,USA
+341,Agile Therapeutics,16309999.999999998, 💊 Pharmaceuticals,USA
+342,ImmunoPrecise Antibodies,16110000.0, 💊 Pharmaceuticals,USA
+343,Celularity,15130000.0, 💊 Pharmaceuticals,USA
+344,Veru,15020000.0, 💊 Pharmaceuticals,USA
+345,Evofem Biosciences,14810000.0, 💊 Pharmaceuticals,USA
+346,Vaccitech,13420000.0, 💊 Pharmaceuticals,UK
+347,AnaptysBio,12930000.0, 💊 Pharmaceuticals,USA
+348,TScan Therapeutics,12750000.0, 💊 Pharmaceuticals,USA
+349,Zealand Pharma,12730000.0, 💊 Pharmaceuticals,Denmark
+350,Sonoma Pharmaceuticals,12710000.0, 💊 Pharmaceuticals,USA
+351,Tarsus Pharmaceuticals,12500000.0, 💊 Pharmaceuticals,USA
+352,ASLAN Pharmaceuticals,12000000.0, 💊 Pharmaceuticals,Singapore
+353,Avacta Group,11690000.0, 💊 Pharmaceuticals,UK
+354,Arcutis Biotherapeutics,11650000.0, 💊 Pharmaceuticals,USA
+355,Nykode Therapeutics,11460000.0, 💊 Pharmaceuticals,Norway
+356,Genelux,11230000.0, 💊 Pharmaceuticals,USA
+357,Jaguar Health,11050000.0, 💊 Pharmaceuticals,USA
+358,electroCore,10860000.0, 💊 Pharmaceuticals,USA
+359,Lineage Cell Therapeutics,10520000.0, 💊 Pharmaceuticals,USA
+360,aTyr Pharma,10380000.0, 💊 Pharmaceuticals,USA
+361,Sage Therapeutics,10370000.0, 💊 Pharmaceuticals,USA
+362,Carisma Therapeutics,10320000.0, 💊 Pharmaceuticals,USA
+363,Curis,10200000.0, 💊 Pharmaceuticals,USA
+364,Avidity Biosciences,9800000.0, 💊 Pharmaceuticals,USA
+365,Inovio Pharmaceuticals,9610000.0, 💊 Pharmaceuticals,USA
+366,Taysha Gene Therapies,9600000.0, 💊 Pharmaceuticals,USA
+367,Molecular Partners,9490000.0, 💊 Pharmaceuticals,Switzerland
+368,Capricor Therapeutics,9450000.0, 💊 Pharmaceuticals,USA
+369,BridgeBio Pharma,9420000.0, 💊 Pharmaceuticals,USA
+370,bluebird bio,9400000.0, 💊 Pharmaceuticals,USA
+371,Adagene,9290000.0, 💊 Pharmaceuticals,China
+372,Syros Pharmaceuticals,8920000.0, 💊 Pharmaceuticals,USA
+373,Morphic Therapeutic,8710000.0, 💊 Pharmaceuticals,USA
+374,Verrica Pharmaceuticals,8600000.0, 💊 Pharmaceuticals,USA
+375,Absci,8560000.0, 💊 Pharmaceuticals,USA
+376,Krystal Biotech,8550000.0, 💊 Pharmaceuticals,USA
+377,Cytokinetics,7810000.0, 💊 Pharmaceuticals,USA
+378,Janux Therapeutics,7760000.0, 💊 Pharmaceuticals,USA
+379,Mesoblast,7500000.0, 💊 Pharmaceuticals,Australia
+380,Autolus Therapeutics,7480000.0, 💊 Pharmaceuticals,UK
+381,Pulmatrix,6920000.0, 💊 Pharmaceuticals,USA
+382,Perspective Therapeutics,6880000.0, 💊 Pharmaceuticals,USA
+383,Immunome,6620000.0, 💊 Pharmaceuticals,USA
+384,MeiraGTx,6400000.0, 💊 Pharmaceuticals,USA
+385,Milestone Pharmaceuticals,6000000.0, 💊 Pharmaceuticals,Canada
+386,Karuna Therapeutics,5930000.0, 💊 Pharmaceuticals,USA
+387,Orchard Therapeutics,5640000.0, 💊 Pharmaceuticals,UK
+388,Bellerophon Therapeutics,5640000.0, 💊 Pharmaceuticals,USA
+389,Verve Therapeutics,5430000.0, 💊 Pharmaceuticals,USA
+390,Adamis Pharmaceuticals,5110000.0, 💊 Pharmaceuticals,USA
+391,Pliant Therapeutics,5020000.0, 💊 Pharmaceuticals,USA
+392,Palatin Technologies,4850000.0, 💊 Pharmaceuticals,USA
+393,Crinetics Pharmaceuticals,4830000.0, 💊 Pharmaceuticals,USA
+394,Atara Biotherapeutics,4540000.0, 💊 Pharmaceuticals,USA
+395,Spruce Biosciences,4120000.0, 💊 Pharmaceuticals,USA
+396,AC Immune,4030000.000000001, 💊 Pharmaceuticals,Switzerland
+397,XOMA,4030000.000000001, 💊 Pharmaceuticals,USA
+398,Petros Pharmaceuticals,3850000.0, 💊 Pharmaceuticals,USA
+399,ProQR,3840000.0, 💊 Pharmaceuticals,Netherlands
+400,Senti Biosciences,3790000.0, 💊 Pharmaceuticals,USA
+401,scPharmaceuticals,3700000.0, 💊 Pharmaceuticals,USA
+402,Adverum Biotechnologies,3600000.0, 💊 Pharmaceuticals,USA
+403,Evoke Pharma,3570000.0, 💊 Pharmaceuticals,USA
+404,Abeona Therapeutics,3560000.0, 💊 Pharmaceuticals,USA
+405,Orchestra BioMed,3340000.0, 💊 Pharmaceuticals,USA
+406,Celldex Therapeutics,3250000.0, 💊 Pharmaceuticals,USA
+407,Matinas BioPharma,3220000.0, 💊 Pharmaceuticals,USA
+408,Kronos Bio,3080000.0, 💊 Pharmaceuticals,USA
+409,Fulcrum Therapeutics,3040000.0, 💊 Pharmaceuticals,USA
+410,Alaunos Therapeutics,2920000.0, 💊 Pharmaceuticals,USA
+411,Gritstone bio,2700000.0, 💊 Pharmaceuticals,USA
+412,Oramed Pharmaceuticals,2700000.0, 💊 Pharmaceuticals,USA
+413,Omega Therapeutics,2600000.0, 💊 Pharmaceuticals,USA
+414,Trevena,2580000.0, 💊 Pharmaceuticals,USA
+415,DBV Technologies,2400000.0, 💊 Pharmaceuticals,France
+416,4D Molecular Therapeutics,2280000.0, 💊 Pharmaceuticals,USA
+417,Lumos Pharma,2220000.0, 💊 Pharmaceuticals,USA
+418,Xenetic Biosciences,2150000.0, 💊 Pharmaceuticals,USA
+419,PureTech Health,2090000.0, 💊 Pharmaceuticals,USA
+420,Vaxart,2050000.0, 💊 Pharmaceuticals,USA
+421,XBiotech,1980000.0, 💊 Pharmaceuticals,USA
+422,Genocea Biosciences,1910000.0, 💊 Pharmaceuticals,USA
+423,VBI Vaccines,1810000.0, 💊 Pharmaceuticals,USA
+424,Sol-Gel Technologies,1710000.0, 💊 Pharmaceuticals,Israel
+425,Humanigen,1690000.0, 💊 Pharmaceuticals,USA
+426,IGM Biosciences,1670000.0, 💊 Pharmaceuticals,USA
+427,Clearside Biomedical,1610000.0, 💊 Pharmaceuticals,USA
+428,Avadel Pharmaceuticals,1490000.0, 💊 Pharmaceuticals,Ireland
+429,Viridian Therapeutics,1470000.0, 💊 Pharmaceuticals,USA
+430,Praxis Precision Medicines,1460000.0, 💊 Pharmaceuticals,USA
+431,BeyondSpring,1350000.0, 💊 Pharmaceuticals,USA
+432,Aptorum Group,1290000.0, 💊 Pharmaceuticals,Hong Kong
+433,Lyra Therapeutics,1230000.0, 💊 Pharmaceuticals,USA
+434,Avalon GloboCare,1210000.0, 💊 Pharmaceuticals,USA
+435,BioXcel Therapeutics,1030000.0, 💊 Pharmaceuticals,USA
+436,Talis Biomedical,1020000.0, 💊 Pharmaceuticals,USA
+437,AcelRx Pharmaceuticals,1010000.0, 💊 Pharmaceuticals,USA
+438,Soligenix,990000.0, 💊 Pharmaceuticals,USA
+439,Synlogic,990000.0, 💊 Pharmaceuticals,USA
+440,Relay Therapeutics,940000.0, 💊 Pharmaceuticals,USA
+441,Longeveron,880000.0, 💊 Pharmaceuticals,USA
+442,Generation Bio,880000.0, 💊 Pharmaceuticals,USA
+443,Shattuck Labs,850000.0, 💊 Pharmaceuticals,USA
+444,Seelos Therapeutics,800000.0, 💊 Pharmaceuticals,USA
+445,Can Fite Biopharma,790000.0, 💊 Pharmaceuticals,Israel
+446,Lexeo Therapeutics,650000.0, 💊 Pharmaceuticals,USA
+447,Vaccinex,650000.0, 💊 Pharmaceuticals,USA
+448,Inhibrx,590000.0, 💊 Pharmaceuticals,USA
+449,Advaxis,590000.0, 💊 Pharmaceuticals,USA
+450,ImmunityBio,590000.0, 💊 Pharmaceuticals,USA
+451,Baudax Bio,540000.0, 💊 Pharmaceuticals,USA
+452,Azitra,490000.0, 💊 Pharmaceuticals,USA
+453,Verona Pharma,450000.0, 💊 Pharmaceuticals,UK
+454,Organovo,440000.0, 💊 Pharmaceuticals,USA
+455,Kala Pharmaceuticals,420000.0, 💊 Pharmaceuticals,USA
+456,Lexicon Pharmaceuticals,400000.0, 💊 Pharmaceuticals,USA
+457,VYNE Therapeutics,400000.0, 💊 Pharmaceuticals,USA
+458,Fusion Pharmaceuticals,360000.0, 💊 Pharmaceuticals,Canada
+459,Geron,310000.0, 💊 Pharmaceuticals,USA
+460,Rafael Holdings,270000.0, 💊 Pharmaceuticals,USA
+461,Atai Life Sciences,270000.0, 💊 Pharmaceuticals,Germany
+462,Lipella Pharmaceuticals,260000.0, 💊 Pharmaceuticals,USA
+463,Mangoceuticals,250000.0, 💊 Pharmaceuticals,USA
+464,Imunon,250000.0, 💊 Pharmaceuticals,USA
+465,Iovance Biotherapeutics,230000.0, 💊 Pharmaceuticals,USA
+466,Onconova Therapeutics,220000.0, 💊 Pharmaceuticals,USA
+467,Summit Therapeutics,220000.0, 💊 Pharmaceuticals,UK
+468,Anixa Biosciences,210000.0, 💊 Pharmaceuticals,USA
+469,Ovid Therapeutics,190000.0, 💊 Pharmaceuticals,USA
+470,Allogene Therapeutics,190000.0, 💊 Pharmaceuticals,USA
+471,AIM ImmunoTech,160000.0, 💊 Pharmaceuticals,USA
+472,Athersys,140000.0, 💊 Pharmaceuticals,USA
+473,Xenon Pharmaceuticals,130000.0, 💊 Pharmaceuticals,Canada
+474,Oragenics,130000.0, 💊 Pharmaceuticals,USA
+475,Opthea,100000.0, 💊 Pharmaceuticals,Australia
+476,Biora Therapeutics,90000.0, 💊 Pharmaceuticals,USA
+477,Benitec Biopharma,70000.0, 💊 Pharmaceuticals,USA
+478,InflaRx,60000.0, 💊 Pharmaceuticals,Germany
+479,Titan Pharmaceuticals,50000.0, 💊 Pharmaceuticals,USA
+480,Lipocine,50000.0, 💊 Pharmaceuticals,USA
+481,Actinium Pharmaceuticals,40000.0, 💊 Pharmaceuticals,USA
+482,Immuneering,30000.0, 💊 Pharmaceuticals,USA
+483,Cormedix,30000.0, 💊 Pharmaceuticals,USA
+484,AgeX Therapeutics,30000.0, 💊 Pharmaceuticals,USA
+485,bioAffinity Technologies,20000.0, 💊 Pharmaceuticals,USA
+486,Bionomics,10000.0, 💊 Pharmaceuticals,Australia
+487,Bullfrog AI,10000.0, 💊 Pharmaceuticals,USA
+488,vTv Therapeutics,0.0, 💊 Pharmaceuticals,USA
+489,Lucy Scientific Discovery,0.0, 💊 Pharmaceuticals,Canada
+694,Immutep,-10000.0, 💊 Pharmaceuticals,Australia
+695,Altimmune,-90000.0, 💊 Pharmaceuticals,USA
+696,VistaGen Therapeutics,-360000.0, 💊 Pharmaceuticals,USA
+697,BB Biotech,-840000000.0, 💊 Pharmaceuticals,Switzerland
+1,Nestlé,347800000000.0, 🍴 Food,Switzerland
+2,Archer Daniels Midland (ADM),139080000000.0, 🍴 Food,USA
+3,Ahold Delhaize,91320000000.0, 🍴 Food,Netherlands
+4,Sysco,80050000000.0, 🍴 Food,USA
+5,JBS,68530000000.0, 🍴 Food,Brazil
+6,Bunge,68500000000.0, 🍴 Food,USA
+7,Unilever,59310000000.0, 🍴 Food,UK
+8,Performance Food Group,55130000000.0, 🍴 Food,USA
+9,Tyson Foods,52320000000.0, 🍴 Food,USA
+10,George Weston,51470000000.0, 🍴 Food,Canada
+11,Wilmar International,49130000000.0, 🍴 Food,Singapore
+12,X5 Retail Group,44990000000.0, 🍴 Food,Netherlands
+13,Mondelez,44930000000.0, 🍴 Food,USA
+14,US Foods,36530000000.0, 🍴 Food,USA
+15,Compass Group,32580000000.0, 🍴 Food,UK
+16,WH Group,32070000000.0, 🍴 Food,Hong Kong
+17,Kraft Heinz,30980000000.0, 🍴 Food,USA
+18,McDonald,29840000000.0, 🍴 Food,USA
+19,Olam,27390000000.0, 🍴 Food,Singapore
+20,Associated British Foods,26830000000.0, 🍴 Food,UK
+21,Empire Company,23470000000.0, 🍴 Food,Canada
+22,Grupo Bimbo,23060000000.0, 🍴 Food,Mexico
+23,General Mills,15460000000.0, 🍴 Food,USA
+24,Aramark,15270000000.0, 🍴 Food,USA
+25,Muyuan Foods,14950000000.0, 🍴 Food,China
+26,Uni-President Enterprises,13970000000.0, 🍴 Food,Taiwan
+27,Sodexo,13540000000.0, 🍴 Food,France
+28,Charoen Pokphand Foods,13170000000.0, 🍴 Food,Thailand
+29,Pilgrim's Pride,13090000000.0, 🍴 Food,USA
+30,Danone,10940000000.0, 🍴 Food,France
+31,Kellogg's,10010000000.0, 🍴 Food,USA
+32,Kirin Holdings,9990000000.0, 🍴 Food,Japan
+33,Fonterra,9650000000.0, 🍴 Food,New Zealand
+34,Mengniu Dairy,9260000000.0, 🍴 Food,China
+35,Saputo,9120000000.0, 🍴 Food,Canada
+36,DSM-Firmenich,8369999999.999999, 🍴 Food,Switzerland
+37,Conagra Brands,8010000000.0, 🍴 Food,USA
+38,Hormel Foods,8010000000.0, 🍴 Food,USA
+39,The Hershey Company,7100000000.0, 🍴 Food,USA
+40,Darden Restaurants,6840000000.0, 🍴 Food,USA
+41,BRF,6730000000.0, 🍴 Food,Brazil
+42,Südzucker,6150000000.0, 🍴 Food,Germany
+43,Yum China,5900000000.0, 🍴 Food,China
+44,Bid Corp,5740000000.0, 🍴 Food,South Africa
+45,Ajinomoto,5520000000.0, 🍴 Food,Japan
+46,SpartanNash,5460000000.0, 🍴 Food,USA
+47,Barry Callebaut,4650000000.0, 🍴 Food,Switzerland
+48,Chipotle Mexican Grill,4370000000.0, 🍴 Food,USA
+49,Kerry Group,4340000000.0, 🍴 Food,Ireland
+50,Campbell Soup,4230000000.000001, 🍴 Food,USA
+51,Tingyi (master kang),3790000000.0, 🍴 Food,China
+52,Dole PLC,3660000000.0, 🍴 Food,Ireland
+53,J.M. Smucker Company,3640000000.0, 🍴 Food,USA
+54,Ingredion,3600000000.0, 🍴 Food,USA
+55,HelloFresh,3500000000.0, 🍴 Food,Germany
+56,DoorDash,3430000000.0, 🍴 Food,USA
+57,Meiji Holdings,3430000000.0, 🍴 Food,Japan
+58,(DIA) Distribuidora Internacional de Alimentación,3380000000.0, 🍴 Food,Spain
+59,Indofood,3230000000.0, 🍴 Food,Indonesia
+60,Hindustan Unilever,3230000000.0, 🍴 Food,India
+61,Savola Group,3170000000.0, 🍴 Food,S. Arabia
+62,Savencia Fromage & Dairy,3020000000.0, 🍴 Food,France
+63,Post Holdings,2920000000.0, 🍴 Food,USA
+64,Darling Ingredients,2830000000.0, 🍴 Food,USA
+65,Restaurant Brands International,2830000000.0, 🍴 Food,Canada
+66,Sprouts Farmers Market,2510000000.0, 🍴 Food,USA
+67,Adani Wilmar,2450000000.0, 🍴 Food,India
+68,McCormick & Company,2320000000.0, 🍴 Food,USA
+69,Gruma (Maseca),2310000000.0, 🍴 Food,Mexico
+70,Glanbia plc,2310000000.0, 🍴 Food,Ireland
+71,Just Eat Takeaway,2300000000.0, 🍴 Food,Netherlands
+72,Lamb Weston,2290000000.0, 🍴 Food,USA
+73,Mowi,2220000000.0, 🍴 Food,Norway
+74,Migros Ticaret A.S.,2220000000.0, 🍴 Food,Turkey
+75,Flowers Foods,2210000000.0, 🍴 Food,USA
+76,Chocoladefabriken Lindt & Sprüngli,2210000000.0, 🍴 Food,Switzerland
+77,Almarai,2200000000.0, 🍴 Food,S. Arabia
+78,Nissin Foods,2200000000.0, 🍴 Food,Japan
+79,Bachoco,2170000000.0, 🍴 Food,Mexico
+80,Premium Brands,2150000000.0, 🍴 Food,Canada
+81,Emmi AG,2120000000.0, 🍴 Food,Switzerland
+82,AAK,2120000000.0, 🍴 Food,Sweden
+83,Kikkoman,2000000000.0, 🍴 Food,Japan
+84,Bloomin' Brands,1930000000.0, 🍴 Food,USA
+85,Hai Di Lao Hot Pot,1840000000.0, 🍴 Food,China
+86,Texas Roadhouse,1780000000.0, 🍴 Food,USA
+87,Indofood CBP,1780000000.0, 🍴 Food,Indonesia
+88,Fresh Del Monte Produce,1770000000.0, 🍴 Food,Cayman Islands
+89,Jollibee,1760000000.0, 🍴 Food,Philippines
+90,East India Distilleries Parry,1750000000.0, 🍴 Food,India
+91,Brinker International,1720000000.0, 🍴 Food,USA
+92,Thai Union Group,1640000000.0, 🍴 Food,Thailand
+93,Domino's Pizza,1620000000.0, 🍴 Food,USA
+94,Agrana,1600000000.0, 🍴 Food,Austria
+95,Arcos Dorados Holdings,1590000000.0, 🍴 Food,Uruguay
+96,Charoen Pokphand Indonesia,1490000000.0, 🍴 Food,Indonesia
+97,Patanjali Foods,1440000000.0, 🍴 Food,India
+98,Maple Leaf Foods,1430000000.0, 🍴 Food,Canada
+99,TreeHouse Foods,1360000000.0, 🍴 Food,USA
+100,Foshan Haitian Flavouring and Food,1330000000.0, 🍴 Food,China
+101,The Cheesecake Factory,1300000000.0, 🍴 Food,USA
+102,Want Want China,1250000000.0, 🍴 Food,Hong Kong
+103,Toyo Suisan,1230000000.0, 🍴 Food,Japan
+104,The Chefs' Warehouse,1220000000.0, 🍴 Food,USA
+105,Kobe Bussan,1190000000.0, 🍴 Food,Japan
+106,Nomad Foods,1140000000.0, 🍴 Food,UK
+107,Austevoll Seafood,1100000000.0, 🍴 Food,Norway
+108,Ebro Foods,1070000000.0, 🍴 Food,Spain
+109,Dingdong Maicai,1050000000.0, 🍴 Food,China
+110,Ocado,1000000000.0, 🍴 Food,UK
+111,Cal-Maine Foods,990000000.0, 🍴 Food,USA
+112,Dali Foods Group,990000000.0, 🍴 Food,China
+113,Cranswick,960000000.0, 🍴 Food,UK
+114,Leroy Seafood,910000000.0, 🍴 Food,Norway
+115,Italmobiliare,900000000.0, 🍴 Food,Italy
+116,McDonald's Japan,890000000.0, 🍴 Food,Japan
+117,Sligro Food,860000000.0, 🍴 Food,Netherlands
+118,Unilever Indonesia,840000000.0, 🍴 Food,Indonesia
+119,AmRest,820000000.0, 🍴 Food,Spain
+120,SalMar ASA,800000000.0, 🍴 Food,Norway
+121,Ottogi,790000000.0, 🍴 Food,S. Korea
+122,Nongshim,790000000.0, 🍴 Food,S. Korea
+123,SSP Group,780000000.0, 🍴 Food,UK
+124,SATS,770000000.0, 🍴 Food,Singapore
+125,ORION,730000000.0, 🍴 Food,S. Korea
+126,Nestlé India,710000000.0, 🍴 Food,India
+127,Grab Holdings,680000000.0, 🍴 Food,Singapore
+128,Wendy’s Company,680000000.0, 🍴 Food,USA
+129,Tate & Lyle,680000000.0, 🍴 Food,UK
+130,B&G Foods,650000000.0, 🍴 Food,USA
+131,Papa John's Pizza,640000000.0, 🍴 Food,USA
+132,Mayora,630000000.0, 🍴 Food,Indonesia
+133,Kyokuyo,630000000.0, 🍴 Food,Japan
+134,Marel,610000000.0, 🍴 Food,Iceland
+135,Tiger Brands,590000000.0, 🍴 Food,South Africa
+136,Lancaster Colony Corporation,580000000.0, 🍴 Food,USA
+137,Greggs,580000000.0, 🍴 Food,UK
+138,Carrols Restaurant Group,570000000.0, 🍴 Food,USA
+139,Strauss Group,570000000.0, 🍴 Food,Israel
+140,Hain Celestial,540000000.0, 🍴 Food,USA
+141,Jack in the Box,540000000.0, 🍴 Food,USA
+142,Krispy Kreme,540000000.0, 🍴 Food,USA
+143,Corbion,540000000.0, 🍴 Food,Netherlands
+144,J&J Snack Foods,530000000.0, 🍴 Food,USA
+145,Nestle Malaysia,480000000.0, 🍴 Food,Malaysia
+146,Seneca Foods,460000000.0, 🍴 Food,USA
+147,Utz Brands,450000000.0, 🍴 Food,USA
+148,Hostess Brands,450000000.0, 🍴 Food,USA
+149,PPB Group Berhad,450000000.0, 🍴 Food,Malaysia
+150,Chr. Hansen,440000000.0, 🍴 Food,Denmark
+151,BJ's Restaurants,420000000.0, 🍴 Food,USA
+152,Alto Ingredients,410000000.0, 🍴 Food,USA
+153,Red Robin,410000000.0, 🍴 Food,USA
+154,Simply Good Foods,400000000.0, 🍴 Food,USA
+155,HF Foods Group,400000000.0, 🍴 Food,USA
+156,Zomato,370000000.0, 🍴 Food,India
+157,Missfresh,360000000.0, 🍴 Food,China
+158,The Restaurant Group plc,350000000.0, 🍴 Food,UK
+159,Bakkafrost,340000000.0, 🍴 Food,Denmark
+160,Shake Shack,320000000.0, 🍴 Food,USA
+161,Café de Coral,320000000.0, 🍴 Food,Hong Kong
+162,Calavo Growers,310000000.0, 🍴 Food,USA
+163,The a2 Milk Company,310000000.0, 🍴 Food,New Zealand
+164,Sovos Brands,300000000.0, 🍴 Food,USA
+165,Lotus Bakeries,300000000.0, 🍴 Food,Belgium
+166,Mission Produce,300000000.0, 🍴 Food,USA
+167,Balchem,300000000.0, 🍴 Food,USA
+168,Hatsun Agro Products,300000000.0, 🍴 Food,India
+169,SunOpta,290000000.0, 🍴 Food,Canada
+170,MTY Food Group,280000000.0, 🍴 Food,Canada
+171,Dine Brands Global,260000000.0, 🍴 Food,USA
+172,First Watch Restaurant,260000000.0, 🍴 Food,USA
+173,AVI Limited,250000000.0, 🍴 Food,South Africa
+174,Restaurant Brands New Zealand,250000000.0, 🍴 Food,New Zealand
+175,Oatly,250000000.0, 🍴 Food,Sweden
+176,Tootsie Roll Industries,240000000.0, 🍴 Food,USA
+177,Cloetta,240000000.0, 🍴 Food,Sweden
+178,Samyang Foods,240000000.0, 🍴 Food,S. Korea
+179,Freshpet,230000000.0, 🍴 Food,USA
+180,Grieg Seafood,230000000.0, 🍴 Food,Norway
+181,CAVA Group,230000000.0, 🍴 Food,USA
+182,Jubilant FoodWorks,230000000.0, 🍴 Food,India
+183,Portillo's,230000000.0, 🍴 Food,USA
+184,Whole Earth Brands,220000000.0, 🍴 Food,USA
+185,Sweetgreen,220000000.0, 🍴 Food,USA
+186,Noodles & Company,210000000.0, 🍴 Food,USA
+187,Potbelly Corporation,210000000.0, 🍴 Food,USA
+188,El Pollo Loco,210000000.0, 🍴 Food,USA
+189,Denny's,200000000.0, 🍴 Food,USA
+190,Brim hf.,200000000.0, 🍴 Food,Iceland
+191,Vital Farms,200000000.0, 🍴 Food,USA
+192,Chuy's,200000000.0, 🍴 Food,USA
+193,Wingstop Restaurants,190000000.0, 🍴 Food,USA
+194,Blue Apron Holdings,190000000.0, 🍴 Food,USA
+195,Delivery Hero,180000000.0, 🍴 Food,Germany
+196,FAT Brands,180000000.0, 🍴 Food,USA
+197,Fiesta Restaurant Group,180000000.0, 🍴 Food,USA
+198,Zad Holding Company,180000000.0, 🍴 Food,Qatar
+199,PAR Technology,180000000.0, 🍴 Food,USA
+200,Fairwood Holdings,180000000.0, 🍴 Food,Hong Kong
+201,Devyani International,180000000.0, 🍴 Food,India
+202,Biglari,170000000.0, 🍴 Food,USA
+203,Parag Milk Foods,170000000.0, 🍴 Food,India
+204,Beyond Meat,170000000.0, 🍴 Food,USA
+205,The ONE Group Hospitality,160000000.0, 🍴 Food,USA
+206,Dhampur Sugar Mills,160000000.0, 🍴 Food,India
+207,Fine Organics,160000000.0, 🍴 Food,India
+208,Baladna,160000000.0, 🍴 Food,Qatar
+209,Village Farms International,160000000.0, 🍴 Food,Canada
+210,Alamar Foods Company,160000000.0, 🍴 Food,S. Arabia
+211,Bafang Yunji,160000000.0, 🍴 Food,Taiwan
+212,Davis Commodities,150000000.0, 🍴 Food,Singapore
+213,Olo,150000000.0, 🍴 Food,USA
+214,TH International (Tims China),150000000.0, 🍴 Food,China
+215,Kura Sushi USA,150000000.0, 🍴 Food,USA
+216,GEN Restaurant Group,150000000.0, 🍴 Food,USA
+217,Arnarlax (Icelandic Salmon),150000000.0, 🍴 Food,Iceland
+218,Barbeque Nation Hospitality,150000000.0, 🍴 Food,India
+219,Lifeway Foods,140000000.0, 🍴 Food,USA
+220,Real Good Food plc,140000000.0, 🍴 Food,UK
+221,Nathan's Famous,140000000.0, 🍴 Food,USA
+222,Vadilal Industries,140000000.0, 🍴 Food,India
+223,Apex Frozen Foods,140000000.0, 🍴 Food,India
+224,Farmmi,130000000.0, 🍴 Food,China
+225,Mama's Creations,130000000.0, 🍴 Food,USA
+226,Milkfood Limited,130000000.0, 🍴 Food,India
+227,Vidhi Specialty Food,130000000.0, 🍴 Food,India
+228,YanGuFang International Group,130000000.0, 🍴 Food,China
+229,Pizza Pizza,120000000.0, 🍴 Food,Canada
+230,Local Bounti,120000000.0, 🍴 Food,USA
+231,DDC Enterprise,120000000.0, 🍴 Food,Hong Kong
+232,Stryve Foods,110000000.0, 🍴 Food,USA
+233,Atlantic Sapphire,110000000.0, 🍴 Food,Norway
+234,Edible Garden,110000000.0, 🍴 Food,USA
+235,Rave Restaurant Group,110000000.0, 🍴 Food,USA
+236,AquaBounty,110000000.0, 🍴 Food,USA
+237,Moolec Science,110000000.0, 🍴 Food,Luxembourg
+238,BranchOut Food,110000000.0, 🍴 Food,USA
+1,Volkswagen,347800000000.0, 🚗 Automakers,Germany
+2,Toyota,139080000000.0, 🚗 Automakers,Japan
+3,Ford,91320000000.0, 🚗 Automakers,USA
+4,General Motors,80050000000.0, 🚗 Automakers,USA
+5,Mercedes-Benz,68530000000.0, 🚗 Automakers,Germany
+6,BMW,68500000000.0, 🚗 Automakers,Germany
+7,Honda,59310000000.0, 🚗 Automakers,Japan
+8,Hyundai,55130000000.0, 🚗 Automakers,S. Korea
+9,SAIC Motor,52320000000.0, 🚗 Automakers,China
+10,Stellantis,51470000000.0, 🚗 Automakers,Netherlands
+11,Tesla,49130000000.0, 🚗 Automakers,USA
+12,Nissan,44990000000.0, 🚗 Automakers,Japan
+13,BYD,44930000000.0, 🚗 Automakers,China
+14,Kia,36530000000.0, 🚗 Automakers,S. Korea
+15,Renault,32580000000.0, 🚗 Automakers,France
+16,Tata Motors,32070000000.0, 🚗 Automakers,India
+17,Porsche,30980000000.0, 🚗 Automakers,Germany
+18,Volvo Car,29840000000.0, 🚗 Automakers,Sweden
+19,Suzuki Motor,27390000000.0, 🚗 Automakers,Japan
+20,Mazda,26830000000.0, 🚗 Automakers,Japan
+21,Subaru,23470000000.0, 🚗 Automakers,Japan
+22,Isuzu,23060000000.0, 🚗 Automakers,Japan
+23,Great Wall Motors,15460000000.0, 🚗 Automakers,China
+24,Geely,15270000000.0, 🚗 Automakers,China
+25,Chongqing Changan,14950000000.0, 🚗 Automakers,China
+26,Mitsubishi Motors,13970000000.0, 🚗 Automakers,Japan
+27,GAC (Guangzhou Automobile Group),13540000000.0, 🚗 Automakers,China
+28,Mahindra & Mahindra,13170000000.0, 🚗 Automakers,India
+29,Maruti Suzuki India,13090000000.0, 🚗 Automakers,India
+30,Li Auto,10940000000.0, 🚗 Automakers,China
+31,Dongfeng Motor,10010000000.0, 🚗 Automakers,China
+32,Ford Otosan,9990000000.0, 🚗 Automakers,Turkey
+33,Polaris,9650000000.0, 🚗 Automakers,USA
+34,Hotai Motor,9260000000.0, 🚗 Automakers,Taiwan
+35,FAW Car,9120000000.0, 🚗 Automakers,China
+36,NIO,8369999999.999999, 🚗 Automakers,China
+37,Ferrari,8010000000.0, 🚗 Automakers,Italy
+38,Tofaş Türk Otomobil Fabrikası,8010000000.0, 🚗 Automakers,Turkey
+39,Seres Group,7100000000.0, 🚗 Automakers,China
+40,Rivian,6840000000.0, 🚗 Automakers,USA
+41,XPeng,6730000000.0, 🚗 Automakers,China
+42,Polestar,6150000000.0, 🚗 Automakers,Sweden
+43,Aston Martin,5900000000.0, 🚗 Automakers,UK
+44,Leapmotor,5740000000.0, 🚗 Automakers,China
+45,VinFast Auto,5520000000.0, 🚗 Automakers,Vietnam
+46,Lucid Motors,5460000000.0, 🚗 Automakers,USA
+47,Force Motors,4650000000.0, 🚗 Automakers,India
+48,Kandi Technologies Group,4370000000.0, 🚗 Automakers,China
+49,Nikola,4340000000.0, 🚗 Automakers,USA
+50,Cenntro Electric Group,4230000000.000001, 🚗 Automakers,USA
+51,Arcimoto,3790000000.0, 🚗 Automakers,USA
+52,Phoenix Motor,3660000000.0, 🚗 Automakers,USA
+53,Electra Meccanica,3640000000.0, 🚗 Automakers,Canada
+54,Fisker,3600000000.0, 🚗 Automakers,USA
+55,Mullen Automotive,3500000000.0, 🚗 Automakers,USA
+1,Amazon,554020000000.0,🛒 E-Commerce,USA
+2,Jingdong Mall,152480000000.0,🛒 E-Commerce,China
+3,Alibaba,129889999999.99998,🛒 E-Commerce,China
+4,Meituan,32790000000.0,🛒 E-Commerce,China
+5,Pinduoduo,23440000000.0,🛒 E-Commerce,China
+6,Coupang,23140000000.0,🛒 E-Commerce,S. Korea
+7,Vipshop,15630000000.0,🛒 E-Commerce,China
+8,Rakuten,14770000000.0,🛒 E-Commerce,Japan
+9,MercadoLibre,13210000000.0,🛒 E-Commerce,Argentina
+10,Sea (Garena),12890000000.0,🛒 E-Commerce,Singapore
+11,Wayfair,11990000000.0,🛒 E-Commerce,USA
+12,Carvana,11180000000.0,🛒 E-Commerce,USA
+13,Zalando,11030000000.0,🛒 E-Commerce,Germany
+14,Chewy,10800000000.0,🛒 E-Commerce,USA
+15,eBay,10060000000.0,🛒 E-Commerce,USA
+16,JD Health,6770000000.0,🛒 E-Commerce,China
+17,Shopify,6650000000.0,🛒 E-Commerce,Canada
+18,Americanas,5350000000.0,🛒 E-Commerce,Brazil
+19,Ozon,4630000000.0,🛒 E-Commerce,USA
+20,ASOS,4510000000.0,🛒 E-Commerce,UK
+21,Copart,3990000000.0,🛒 E-Commerce,USA
+22,Alibaba Health Information Technology,3890000000.0,🛒 E-Commerce,Hong Kong
+23,momo.com Inc.,3480000000.0,🛒 E-Commerce,Taiwan
+24,Cimpress,3130000000.0,🛒 E-Commerce,Ireland
+25,Dingdong Maicai,3120000000.0,🛒 E-Commerce,China
+26,Ocado,3000000000.0,🛒 E-Commerce,UK
+27,THG (The Hut Group),2710000000.0,🛒 E-Commerce,UK
+28,Etsy,2710000000.0,🛒 E-Commerce,USA
+29,Instacart (Maplebear Inc.),2550000000.0,🛒 E-Commerce,USA
+30,Adevinta,2340000000.0,🛒 E-Commerce,Norway
+31,Allegro.eu,2160000000.0,🛒 E-Commerce,Poland
+32,Boohoo Group,2130000000.0,🛒 E-Commerce,UK
+33,About You,2030000000.0,🛒 E-Commerce,Germany
+34,Newegg,1990000000.0,🛒 E-Commerce,USA
+35,Monotaro,1770000000.0,🛒 E-Commerce,Japan
+36,Zur Rose Group,1740000000.0,🛒 E-Commerce,Switzerland
+37,Overstock.com,1580000000.0,🛒 E-Commerce,USA
+38,Global Fashion Group,1500000000.0,🛒 E-Commerce,Luxembourg
+39,Schibsted,1490000000.0,🛒 E-Commerce,Norway
+40,Redcare Pharmacy,1490000000.0,🛒 E-Commerce,Netherlands
+41,Dada Nexus,1480000000.0,🛒 E-Commerce,China
+42,ZOZO,1360000000.0,🛒 E-Commerce,Japan
+43,Mercari,1260000000.0,🛒 E-Commerce,Japan
+44,Baozun,1200000000.0,🛒 E-Commerce,China
+45,SIGNA Sports United,1130000000.0,🛒 E-Commerce,Germany
+46,Missfresh,1070000000.0,🛒 E-Commerce,China
+47,Revolve,1070000000.0,🛒 E-Commerce,USA
+48,Allied Tecnologia,1050000000.0,🛒 E-Commerce,Brazil
+49,GoTo,910000000.0,🛒 E-Commerce,Indonesia
+50,MYT Netherlands Parent (Mytheresa),810000000.0,🛒 E-Commerce,Germany
+51,CEWE,810000000.0,🛒 E-Commerce,Germany
+52,Lightspeed POS,810000000.0,🛒 E-Commerce,Canada
+53,CarParts.com,670000000.0,🛒 E-Commerce,USA
+54,Nykaa,650000000.0,🛒 E-Commerce,India
+55,Vivid Seats,640000000.0,🛒 E-Commerce,USA
+56,LightInTheBox Holding,610000000.0,🛒 E-Commerce,Singapore
+57,The RealReal,570000000.0,🛒 E-Commerce,USA
+58,a.k.a. Brands,560000000.0,🛒 E-Commerce,USA
+59,Groupon,540000000.0,🛒 E-Commerce,USA
+60,The Original BARK Company,520000000.0,🛒 E-Commerce,USA
+61,Global-e,520000000.0,🛒 E-Commerce,Israel
+62,Polished.com,520000000.0,🛒 E-Commerce,USA
+63,ContextLogic (wish.com),420000000.0,🛒 E-Commerce,USA
+64,Onion Global,390000000.0,🛒 E-Commerce,China
+65,Lulu's Fashion Lounge,390000000.0,🛒 E-Commerce,USA
+66,Shift Technologies,330000000.0,🛒 E-Commerce,USA
+67,Infibeam Avenues,310000000.0,🛒 E-Commerce,India
+68,Liquidity Services,300000000.0,🛒 E-Commerce,USA
+69,Rent the Runway,300000000.0,🛒 E-Commerce,USA
+70,PFSweb,300000000.0,🛒 E-Commerce,USA
+71,Uxin Limited,290000000.0,🛒 E-Commerce,China
+72,ThredUp,290000000.0,🛒 E-Commerce,USA
+73,BigCommerce,290000000.0,🛒 E-Commerce,USA
+74,Wirtualna Polska (WP Holding),290000000.0,🛒 E-Commerce,Poland
+75,Grove Collaborative,280000000.0,🛒 E-Commerce,USA
+76,Bukalapak.com,280000000.0,🛒 E-Commerce,Indonesia
+77,1-800-PetMeds,270000000.0,🛒 E-Commerce,USA
+78,Mister Spex,230000000.0,🛒 E-Commerce,Germany
+79,Jumia,210000000.0,🛒 E-Commerce,Germany
+80,Katapult Holdings,200000000.0,🛒 E-Commerce,USA
+81,VTEX,170000000.0,🛒 E-Commerce,UK
+82,Hong Kong Technology Venture Company (HKTV),160000000.0,🛒 E-Commerce,Hong Kong
+83,IndiaMART,130000000.0,🛒 E-Commerce,India
+84,Kaspien,120000000.0,🛒 E-Commerce,USA
+85,Yunji,120000000.0,🛒 E-Commerce,China
+86,Hour Loop,110000000.0,🛒 E-Commerce,USA
+87,1stdibs.Com,91630000.0,🛒 E-Commerce,USA
+88,MSTC Limited,87620000.0,🛒 E-Commerce,India
+89,Upexi,80670000.0,🛒 E-Commerce,USA
+90,Nogin,78340000.0,🛒 E-Commerce,USA
+91,Treasure Global,69400000.0,🛒 E-Commerce,Malaysia
+92,Natural Health Trends,45490000.0,🛒 E-Commerce,USA
+93,Webuy Global,44560000.0,🛒 E-Commerce,Singapore
+94,Kidpik,15850000.0,🛒 E-Commerce,USA
+95,Jeffs' Brands,5850000.0,🛒 E-Commerce,Israel
+1,McDonald,25010000000.0,🍔 Restaurant chains,USA
+2,Darden Restaurants,10770000000.0,🍔 Restaurant chains,USA
+3,Yum China,10570000000.0,🍔 Restaurant chains,China
+4,Chipotle Mexican Grill,9530000000.0,🍔 Restaurant chains,USA
+5,Yum! Brands,7050000000.0,🍔 Restaurant chains,USA
+6,Restaurant Brands International,6890000000.0,🍔 Restaurant chains,Canada
+7,Bloomin' Brands,4540000000.0,🍔 Restaurant chains,USA
+8,Hai Di Lao Hot Pot,4500000000.0,🍔 Restaurant chains,China
+9,Texas Roadhouse,4470000000.0,🍔 Restaurant chains,USA
+10,Jollibee,4300000000.0,🍔 Restaurant chains,Philippines
+11,Brinker International,4190000000.000001,🍔 Restaurant chains,USA
+12,Domino's Pizza,4099999999.999999,🍔 Restaurant chains,USA
+13,Arcos Dorados Holdings,3970000000.0,🍔 Restaurant chains,Uruguay
+14,The Cheesecake Factory,3450000000.0,🍔 Restaurant chains,USA
+15,McDonald's Japan,2690000000.0,🍔 Restaurant chains,Japan
+16,AmRest,2610000000.0,🍔 Restaurant chains,Spain
+17,SSP Group,2440000000.0,🍔 Restaurant chains,UK
+18,Dave & Buster's,2180000000.0,🍔 Restaurant chains,USA
+19,Wendy’s Company,2170000000.0,🍔 Restaurant chains,USA
+20,Papa John's Pizza,2090000000.0,🍔 Restaurant chains,USA
+21,Carrols Restaurant Group,1810000000.0,🍔 Restaurant chains,USA
+22,Jack in the Box,1710000000.0,🍔 Restaurant chains,USA
+23,BJ's Restaurants,1350000000.0,🍔 Restaurant chains,USA
+24,Red Robin,1280000000.0,🍔 Restaurant chains,USA
+25,The Restaurant Group plc,1070000000.0,🍔 Restaurant chains,UK
+26,Shake Shack,1030000000.0,🍔 Restaurant chains,USA
+27,Café de Coral,1020000000.0,🍔 Restaurant chains,Hong Kong
+28,MTY Food Group,830000000.0,🍔 Restaurant chains,Canada
+29,Dine Brands Global,830000000.0,🍔 Restaurant chains,USA
+30,First Watch Restaurant,830000000.0,🍔 Restaurant chains,USA
+31,Restaurant Brands New Zealand,780000000.0,🍔 Restaurant chains,New Zealand
+32,CAVA Group,680000000.0,🍔 Restaurant chains,USA
+33,Portillo's,640000000.0,🍔 Restaurant chains,USA
+34,Sweetgreen,520000000.0,🍔 Restaurant chains,USA
+35,Noodles & Company,510000000.0,🍔 Restaurant chains,USA
+36,Potbelly Corporation,480000000.0,🍔 Restaurant chains,USA
+37,El Pollo Loco,470000000.0,🍔 Restaurant chains,USA
+38,Denny's,460000000.0,🍔 Restaurant chains,USA
+39,Chuy's,440000000.0,🍔 Restaurant chains,USA
+40,Wingstop Restaurants,430000000.0,🍔 Restaurant chains,USA
+41,FAT Brands,420000000.0,🍔 Restaurant chains,USA
+42,Fiesta Restaurant Group,400000000.0,🍔 Restaurant chains,USA
+43,Fairwood Holdings,380000000.0,🍔 Restaurant chains,Hong Kong
+44,Devyani International,380000000.0,🍔 Restaurant chains,India
+45,Biglari,370000000.0,🍔 Restaurant chains,USA
+46,The ONE Group Hospitality,320000000.0,🍔 Restaurant chains,USA
+47,Bafang Yunji,220000000.0,🍔 Restaurant chains,Taiwan
+48,TH International (Tims China),190000000.0,🍔 Restaurant chains,China
+49,Kura Sushi USA,170000000.0,🍔 Restaurant chains,USA
+50,GEN Restaurant Group,170000000.0,🍔 Restaurant chains,USA
+51,Barbeque Nation Hospitality,150000000.0,🍔 Restaurant chains,India
+52,Nathan's Famous,130000000.0,🍔 Restaurant chains,USA
+53,Pizza Pizza,27830000.0,🍔 Restaurant chains,Canada
+54,Rave Restaurant Group,11880000.0,🍔 Restaurant chains,USA

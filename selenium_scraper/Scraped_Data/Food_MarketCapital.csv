@@ -1,0 +1,237 @@
+Rank,Category,Company,Market_Capital,Country
+1, 🍴 Food,Nestlé,302.91 B,Switzerland
+2, 🍴 Food,McDonald,204.35 B,USA
+3, 🍴 Food,Unilever,119.41 B,UK
+4, 🍴 Food,Mondelez,97.42 B,USA
+5, 🍴 Food,Hindustan Unilever,70.93 B,India
+6, 🍴 Food,Chipotle Mexican Grill,60.67 B,USA
+7, 🍴 Food,Compass Group,44.61 B,UK
+8, 🍴 Food,Kraft Heinz,42.77 B,USA
+9, 🍴 Food,Danone,41.31 B,France
+10, 🍴 Food,Archer Daniels Midland (ADM),40.15 B,USA
+11, 🍴 Food,The Hershey Company,38.94 B,USA
+12, 🍴 Food,General Mills,37.59 B,USA
+13, 🍴 Food,DoorDash,37.32 B,USA
+14, 🍴 Food,Sysco,36.38 B,USA
+15, 🍴 Food,Restaurant Brands International,30.66 B,Canada
+16, 🍴 Food,Muyuan Foods,29.75 B,China
+17, 🍴 Food,Foshan Haitian Flavouring and Food,29.52 B,China
+18, 🍴 Food,Chocoladefabriken Lindt & Sprüngli,28.86 B,Switzerland
+19, 🍴 Food,Ahold Delhaize,27.95 B,Netherlands
+20, 🍴 Food,Nestlé India,27.92 B,India
+21, 🍴 Food,DSM-Firmenich,26.55 B,Switzerland
+22, 🍴 Food,Associated British Foods,22.76 B,UK
+23, 🍴 Food,Grupo Bimbo,21.88 B,Mexico
+24, 🍴 Food,Ajinomoto,19.33 B,Japan
+25, 🍴 Food,Darden Restaurants,18.72 B,USA
+26, 🍴 Food,Yum China,18.52 B,China
+27, 🍴 Food,Kellogg's,18.19 B,USA
+28, 🍴 Food,Hormel Foods,17.85 B,USA
+29, 🍴 Food,McCormick & Company,17.79 B,USA
+30, 🍴 Food,Wilmar International,17.18 B,Singapore
+31, 🍴 Food,Tyson Foods,16.95 B,USA
+32, 🍴 Food,George Weston,16.53 B,Canada
+33, 🍴 Food,Sodexo,16.21 B,France
+34, 🍴 Food,Bunge,15.91 B,USA
+35, 🍴 Food,Almarai,14.76 B,S. Arabia
+36, 🍴 Food,Lamb Weston,14.37 B,USA
+37, 🍴 Food,Kerry Group,14.19 B,Ireland
+38, 🍴 Food,Conagra Brands,13.52 B,USA
+39, 🍴 Food,Uni-President Enterprises,13.03 B,Taiwan
+40, 🍴 Food,Mengniu Dairy,12.89 B,China
+41, 🍴 Food,Domino's Pizza,12.83 B,USA
+42, 🍴 Food,Campbell Soup,12.22 B,USA
+43, 🍴 Food,Grab Holdings,12.14 B,Singapore
+44, 🍴 Food,J.M. Smucker Company,11.89 B,USA
+45, 🍴 Food,Hai Di Lao Hot Pot,11.87 B,China
+46, 🍴 Food,Zomato,11.83 B,India
+47, 🍴 Food,Kirin Holdings,11.71 B,Japan
+48, 🍴 Food,Kikkoman,11.71 B,Japan
+49, 🍴 Food,Chr. Hansen,10.62 B,Denmark
+50, 🍴 Food,US Foods,10.60 B,USA
+51, 🍴 Food,JBS,10.20 B,Brazil
+52, 🍴 Food,Nissin Foods,10.04 B,Japan
+53, 🍴 Food,Performance Food Group,9.87 B,USA
+54, 🍴 Food,Mowi,9.17 B,Norway
+55, 🍴 Food,Barry Callebaut,9.15 B,Switzerland
+56, 🍴 Food,Delivery Hero,8.92 B,Germany
+57, 🍴 Food,Unilever Indonesia,8.65 B,Indonesia
+58, 🍴 Food,Saputo,8.27 B,Canada
+59, 🍴 Food,SalMar ASA,7.94 B,Norway
+60, 🍴 Food,WH Group,7.90 B,Hong Kong
+61, 🍴 Food,Americana Restaurants International,7.89 B,UAE
+62, 🍴 Food,Indofood CBP,7.81 B,Indonesia
+63, 🍴 Food,Texas Roadhouse,7.44 B,USA
+64, 🍴 Food,Bid Corp,7.37 B,South Africa
+65, 🍴 Food,Tingyi (master kang),7.33 B,China
+66, 🍴 Food,Aramark,7.30 B,USA
+67, 🍴 Food,Lotus Bakeries,7.16 B,Belgium
+68, 🍴 Food,Gruma (Maseca),7.11 B,Mexico
+69, 🍴 Food,Want Want China,7.10 B,Hong Kong
+70, 🍴 Food,Wingstop Restaurants,6.88 B,USA
+71, 🍴 Food,Empire Company,6.84 B,Canada
+72, 🍴 Food,Darling Ingredients,6.82 B,USA
+73, 🍴 Food,Ingredion,6.78 B,USA
+74, 🍴 Food,Dali Foods Group,6.52 B,China
+75, 🍴 Food,Meiji Holdings,6.46 B,Japan
+76, 🍴 Food,Ocado,6.24 B,UK
+77, 🍴 Food,Pilgrim's Pride,6.13 B,USA
+78, 🍴 Food,Nestle Malaysia,6.08 B,Malaysia
+79, 🍴 Food,Patanjali Foods,5.77 B,India
+80, 🍴 Food,Kobe Bussan,5.66 B,Japan
+81, 🍴 Food,McDonald's Japan,5.63 B,Japan
+82, 🍴 Food,Charoen Pokphand Indonesia,5.55 B,Indonesia
+83, 🍴 Food,AAK,5.46 B,Sweden
+84, 🍴 Food,Emmi AG,5.37 B,Switzerland
+85, 🍴 Food,Toyo Suisan,5.37 B,Japan
+86, 🍴 Food,Savola Group,5.30 B,S. Arabia
+87, 🍴 Food,Post Holdings,5.13 B,USA
+88, 🍴 Food,Adani Wilmar,4.94 B,India
+89, 🍴 Food,BRF,4.83 B,Brazil
+90, 🍴 Food,Jollibee,4.82 B,Philippines
+91, 🍴 Food,Lancaster Colony Corporation,4.68 B,USA
+92, 🍴 Food,Flowers Foods,4.50 B,USA
+93, 🍴 Food,Glanbia plc,4.48 B,Ireland
+94, 🍴 Food,Hostess Brands,4.42 B,USA
+95, 🍴 Food,Jubilant FoodWorks,4.31 B,India
+96, 🍴 Food,PPB Group Berhad,4.31 B,Malaysia
+97, 🍴 Food,Sprouts Farmers Market,4.27 B,USA
+98, 🍴 Food,Charoen Pokphand Foods,4.14 B,Thailand
+99, 🍴 Food,HelloFresh,4.07 B,Germany
+100, 🍴 Food,Wendy’s Company,3.98 B,USA
+101, 🍴 Food,Simply Good Foods,3.95 B,USA
+102, 🍴 Food,Balchem,3.89 B,USA
+103, 🍴 Food,CAVA Group,3.75 B,USA
+104, 🍴 Food,Indofood,3.62 B,Indonesia
+105, 🍴 Food,Mayora,3.60 B,Indonesia
+106, 🍴 Food,ORION,3.59 B,S. Korea
+107, 🍴 Food,Just Eat Takeaway,3.42 B,Netherlands
+108, 🍴 Food,Freshpet,3.39 B,USA
+109, 🍴 Food,Greggs,3.36 B,UK
+110, 🍴 Food,J&J Snack Foods,3.26 B,USA
+111, 🍴 Food,Tate & Lyle,3.23 B,UK
+112, 🍴 Food,Südzucker,3.21 B,Germany
+113, 🍴 Food,SATS,3.01 B,Singapore
+114, 🍴 Food,Premium Brands,2.99 B,Canada
+115, 🍴 Food,Olam,2.93 B,Singapore
+116, 🍴 Food,Hatsun Agro Products,2.91 B,India
+117, 🍴 Food,Bakkafrost,2.86 B,Denmark
+118, 🍴 Food,Nomad Foods,2.72 B,UK
+119, 🍴 Food,Shake Shack,2.64 B,USA
+120, 🍴 Food,Ebro Foods,2.63 B,Spain
+121, 🍴 Food,Devyani International,2.63 B,India
+122, 🍴 Food,Cranswick,2.62 B,UK
+123, 🍴 Food,Bachoco,2.54 B,Mexico
+124, 🍴 Food,Fonterra,2.53 B,New Zealand
+125, 🍴 Food,Arcos Dorados Holdings,2.40 B,Uruguay
+126, 🍴 Food,Leroy Seafood,2.35 B,Norway
+127, 🍴 Food,Cal-Maine Foods,2.34 B,USA
+128, 🍴 Food,Marel,2.32 B,Iceland
+129, 🍴 Food,Strauss Group,2.31 B,Israel
+130, 🍴 Food,Migros Ticaret A.S.,2.29 B,Turkey
+131, 🍴 Food,Tootsie Roll Industries,2.29 B,USA
+132, 🍴 Food,TreeHouse Foods,2.28 B,USA
+133, 🍴 Food,Maple Leaf Foods,2.24 B,Canada
+134, 🍴 Food,Sovos Brands,2.21 B,USA
+135, 🍴 Food,Krispy Kreme,2.19 B,USA
+136, 🍴 Food,Papa John's Pizza,2.18 B,USA
+137, 🍴 Food,SSP Group,2.08 B,UK
+138, 🍴 Food,Bloomin' Brands,2.07 B,USA
+139, 🍴 Food,Nongshim,1.88 B,S. Korea
+140, 🍴 Food,The a2 Milk Company,1.86 B,New Zealand
+141, 🍴 Food,Thai Union Group,1.78 B,Thailand
+142, 🍴 Food,The Cheesecake Factory,1.65 B,USA
+143, 🍴 Food,Tiger Brands,1.62 B,South Africa
+144, 🍴 Food,Brinker International,1.56 B,USA
+145, 🍴 Food,Fine Organics,1.55 B,India
+146, 🍴 Food,Austevoll Seafood,1.40 B,Norway
+147, 🍴 Food,Jack in the Box,1.39 B,USA
+148, 🍴 Food,AVI Limited,1.38 B,South Africa
+149, 🍴 Food,AmRest,1.36 B,Spain
+150, 🍴 Food,Samyang Foods,1.23 B,S. Korea
+151, 🍴 Food,Italmobiliare,1.16 B,Italy
+152, 🍴 Food,East India Distilleries Parry,1.14 B,India
+153, 🍴 Food,Fresh Del Monte Produce,1.13 B,Cayman Islands
+154, 🍴 Food,Corbion,1.10 B,Netherlands
+155, 🍴 Food,Dole PLC,1.10 B,Ireland
+156, 🍴 Food,Utz Brands,1.08 B,USA
+157, 🍴 Food,Brim hf.,1.07 B,Iceland
+158, 🍴 Food,Sweetgreen,1.07 B,USA
+159, 🍴 Food,PAR Technology,1.06 B,USA
+160, 🍴 Food,First Watch Restaurant,1.06 B,USA
+161, 🍴 Food,The Chefs' Warehouse,1.05 B,USA
+162, 🍴 Food,Ottogi,1.04 B,S. Korea
+163, 🍴 Food,Zad Holding Company,1.02 B,Qatar
+164, 🍴 Food,Hain Celestial,0.98 B,USA
+165, 🍴 Food,Agrana,0.94 B,Austria
+166, 🍴 Food,MTY Food Group,0.91 B,Canada
+167, 🍴 Food,Olo,0.83 B,USA
+168, 🍴 Food,Portillo's,0.82 B,USA
+169, 🍴 Food,Alamar Foods Company,0.80 B,S. Arabia
+170, 🍴 Food,Savencia Fromage & Dairy,0.79 B,France
+171, 🍴 Food,(DIA) Distribuidora Internacional de Alimentación,0.77 B,Spain
+172, 🍴 Food,SpartanNash,0.77 B,USA
+173, 🍴 Food,Sligro Food,0.76 B,Netherlands
+174, 🍴 Food,Café de Coral,0.74 B,Hong Kong
+175, 🍴 Food,B&G Foods,0.74 B,USA
+176, 🍴 Food,BJ's Restaurants,0.71 B,USA
+177, 🍴 Food,Grieg Seafood,0.70 B,Norway
+178, 🍴 Food,Kura Sushi USA,0.69 B,USA
+179, 🍴 Food,Dine Brands Global,0.69 B,USA
+180, 🍴 Food,Baladna,0.64 B,Qatar
+181, 🍴 Food,Mission Produce,0.63 B,USA
+182, 🍴 Food,The Restaurant Group plc,0.63 B,UK
+183, 🍴 Food,Chuy's,0.60 B,USA
+184, 🍴 Food,SunOpta,0.57 B,Canada
+185, 🍴 Food,Vital Farms,0.52 B,USA
+186, 🍴 Food,Denny's,0.51 B,USA
+187, 🍴 Food,Cloetta,0.49 B,Sweden
+188, 🍴 Food,Dingdong Maicai,0.45 B,China
+189, 🍴 Food,Biglari,0.45 B,USA
+190, 🍴 Food,Oatly,0.44 B,Sweden
+191, 🍴 Food,Beyond Meat,0.43 B,USA
+192, 🍴 Food,Arnarlax (Icelandic Salmon),0.42 B,Iceland
+193, 🍴 Food,Calavo Growers,0.42 B,USA
+194, 🍴 Food,Carrols Restaurant Group,0.41 B,USA
+195, 🍴 Food,Bafang Yunji,0.36 B,Taiwan
+196, 🍴 Food,Seneca Foods,0.34 B,USA
+197, 🍴 Food,Pizza Pizza,0.33 B,Canada
+198, 🍴 Food,Parag Milk Foods,0.30 B,India
+199, 🍴 Food,Barbeque Nation Hospitality,0.28 B,India
+200, 🍴 Food,El Pollo Loco,0.28 B,USA
+201, 🍴 Food,Restaurant Brands New Zealand,0.27 B,New Zealand
+202, 🍴 Food,TH International (Tims China),0.27 B,China
+203, 🍴 Food,Potbelly Corporation,0.27 B,USA
+204, 🍴 Food,Nathan's Famous,0.27 B,USA
+205, 🍴 Food,Kyokuyo,0.27 B,Japan
+206, 🍴 Food,Vidhi Specialty Food,0.26 B,India
+207, 🍴 Food,HF Foods Group,0.24 B,USA
+208, 🍴 Food,Lifeway Foods,0.22 B,USA
+209, 🍴 Food,Fiesta Restaurant Group,0.22 B,USA
+210, 🍴 Food,Dhampur Sugar Mills,0.21 B,India
+211, 🍴 Food,GEN Restaurant Group,0.21 B,USA
+212, 🍴 Food,Vadilal Industries,0.21 B,India
+213, 🍴 Food,Alto Ingredients,0.18 B,USA
+214, 🍴 Food,Fairwood Holdings,0.17 B,Hong Kong
+215, 🍴 Food,The ONE Group Hospitality,0.14 B,USA
+216, 🍴 Food,Whole Earth Brands,0.14 B,USA
+217, 🍴 Food,Red Robin,0.14 B,USA
+218, 🍴 Food,Noodles & Company,0.13 B,USA
+219, 🍴 Food,Moolec Science,0.11 B,Luxembourg
+220, 🍴 Food,Blue Apron Holdings,99.97 M,USA
+221, 🍴 Food,Atlantic Sapphire,97.43 M,Norway
+222, 🍴 Food,FAT Brands,97.31 M,USA
+223, 🍴 Food,YanGuFang International Group,96.32 M,China
+224, 🍴 Food,Village Farms International,92.32 M,Canada
+225, 🍴 Food,Apex Frozen Foods,81.17 M,India
+226, 🍴 Food,Real Good Food plc,61.76 M,UK
+227, 🍴 Food,Milkfood Limited,36.33 M,India
+228, 🍴 Food,Rave Restaurant Group,35.59 M,USA
+229, 🍴 Food,Local Bounti,31.96 M,USA
+230, 🍴 Food,Davis Commodities,26.52 M,Singapore
+231, 🍴 Food,AquaBounty,8.3 M,USA
+232, 🍴 Food,Missfresh,8.14 M,China
+233, 🍴 Food,Stryve Foods,7.7 M,USA
+234, 🍴 Food,Farmmi,7.47 M,China
+235, 🍴 Food,BranchOut Food,5.7 M,USA
+236, 🍴 Food,Edible Garden,2.62 M,USA
