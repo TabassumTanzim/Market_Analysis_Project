@@ -52,7 +52,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 4. Download chromedriver from [here](https://chromedriver.chromium.org)
-5. You can find the source codes from [selenium scrapper] (https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/selenium_scraper)
+5. You can find the source codes from [selenium scrapper](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/selenium_scraper)
 6. You will get the scraped data from [here](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/selenium_scraper/Scraped_Data)
 7. For data manipulation and concatenation of csv files refer to this [folder](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/data_manipulation)
 8. Finally you will get the resultant data in this [directory](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/final_data)
