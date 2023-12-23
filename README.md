@@ -7,11 +7,11 @@ Later tha data has been pre-processed,manipulated and molded (removing $/ B /M s
 2. Maximum revenue generated country wise - symbol map
 3. Revenue Vs earning of automakers and e-commerce category - scatter plot
 4. Market cap Vs P/E ratio of automakers and e-commerce category- scatter plot
-5. Manipultion ratio of China and Japan and their earnings
-6. #Employees impact on revenue - scatter plot
+5. Manipultion ratio of China and Japan and their earnings - symbol map
+6. No. of Employees impact on revenue - scatter plot
 7. Canada Vs Israel Market Cap - bar plot
 
-## You can visit the dashboard [here](https://public.tableau.com/views/Market_Analysis_2/MarketCapitalVSPERatio?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+## You can visit the dashboard [here](https://public.tableau.com/shared/GJ23YY7XN?:display_count=n&:origin=viz_share_link)
 
 ### Intersting findings from the dashboards: 
 1. Indian companies have the highest P/E ratio on Pharmaceutical catagory.<img width="1008" alt="image" src="https://github.com/TabassumTanzim/Market_Analysis_Project/assets/75922668/d23e7bdf-99d0-412d-b511-fb67b7d1ea9d">
@@ -52,7 +52,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 4. Download chromedriver from [here](https://chromedriver.chromium.org)
-5. Run selenium_scraper to scrap data
+5. You can find the source codes from [selenium scrapper] (https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/selenium_scraper)
 6. You will get the scraped data from [here](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/selenium_scraper/Scraped_Data)
 7. For data manipulation and concatenation of csv files refer to this [folder](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/data_manipulation)
 8. Finally you will get the resultant data in this [directory](https://github.com/TabassumTanzim/Market_Analysis_Project/tree/main/final_data)
