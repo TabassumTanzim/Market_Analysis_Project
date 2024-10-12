@@ -11,7 +11,7 @@ Later tha data has been pre-processed,manipulated and molded (removing $/ B /M s
 6. No. of Employees impact on revenue - scatter plot
 7. Canada Vs Israel Market Cap - bar plot
 
-## You can visit the dashboard [here] (https://public.tableau.com/app/profile/tabassum.tanzim/viz/Market_Analysis_2/Dashboard1)
+## You can visit the dashboard [here](https://public.tableau.com/app/profile/tabassum.tanzim/viz/Market_Analysis_2/Dashboard1)
 
 ### Intersting findings from the dashboards: 
 1. Indian companies have the highest P/E ratio on Pharmaceutical catagory.<img width="1008" alt="image" src="https://github.com/TabassumTanzim/Market_Analysis_Project/assets/75922668/d23e7bdf-99d0-412d-b511-fb67b7d1ea9d">
